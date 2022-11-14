@@ -1,5 +1,0 @@
-rocketchat_API
-slackclient
-pytz
-pandas
-slack_sdk

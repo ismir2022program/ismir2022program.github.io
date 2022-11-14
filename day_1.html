@@ -1,0 +1,525 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="static/images/ismir_tab_icon.png">
+
+    <link rel="stylesheet" href="static/css/main.css" />
+    <link rel="stylesheet" href="static/css/custom.css" />
+    <link rel="stylesheet" href="static/css/lazy_load.css" />
+    <link rel="stylesheet" href="static/css/typeahead.css" />
+    <link rel="stylesheet" href="static/css/poster.css" />
+    <link rel="stylesheet" href="static/css/music.css" />
+    <link rel="stylesheet" href="static/css/piece.css" />
+
+
+    <!-- <link rel="stylesheet" href="https://gitcdn.xyz/repo/wingkwong/jquery-chameleon/master/src/chameleon.min.css"> -->
+
+    <!-- External Javascript libs  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js" integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+      crossorigin="anonymous"
+    ></script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js" integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ=" crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js" integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww=" crossorigin="anonymous"></script>
+    <!-- <script src="static/js/chameleon.js"></script> -->
+
+
+    <!-- Library libs -->
+    <script src="static/js/typeahead.bundle.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=" crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+      href="static/css/Lato.css"
+      rel="stylesheet"
+    />
+    <link href="static/css/Exo.css" rel="stylesheet" />
+    <link
+      href="static/css/Cuprum.css"
+      rel="stylesheet"
+    />
+    <link
+      href="static/css/Ambiant.css"
+      rel="stylesheet"
+    />
+    <!-- <link href="static/css/chameleon.css" rel="stylesheet"/> -->
+    <title>ISMIR 2022: Day 1</title>
+    
+  </head>
+
+  <body>
+    <!-- NAV -->
+    
+    <!--
+    ('index.html, 'Home'),
+    ('special_meetings.html', 'Special Meetings'),
+    -->
+
+    <nav
+      class="navbar sticky-top navbar-expand-lg navbar-light mr-auto"
+      id="main-nav"
+    >
+      <div class="container">
+        <a class="navbar-brand" href="https://ismir2022.ismir.net/">
+          <img
+             class="logo" src="static/images/ismir_tab_icon.png"
+             height="auto"
+             width="200px"
+          />
+        </a>
+        
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+          class="collapse navbar-collapse text-right flex-grow-1"
+          id="navbarNav"
+        >
+          <ul class="navbar-nav ml-auto">
+            
+            <li class="nav-item active">
+              <a class="nav-link" href="calendar.html">Schedule</a>
+            </li>
+            
+            <li class="nav-item ">
+              <a class="nav-link" href="papers.html">Papers</a>
+            </li>
+            
+            <li class="nav-item ">
+              <a class="nav-link" href="music.html">Music</a>
+            </li>
+            
+            <li class="nav-item ">
+              <a class="nav-link" href="lbds.html">LBDs</a>
+            </li>
+            
+            <li class="nav-item ">
+              <a class="nav-link" href="industry.html">Industry</a>
+            </li>
+            
+            <li class="nav-item ">
+              <a class="nav-link" href="tutorials.html">Tutorials</a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </nav>
+    
+
+    
+    <!-- User Overrides -->
+     
+
+    <div class="container">
+      <!-- Tabs -->
+      <div class="tabs">
+        
+<ul class="nav nav-pills justify-content-center">
+  
+  <li class="nav-item">
+    <a
+      id="calendar-html"
+      class="nav-link text-muted"
+      href="calendar.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Calendar
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_1-html"
+      class="nav-link text-muted"
+      href="day_1.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Day 1
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_2-html"
+      class="nav-link text-muted"
+      href="day_2.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Day 2
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_3-html"
+      class="nav-link text-muted"
+      href="day_3.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Day 3
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_4-html"
+      class="nav-link text-muted"
+      href="day_4.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Day 4
+    </a>
+  </li>
+  
+</ul>
+
+      </div>
+      <!-- Content -->
+      <div class="content">
+        
+
+  
+
+<div id="day">
+  <!-- Speakers -->
+  
+    <h2 class="day-title" id=open>Opening</h2>
+    <div class="cards row p-4">
+  
+  
+  <div class="col-12 p-3" style="box-sizing: border-box;">
+    <div class="card" style="display: block; overflow: hidden; width: 100%;">
+      <div
+        class="card-header text-center"
+        style="min-height: 200px; width: 100%;"
+      >
+        
+          <a id="Op" href="#">
+            <h3 class="card-title main-title m-3 text-left">Opening Session</h3>
+          </a>
+        
+        <div class="m-3 text-left card-subtitle text-muted">
+          ISMIR 2022 chairs
+        </div>
+        <div class="m-3 text-left card-subtitle" style="display:flex; align-content: center;">
+          2022-12-05 | 03:30 (Etc/UTC)
+        </div>
+        <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+          <p>Welcome to ISMIR 2022! Meet your hosts and hear about what is happening at this year's very special conference.</p>
+        </div>
+        <div class="m-3 text-left">
+        
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+  
+
+  
+
+  
+
+  
+    <h2 class="day-title" id=pos>Poster Sessions</h2>
+    <div class="cards row p-4">
+  
+  
+  <div class="col-12 p-3" style="box-sizing: border-box;">
+    <div class="card" style="display: block; overflow: hidden; width: 100%;">
+      <div
+        class="card-header text-center"
+        style="min-height: 200px; width: 100%;"
+      >
+        
+          <a id="Po" href="#">
+            <h3 class="card-title main-title m-3 text-left">Posters Session 1</h3>
+          </a>
+        
+        <div class="m-3 text-left card-subtitle text-muted">
+          Scientific Program Chairs
+        </div>
+        <div class="m-3 text-left card-subtitle" style="display:flex; align-content: center;">
+          2022-12-05 | 04:30 (Etc/UTC)
+        </div>
+        <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+          <p>Browse the active poster session's channels, joining calls to ask questions and discuss research with presenters, and leave comments in the channel for asynchronous chatting later.</p>
+        </div>
+        <div class="m-3 text-left">
+        
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="col-12 p-3" style="box-sizing: border-box;">
+    <div class="card" style="display: block; overflow: hidden; width: 100%;">
+      <div
+        class="card-header text-center"
+        style="min-height: 200px; width: 100%;"
+      >
+        
+          <a id="Po" href="#">
+            <h3 class="card-title main-title m-3 text-left">Posters Session 2</h3>
+          </a>
+        
+        <div class="m-3 text-left card-subtitle text-muted">
+          Scientific Program Chairs
+        </div>
+        <div class="m-3 text-left card-subtitle" style="display:flex; align-content: center;">
+          2022-12-05 | 08:00 (Etc/UTC)
+        </div>
+        <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+          <p>Browse the active poster session's channels, joining calls to ask questions and discuss research with presenters, and leave comments in the channel for asynchronous chatting later.</p>
+        </div>
+        <div class="m-3 text-left">
+        
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+  
+
+  
+
+  
+
+  
+
+  
+  <h2 class="day-title" id=wimir>WiMIR Meetups</h2>
+  <div class="cards row p-4">
+  
+  
+  <div class="col-md-6 col-sm-12 p-3" style="box-sizing: border-box;">
+    <div class="card" style="display: block; overflow: hidden; width: 100%;">
+      <div
+        class="card-header text-center"
+        style="min-height: 200px; width: 100%;"
+      >
+        
+          <a id="WiMIR_Session" href="#">
+            <h3 class="card-title main-title m-3 text-left">WiMIR Session</h3>
+          </a>
+        
+        <div class="m-3 text-left card-subtitle text-muted">
+          
+        </div>
+        <div class="m-3 text-left card-subtitle">
+          2022-12-05 | 10:30 (Etc/UTC)
+        </div>
+        <div class="m-3 text-left card-subtitle">
+          <p>TBD</p>
+        </div>
+        <div class="m-3 text-left">
+        
+        
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div>
+  
+
+  
+
+  
+    <h2 class="day-title" id=social>Social Events</h2>
+    <div class="cards row p-4">
+  
+  
+  <div class="col-12 p-3" style="box-sizing: border-box;">
+    <div class="card" style="display: block; overflow: hidden; width: 100%;">
+      <div
+        class="card-header text-center"
+        style="min-height: 200px; width: 100%;"
+      >
+        
+          <a id="Dh" href="#">
+            <h3 class="card-title main-title m-3 text-left">Dhaatu Puppet Show</h3>
+          </a>
+        
+        <div class="m-3 text-left card-subtitle text-muted">
+          Team Dhaatu
+        </div>
+        <div class="m-3 text-left card-subtitle" style="display:flex; align-content: center;">
+          2022-12-05 | 12:00 (Etc/UTC)
+        </div>
+        <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+          <p>A performance of Kalidasa's play Mālavikāgnimitram by Dhaatu Puppet Theater will be presented as a part of the welcome reception at the Satish Dhawan Auditorium, IISc, Bengaluru. Additional details about the performance can be found here: https://ismir2022.ismir.net/program/social/dhaatu/</p>
+        </div>
+        <div class="m-3 text-left">
+        
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class="col-12 p-3" style="box-sizing: border-box;">
+    <div class="card" style="display: block; overflow: hidden; width: 100%;">
+      <div
+        class="card-header text-center"
+        style="min-height: 200px; width: 100%;"
+      >
+        
+          <a id="We" href="#">
+            <h3 class="card-title main-title m-3 text-left">Welcome Reception</h3>
+          </a>
+        
+        <div class="m-3 text-left card-subtitle text-muted">
+          ISMIR 2022 committee
+        </div>
+        <div class="m-3 text-left card-subtitle" style="display:flex; align-content: center;">
+          2022-12-05 | 13:30 (Etc/UTC)
+        </div>
+        <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+          <p>Given that the conference has returned to a hybrid format after two virtual-only editions, the welcome reception on the Main Guest House lawns is planned to encourage in-person interactions among the seasoned and new ISMIR participants after a brief (long?) hiatus due to the pandemic. </p>
+        </div>
+        <div class="m-3 text-left">
+        
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+  
+
+  
+    <h2 class="day-title" id=vmeet>Virtual Special Sessions</h2>
+    <div class="cards row p-4">
+  
+  
+  <div class="col-12 p-3" style="box-sizing: border-box;">
+    <div class="card" style="display: block; overflow: hidden; width: 100%;">
+      <div
+        class="card-header text-center"
+        style="min-height: 200px; width: 100%;"
+      >
+        
+          <a id="Vi" href="#">
+            <h3 class="card-title main-title m-3 text-left">Virtual Special Session 1: Ethics/Code of Conduct for ISMIR</h3>
+          </a>
+        
+        <div class="m-3 text-left card-subtitle text-muted">
+          Andre Holzapfel, Fabio Morreale, Bob Sturm
+        </div>
+        <div class="m-3 text-left card-subtitle" style="display:flex; align-content: center;">
+          2022-12-05 | 16:30 (Etc/UTC)
+        </div>
+        <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+          <p>This special session will discuss an action plan towards a code of ethics for the ISMIR community. A code of ethics represents a specific list of values and behaviors that a research community either endorses or objects to. Codes of ethics have been established on the general level of engineering associations (IEEE, ACM), but also more specifically by research communities such as NIME. Whereas ISMIR has seen a series of tutorials on ethics and values, and guidelines have been proposed (https://ismir.net/resources/ethics/), these attempts have not yet manifested into a official code of ethics. Does ISMIR need such a code? What is the function of the code? How can we establish and maintain such a code? What are the main ethical concerns regarding ISMIR research and practice?</p>
+        </div>
+        <div class="m-3 text-left">
+        
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+</div>
+  
+
+</div>
+
+<script src="static/js/schedule_nav.js"></script>
+<script src="static/js/anchor_offset.js"></script>
+
+
+      </div>
+    </div>
+    
+    
+
+    <!-- Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-");
+    </script>
+
+    <!-- Footer -->
+    <footer class="footer bg-light p-4">
+      <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2022 ISMIR Organization Committee</p>
+      </div>
+    </footer>
+
+    <!-- Code for hash tags -->
+    <script type="text/javascript">
+      $(document).ready(function () {
+        if (location.hash !== "") {
+          $('a[href="' + location.hash + '"]').tab("show");
+        }
+
+        $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+          var hash = $(e.target).attr("href");
+          if (hash.substr(0, 1) == "#") {
+            var position = $(window).scrollTop();
+            location.replace("#" + hash.substr(1));
+            $(window).scrollTop(position);
+          }
+        });
+      });
+    </script>
+    <script src="static/js/lazy_load.js"></script>
+    
+  </body>
+</html>
