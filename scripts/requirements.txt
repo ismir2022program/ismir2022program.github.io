@@ -2,3 +2,4 @@ transformers
 sklearn
 torch==1.4.0
 ics
+icalendar
