@@ -11,7 +11,7 @@ const filters = {
 const updateCards = (papers) => {
 
     const all_mounted_cards = d3.select('.music-cards')
-      .selectAll('.myCard', openreview => openreview.UID)
+      .selectAll('.myCard', openreview => openreview.uid)
       .data(papers, d => d.number)
       .join('div')
       .attr('class', 'myCard col-12 col-sm-6 col-md-4')
@@ -135,37 +135,13 @@ d3.selectAll('.filter_option input').on('click', function () {
 })
 
 const card_html = openreview => {
-    let author = openreview.first_name + ' ' + openreview.last_name;
-    if (openreview.UID == 393) {
-      author = openreview.first_name
-      // return `
-      // <div class="music-card m-4">
-      // <div class="image-wrapper mb-3">
-      //   <img src="static/images/music_headshots/${openreview.UID}.jpg"/>
-      // </div>
-      // <h3><a href="music_${openreview.UID}.html">${openreview.title}</a></h3>
-      // <h4>${openreview.first_name}</h4>
-      // </div>`
-    } else if (openreview.UID == 392) {
-      author = openreview.last_name.substr(openreview.last_name.length - 41)
-      // return `
-      // <div class="music-card m-4">
-      // <div class="image-wrapper mb-3">
-      //   <img src="static/images/music_headshots/${openreview.UID}.jpg"/>
-      // </div>
-      // <h3><a href="music_${openreview.UID}.html">${openreview.title}</a></h3>
-      // <h4>${openreview.last_name.substr(openreview.last_name.length - 41)}</h4>
-      // </div>`
-    } else if (openreview.authors) {
-      author = openreview.authors.split('; ').join(' | ');
-
-    }
+    let author = openreview.authors
     return `
       <div class="music-card m-4">
-      <a href="music_${openreview.UID}.html" class="image-wrapper mb-3">
-        <img src="static/images/music_headshots/${openreview.UID}.jpg"/>
+      <a href="music_${openreview.uid}.html" class="image-wrapper mb-3">
+        <img src="static/images/music_headshots/${openreview.uid}.jpg"/>
       </a>
-      <h3><a href="music_${openreview.UID}.html">${openreview.title}</a></h3>
+      <h3><a href="music_${openreview.uid}.html">${openreview.title}</a></h3>
       <h4>${author}</h4>
       </div>`
 }

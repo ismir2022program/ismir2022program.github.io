@@ -303,8 +303,8 @@
     "calendarId": "mus",
     "category": "time",
     "end": "2022-12-06T18:30:00+05:30",
-    "link": "music.html?session=Program",
-    "location": "music.html?session=Program",
+    "link": "music.html",
+    "location": "music.html",
     "scrollKey": null,
     "start": "2022-12-06T17:00:00+05:30",
     "title": "ISMIR Music Program"
