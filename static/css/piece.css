@@ -15,6 +15,12 @@
 
 .music-page-wrapper .page-header .image-wrapper, .speaker-page-wrapper .page-header .image-wrapper {
   max-width: 260px;
+  position: relative;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 .music-page-wrapper .page-header .details, .speaker-page-wrapper .page-header .details {
@@ -35,6 +41,13 @@
     width: 100%;
     max-width: none;
     text-align: center;
+    position: relative;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
   }
   .speaker-page-wrapper .page-header .image-wrapper img, .music-page-wrapper .page-header .image-wrapper img {
     max-width: 80%;
