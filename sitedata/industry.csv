@@ -1,4 +1,21 @@
-uid,title,session,company,channel_name,channel_url,logo_name
-dolby,Waveform-based deep learning research at Dolby,8,Dolby,industry-8-dolby,https://ismir2020.slack.com/archives/C01CGP0AGR0,Dolby.png
-sony,Sony x AI: Audio Source Separation & Sony CSL Music Team,8,Sony,industry-8-sony,https://ismir2020.slack.com/archives/C01CGP1DG9Y,SonyCSL.png
-steinberg,Virtual Studio Technology,7,Steinberg,industry-7-steinberg,https://ismir2020.slack.com/archives/C01CVC1MJQ1,Steinberg.png
+uid,title,session,abstract,pdf,video,company,channel_name,channel_url,external_web_link
+spotify,Spotify,Platinum,,,,Spotify,,,https://research.atspotify.com/
+adobe,Audio AI for Human Centered Creativity,Gold,,adobe.pdf,,Adobe,,,https://www.adobe.com/
+deezer,Deezer Research: Exploring music at scale,Gold,,deezer.pdf,,Deezer,,,https://www.deezer.com/soon
+utopia,Utopia Music,Gold,,,,Utopia Music,,,https://utopiamusic.com/
+sirius,MIR and Music Recommendation Research at SiriusXM / Pandora,Gold,,sirius.pdf,https://www.youtube.com/watch?v=k5_HXG81vUo,SiriusXM/Pandora,,,https://www.siriusxm.com/pandora
+smule,Smule,Gold,,,,Smule,,,https://www.smule.com/
+moises,Moises,Platinum,,,,Moises,,,https://moises.ai/
+yamaha,Enhancing Music Performance Experience through MIR,Gold,,,https://drive.google.com/file/d/1uaPyxnHHsF2DCC65q238-DXXCHQd0HXW/view?usp=sharing,Yamaha,,,https://www.yamaha.com/
+chordify,Chordify,Gold,,,,Chordify,,,https://chordify.net/
+steinberg,Steinberg,Silver,"Steinberg Media Technologies GmbH
+
+Makers of VST, ASIO, Cubase, WaveLab and much more.
+
+Steinberg has been providing award-winning, technologically advanced music and media production products for musicians and producers of music, video and film since 1984. Today, Steinberg is one of the world's largest manufacturers of music and audio software and hardware, with millions of users worldwide. The Steinberg range of products has long since found world renown in all aspects of modern digital audio processing. They form the backbone of facilities specializing in music composition and production, mastering, restoration, sound design and audio post for the music, game and film industries.
+
+Since January 2005, Steinberg is a wholly owned subsidiary of Yamaha Corporation, the world's leading manufacturer of audio hardware.
+
+
+For additional information, visit https://www.steinberg.net or contact us at press@steinberg.net",,https://www.youtube.com/watch?v=nc8I36RI4Y4&feature=emb_title,Steinberg,,,https://www.steinberg.net/
+soundwide,Soundwide,Silver,,,,iZotope,,,https://www.izotope.com/

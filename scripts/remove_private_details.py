@@ -23,8 +23,7 @@ def remove_author_contacts(in_dir='../ISMIR-2022-Miniconf-Data/sitedata/', out_d
 
     print('Removing author details from industry.csv ')
     f = pd.read_csv(os.path.join(in_dir, 'industry.csv'))
-    # f.drop('author_emails', axis=1, inplace=True)
-    # f.drop('primary_email', axis=1, inplace=True)
+    f.drop('registered_emails', axis=1, inplace=True)
     f.to_csv(os.path.join(out_dir, 'industry.csv'), index=False)
 
     print('Removing author details from music.csv ')

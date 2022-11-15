@@ -4,7 +4,7 @@
 {% block head %}
 
 {{ super() }}
-<meta name="citation_title" content="{{industry.UID}}" />
+<meta name="citation_title" content="{{industry.uid}}" />
 
 {% endblock %}
 
@@ -22,16 +22,26 @@
     <div class="btn-group ml-3 mb-3">
       <a href="{{industry.channel_url}}" class="btn btn-primary">{% include 'slack_svg.html' %} {{industry.channel_name}}</a>
     </div>
-    {% if industry.web_link %}
+    {% if industry.external_web_link %}
     <div class="btn-group ml-3 mb-3">
-      <a href="{{industry.web_link}}" class="btn btn-outline-primary">Website</a>
+      <a href="{{industry.external_web_link}}" class="btn btn-outline-primary">Website</a>
     </div>
     {% endif %}
   </div>
+    {% if industry.video %}
+  <div class="industry-content-wrapper">
+    <button class="fullscreen-button btn btn-primary mb-3">Video</button>
+    <iframe class="fullscreen-iframe" href="{{industry.pdf}}#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
+  </div>
+  {% endif %}
+
+
+  {% if industry.pdf %}
   <div class="industry-content-wrapper">
     <button class="fullscreen-button btn btn-primary mb-3">Fullscreen</button>
-    <iframe class="fullscreen-iframe" src="static/industry/poster-{{industry.UID}}.pdf#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
+    <iframe class="fullscreen-iframe" src="static/industry/{{industry.pdf}}#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
   </div>
+  {% endif %}
 
 </div>
 
