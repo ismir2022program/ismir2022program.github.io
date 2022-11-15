@@ -85,7 +85,7 @@ UID:24
 LOCATION:papers.html?session=2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#wimir WiMIR Session
+SUMMARY:#wimir WiMIR plenary session: Music for Health and Well-being
 DTSTART;TZID=Asia/Kolkata:20221205T160000
 DTEND;TZID=Asia/Kolkata:20221205T173000
 DTSTAMP:20221203T180700Z
