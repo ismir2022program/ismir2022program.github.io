@@ -13,11 +13,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> multimodality",
-        "MIR fundamentals and methodology ->  lyrics and other textual data",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " MIR fundamentals and methodology -> web mining, and natural language processing"
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        " MIR fundamentals and methodology -> multimodality",
+        "MIR fundamentals and methodology ->  lyrics and other textual data"
       ],
       "pdf_url": "",
       "recs": [],
@@ -72,11 +72,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music synthesis and transformation",
-        "MIR tasks -> music generation",
         " Musical features and properties -> musical style and genre",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR tasks -> music synthesis and transformation",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music generation",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -106,12 +106,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> music transcription and annotation",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR fundamentals and methodology -> music signal processing",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " MIR fundamentals and methodology -> web mining, and natural language processing"
+        "MIR tasks -> music transcription and annotation",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -166,8 +166,8 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> pattern matching and detection"
+        "MIR tasks -> pattern matching and detection",
+        "MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -194,12 +194,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        " Musical features and properties -> musical affect, emotion and mood",
-        " MIR fundamentals and methodology -> music signal processing",
         " Musical features and properties -> musical style and genre",
+        "Domain knowledge -> representations of music",
+        " Musical features and properties -> musical affect, emotion and mood",
+        " Musical features and properties -> representations of music",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Domain knowledge -> representations of music"
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -232,11 +232,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music synthesis and transformation",
         " MIR tasks -> music generation",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR tasks -> music synthesis and transformation",
-        " MIR fundamentals and methodology -> music signal processing",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -291,10 +291,10 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
-        " Musical features and properties -> melody and motives",
         " Musical features and properties -> representations of music",
+        " Musical features and properties -> melody and motives",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
+        " Musical features and properties -> rhythm, beat, tempo",
         "Evaluation, datasets, and reproducibility -> evaluation metrics"
       ],
       "pdf_url": "",
@@ -326,12 +326,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR tasks -> music generation",
         " Musical features and properties -> musical affect, emotion and mood",
+        " MIR tasks -> music generation",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "Applications -> gaming, augmented/virtual reality",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -358,10 +358,10 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> melody and motives",
+        "Domain knowledge -> computational music theory and musicology",
         "Domain knowledge -> representations of music",
-        " Musical features and properties -> structure, segmentation, and form",
-        "Domain knowledge -> computational music theory and musicology"
+        " Musical features and properties -> melody and motives",
+        " Musical features and properties -> structure, segmentation, and form"
       ],
       "pdf_url": "",
       "recs": [],
@@ -388,12 +388,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "Applications -> music recommendation and playlist generation",
         " Evaluation, datasets, and reproducibility -> MIR tasks",
-        "Musical features and properties -> representations of music",
         " MIR tasks -> similarity metrics",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR tasks -> automatic classification",
+        "Musical features and properties -> representations of music",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> music recommendation and playlist generation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -422,11 +422,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        "MIR tasks -> music generation",
-        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Domain knowledge -> representations of music",
-        " Musical features and properties -> structure, segmentation, and form"
+        " Musical features and properties -> representations of music",
+        " Musical features and properties -> structure, segmentation, and form",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music generation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -456,8 +456,8 @@
       "keywords": [
         "Domain knowledge -> machine learning/artificial intelligence for music",
         "MIR tasks -> music generation",
-        " Musical features and properties -> representations of music",
-        " MIR tasks -> music synthesis and transformation"
+        " MIR tasks -> music synthesis and transformation",
+        " Musical features and properties -> representations of music"
       ],
       "pdf_url": "",
       "recs": [],
@@ -517,11 +517,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        " Human-centered MIR -> music interfaces and services",
-        "Applications -> music composition",
         " MIR tasks -> similarity metrics",
-        "Human-centered MIR"
+        " Musical features and properties -> representations of music",
+        "Applications -> music composition",
+        "Human-centered MIR",
+        " Human-centered MIR -> music interfaces and services"
       ],
       "pdf_url": "",
       "recs": [],
@@ -550,10 +550,10 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Domain knowledge -> cognitive MIR",
+        " Musical features and properties -> musical affect, emotion and mood",
         " Human-centered MIR -> personalization",
-        "Applications -> music recommendation and playlist generation",
-        " Musical features and properties -> musical affect, emotion and mood"
+        "Domain knowledge -> cognitive MIR",
+        "Applications -> music recommendation and playlist generation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -581,10 +581,10 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
-        "Musical features and properties",
         "Applications -> music retrieval systems",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "Musical features and properties",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "pdf_url": "",
       "recs": [],
@@ -642,12 +642,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Human-centered MIR -> user behavior analysis and mining",
-        " Human-centered MIR -> personalization",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Musical features and properties -> musical affect, emotion and mood",
         " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
-        "MIR tasks -> automatic classification"
+        "MIR tasks -> automatic classification",
+        " Human-centered MIR -> personalization"
       ],
       "pdf_url": "",
       "recs": [],
@@ -675,9 +675,9 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "MIR tasks -> music generation"
+        "MIR tasks -> music generation",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "pdf_url": "",
       "recs": [],
@@ -706,12 +706,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> rhythm, beat, tempo",
-        "Musical features and properties -> structure, segmentation, and form",
-        " MIR tasks -> pattern matching and detection",
         " Musical features and properties",
-        "Domain knowledge -> computational music theory and musicology"
+        "Musical features and properties -> structure, segmentation, and form",
+        "Domain knowledge -> computational music theory and musicology",
+        " MIR tasks -> pattern matching and detection",
+        " Musical features and properties -> rhythm, beat, tempo",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -739,11 +739,11 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "MIR fundamentals and methodology -> music signal processing",
-        " Musical features and properties -> harmony, chords and tonality",
         " Musical features and properties -> musical style and genre",
-        "Musical features and properties"
+        "MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification",
+        "Musical features and properties",
+        " Musical features and properties -> harmony, chords and tonality"
       ],
       "pdf_url": "",
       "recs": [],
@@ -775,10 +775,10 @@
       "day": "1",
       "keywords": [
         " MIR tasks -> music synthesis and transformation",
-        "Applications -> performance, and production",
         "MIR fundamentals and methodology -> music signal processing",
-        " MIR tasks -> sound source separation",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> performance, and production",
+        " MIR tasks -> sound source separation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -806,9 +806,9 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         "MIR tasks -> optical music recognition",
-        " MIR tasks -> music transcription and annotation",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR tasks -> music transcription and annotation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -899,12 +899,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR tasks -> music generation",
-        " MIR tasks -> music synthesis and transformation",
-        "Evaluation, datasets, and reproducibility -> evaluation methodology",
         " Evaluation, datasets, and reproducibility -> MIR tasks",
-        " Human-centered MIR -> music interfaces and services",
-        "MIR tasks"
+        " MIR tasks -> music synthesis and transformation",
+        " MIR tasks -> music generation",
+        "Evaluation, datasets, and reproducibility -> evaluation methodology",
+        "MIR tasks",
+        " Human-centered MIR -> music interfaces and services"
       ],
       "pdf_url": "",
       "recs": [],
@@ -934,12 +934,12 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "Applications -> digital libraries and archives",
-        " Applications -> music retrieval systems",
-        "Musical features and properties -> representations of music",
         " Domain knowledge -> representations of music",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Applications -> music retrieval systems",
+        " MIR tasks -> automatic classification",
+        "Musical features and properties -> representations of music",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> digital libraries and archives"
       ],
       "pdf_url": "",
       "recs": [],
@@ -998,8 +998,8 @@
       "keywords": [
         "MIR fundamentals and methodology -> music signal processing",
         "Domain knowledge -> representations of music",
-        " MIR tasks -> indexing and querying",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " MIR tasks -> indexing and querying"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1029,9 +1029,9 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Domain knowledge -> computational ethnomusicology",
-        " MIR tasks -> automatic classification"
+        " MIR tasks -> automatic classification",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1062,9 +1062,9 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Applications -> music recommendation and playlist generation",
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
         "Human-centered MIR -> user behavior analysis and mining",
-        " Philosophical and ethical discussions -> legal and societal aspects of MIR"
+        "Applications -> music recommendation and playlist generation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1098,8 +1098,8 @@
       "keywords": [
         "Applications -> digital libraries and archives",
         " Domain knowledge -> computational ethnomusicology",
-        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
-        "Domain knowledge -> computational music theory and musicology"
+        "Domain knowledge -> computational music theory and musicology",
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1128,12 +1128,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " Musical features and properties -> representations of music",
-        " Domain knowledge -> computational music theory and musicology",
         " MIR tasks -> similarity metrics",
-        "Domain knowledge -> computational ethnomusicology"
+        " Domain knowledge -> computational music theory and musicology",
+        " Musical features and properties -> representations of music",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Domain knowledge -> computational ethnomusicology",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1165,11 +1165,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        "MIR tasks -> music transcription and annotation",
-        " Musical features and properties -> expression and performative aspects of music",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties -> expression and performative aspects of music",
+        " Musical features and properties -> representations of music",
         " MIR tasks",
+        "MIR tasks -> music transcription and annotation",
         "Evaluation, datasets, and reproducibility -> MIR tasks"
       ],
       "pdf_url": "",
@@ -1197,10 +1197,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> melody and motives",
         "Domain knowledge -> computational ethnomusicology",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Domain knowledge -> computational music theory and musicology"
+        "Domain knowledge -> computational music theory and musicology",
+        " Musical features and properties -> melody and motives"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1226,12 +1226,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "Philosophical and ethical discussions -> legal and societal aspects of MIR",
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
         " Musical features and properties -> musical style and genre",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " Evaluation, datasets, and reproducibility -> evaluation metrics"
+        " MIR tasks -> automatic classification",
+        " Evaluation, datasets, and reproducibility -> evaluation metrics",
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        "Philosophical and ethical discussions -> legal and societal aspects of MIR"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1260,10 +1260,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> melody and motives",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         " Domain knowledge -> computational music theory and musicology",
+        " Musical features and properties -> melody and motives",
         "MIR tasks -> pattern matching and detection",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "Domain knowledge -> computational ethnomusicology"
       ],
       "pdf_url": "",
@@ -1296,10 +1296,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Musical features and properties",
         "Domain knowledge -> computational ethnomusicology",
-        "MIR tasks -> automatic classification",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties",
+        "MIR tasks -> automatic classification"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1327,10 +1327,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> evaluation metrics",
-        "MIR tasks -> music transcription and annotation",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "Applications -> music heritage and sustainability",
-        " Musical features and properties -> timbre, instrumentation, and singing voice"
+        " Evaluation, datasets, and reproducibility -> evaluation metrics",
+        "MIR tasks -> music transcription and annotation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1359,11 +1359,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Human-centered MIR -> personalization",
-        " Domain knowledge -> computational ethnomusicology",
         "Musical features and properties -> rhythm, beat, tempo",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         "Applications -> music heritage and sustainability",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Domain knowledge -> computational ethnomusicology",
+        " Human-centered MIR -> personalization"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1391,10 +1391,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Philosophical and ethical discussions -> philosophical and methodological foundations",
+        " Evaluation, datasets, and reproducibility -> MIR tasks",
         " MIR tasks -> automatic classification",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " Evaluation, datasets, and reproducibility -> MIR tasks",
+        " Philosophical and ethical discussions -> philosophical and methodological foundations",
         "Domain knowledge -> computational ethnomusicology"
       ],
       "pdf_url": "",
@@ -1425,8 +1425,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Domain knowledge -> computational ethnomusicology"
+        "Domain knowledge -> computational ethnomusicology",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1454,12 +1454,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        " Domain knowledge -> computational music theory and musicology",
-        "Applications -> performance, and production",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Musical features and properties -> expression and performative aspects of music"
+        " Domain knowledge -> computational music theory and musicology",
+        " MIR tasks -> automatic classification",
+        "Musical features and properties -> expression and performative aspects of music",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "Applications -> performance, and production"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1488,10 +1488,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> rhythm, beat, tempo",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "MIR tasks -> music transcription and annotation"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "MIR tasks -> music transcription and annotation",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1520,11 +1520,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> music generation",
-        " MIR fundamentals and methodology -> multimodality",
         " Musical features and properties -> expression and performative aspects of music",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music generation",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR fundamentals and methodology -> multimodality"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1555,11 +1555,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> musical affect, emotion and mood",
         " MIR tasks -> music synthesis and transformation",
-        "Applications -> performance, and production",
+        " Musical features and properties -> musical affect, emotion and mood",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR fundamentals and methodology -> music signal processing",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "Applications -> performance, and production"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1586,8 +1586,8 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "MIR tasks -> music synthesis and transformation",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "MIR tasks -> music synthesis and transformation",
         "Musical features and properties -> musical style and genre"
       ],
       "pdf_url": "",
@@ -1616,12 +1616,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        " Musical features and properties -> musical affect, emotion and mood",
-        " MIR fundamentals and methodology -> music signal processing",
         " Musical features and properties -> musical style and genre",
         "Domain knowledge -> representations of music",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> musical affect, emotion and mood",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR tasks -> automatic classification",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1649,12 +1649,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " Human-centered MIR -> personalization",
         " Human-centered MIR -> user behavior analysis and mining",
+        "Applications -> music retrieval systems",
+        " Evaluation, datasets, and reproducibility -> evaluation metrics",
         "Applications -> music recommendation and playlist generation",
         " Evaluation, datasets, and reproducibility -> evaluation methodology",
-        "Applications -> music retrieval systems",
-        " Evaluation, datasets, and reproducibility -> evaluation metrics"
+        " Human-centered MIR -> personalization"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1685,12 +1685,12 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Applications -> performance, and production",
-        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
         " Musical features and properties -> expression and performative aspects of music",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Applications -> performance, and production"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1754,10 +1754,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " MIR tasks -> music synthesis and transformation",
-        "Evaluation, datasets, and reproducibility -> evaluation metrics",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "Evaluation, datasets, and reproducibility -> evaluation metrics"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1784,11 +1784,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> automatic classification",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification",
         " Musical features and properties -> harmony, chords and tonality",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "MIR fundamentals and methodology -> multimodality"
       ],
       "pdf_url": "",
@@ -1821,10 +1821,10 @@
       "keywords": [
         " Evaluation, datasets, and reproducibility -> MIR tasks",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR fundamentals and methodology -> music signal processing",
         "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music transcription and annotation",
         "Applications -> music training and education",
-        " MIR tasks -> music transcription and annotation"
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1852,11 +1852,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "MIR tasks -> music transcription and annotation",
         " Evaluation, datasets, and reproducibility -> MIR tasks",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Domain knowledge -> representations of music",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " Domain knowledge -> representations of music"
+        "MIR tasks -> music transcription and annotation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1883,11 +1883,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        "Applications -> performance, and production",
-        "MIR tasks -> sound source separation",
-        " Evaluation, datasets, and reproducibility -> evaluation metrics",
         " Musical features and properties -> structure, segmentation, and form",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Evaluation, datasets, and reproducibility -> evaluation metrics",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> sound source separation",
+        "Applications -> performance, and production"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1915,11 +1915,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> optical music recognition",
-        "Applications -> digital libraries and archives",
         " Applications -> music heritage and sustainability",
-        "Domain knowledge -> computational music theory and musicology"
+        " MIR tasks -> optical music recognition",
+        "Domain knowledge -> computational music theory and musicology",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Applications -> digital libraries and archives"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1947,11 +1947,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Musical features and properties",
+        "Domain knowledge -> computational music theory and musicology",
+        " MIR fundamentals and methodology -> symbolic music processing",
         " MIR tasks -> music transcription and annotation",
-        "Domain knowledge -> computational music theory and musicology"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -1979,10 +1979,10 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
+        "Applications -> music training and education",
         " MIR fundamentals and methodology -> music signal processing",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " MIR tasks -> music transcription and annotation",
-        "Applications -> music training and education"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2009,11 +2009,11 @@
       "channel_url": "",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
         " Musical features and properties -> expression and performative aspects of music",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Evaluation, datasets, and reproducibility -> evaluation metrics",
-        " MIR tasks -> music transcription and annotation"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> music transcription and annotation",
+        "Evaluation, datasets, and reproducibility -> evaluation metrics"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2042,11 +2042,11 @@
       "day": "3",
       "keywords": [
         " Musical features and properties -> musical affect, emotion and mood",
-        " MIR fundamentals and methodology -> multimodality",
-        " Human-centered MIR -> human-computer interaction",
         "Applications -> music retrieval systems",
+        "Applications -> music videos, multimodal music systems",
+        " Human-centered MIR -> human-computer interaction",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
-        "Applications -> music videos, multimodal music systems"
+        " MIR fundamentals and methodology -> multimodality"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2073,12 +2073,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
         " MIR tasks -> music synthesis and transformation",
         "MIR tasks -> music generation",
-        " Human-centered MIR -> human-computer interaction",
         "Applications -> music composition",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> rhythm, beat, tempo",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " Human-centered MIR -> human-computer interaction"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2110,12 +2110,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
+        " Domain knowledge -> representations of music",
         " Musical features and properties -> representations of music",
         "MIR tasks -> music generation",
         "Applications -> music composition",
-        " Domain knowledge -> representations of music",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2146,12 +2146,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        " MIR fundamentals and methodology -> music signal processing",
-        "MIR fundamentals and methodology -> multimodality",
-        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
         " MIR tasks -> indexing and querying",
-        " MIR fundamentals and methodology -> web mining, and natural language processing"
+        " MIR tasks -> automatic classification",
+        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        "MIR fundamentals and methodology -> multimodality",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2182,10 +2182,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> structure, segmentation, and form",
-        "Applications -> music composition"
+        " MIR tasks -> music generation",
+        "Applications -> music composition",
+        " Musical features and properties -> structure, segmentation, and form"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2213,8 +2213,8 @@
       "day": "3",
       "keywords": [
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "MIR tasks -> sound source separation",
-        "Evaluation, datasets, and reproducibility -> MIR tasks"
+        "Evaluation, datasets, and reproducibility -> MIR tasks",
+        "MIR tasks -> sound source separation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2242,10 +2242,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
         "Applications -> music and health, well-being and therapy",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
-        " Philosophical and ethical discussions -> legal and societal aspects of MIR"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2308,9 +2308,9 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
         "MIR fundamentals and methodology -> music signal processing",
-        "MIR tasks -> music synthesis and transformation"
+        "MIR tasks -> music synthesis and transformation",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2338,10 +2338,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Applications -> performance, and production",
-        " Musical features and properties -> representations of music",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "MIR tasks -> music synthesis and transformation",
-        " Musical features and properties -> timbre, instrumentation, and singing voice"
+        " Musical features and properties -> representations of music",
+        "Applications -> performance, and production"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2398,8 +2398,8 @@
       "day": "3",
       "keywords": [
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "MIR tasks -> sound source separation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "MIR tasks -> sound source separation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2458,11 +2458,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> multimodality",
+        " Domain knowledge -> representations of music",
         "Domain knowledge -> machine learning/artificial intelligence for music",
         "Applications -> music retrieval systems",
-        " Domain knowledge -> representations of music",
-        " MIR fundamentals and methodology -> web mining, and natural language processing"
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        " MIR fundamentals and methodology -> multimodality"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2491,10 +2491,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Musical features and properties -> musical affect, emotion and mood",
         " Musical features and properties -> representations of music",
         " MIR tasks -> automatic classification",
-        "Musical features and properties -> musical affect, emotion and mood",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Evaluation, datasets, and reproducibility -> annotation protocols"
       ],
       "pdf_url": "",
@@ -2523,12 +2523,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
-        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties",
         " Musical features and properties -> structure, segmentation, and form",
-        "Domain knowledge -> computational music theory and musicology"
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "Domain knowledge -> computational music theory and musicology",
+        " MIR tasks -> music generation",
+        " Evaluation, datasets, and reproducibility -> evaluation methodology"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2556,11 +2556,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> automatic classification",
         " Musical features and properties -> musical affect, emotion and mood",
-        " MIR fundamentals and methodology -> multimodality",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Musical features and properties -> representations of music"
+        " MIR tasks -> automatic classification",
+        "Musical features and properties -> representations of music",
+        " MIR fundamentals and methodology -> multimodality"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2587,12 +2587,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
+        " MIR tasks -> similarity metrics",
         " Musical features and properties -> melody and motives",
-        "MIR tasks -> fingerprinting",
-        " Musical features and properties -> harmony, chords and tonality",
         "Applications -> music retrieval systems",
-        " MIR tasks -> similarity metrics"
+        " Musical features and properties -> rhythm, beat, tempo",
+        " Musical features and properties -> harmony, chords and tonality",
+        "MIR tasks -> fingerprinting"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2620,10 +2620,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> music signal processing",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "MIR tasks -> sound source separation",
-        " MIR tasks -> music synthesis and transformation"
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> music synthesis and transformation",
+        "MIR tasks -> sound source separation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2654,10 +2654,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> fingerprinting",
         "Domain knowledge -> machine learning/artificial intelligence for music",
         "Domain knowledge -> representations of music",
-        " MIR tasks -> automatic classification"
+        " MIR tasks -> automatic classification",
+        " MIR tasks -> fingerprinting"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2746,8 +2746,8 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
         "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "MIR tasks -> music generation",
         " Musical features and properties -> musical affect, emotion and mood"
       ],
@@ -2781,10 +2781,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> music signal processing",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "MIR tasks",
-        " MIR tasks -> sound source separation"
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> sound source separation",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2841,10 +2841,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
-        " Applications -> music composition",
         " Musical features and properties -> musical affect, emotion and mood",
+        " Applications -> music composition",
         "MIR tasks -> music generation",
+        " Musical features and properties -> rhythm, beat, tempo",
         " Musical features and properties -> harmony, chords and tonality",
         "Applications -> gaming, augmented/virtual reality"
       ],
@@ -2876,8 +2876,8 @@
       "day": "3",
       "keywords": [
         " Musical features and properties -> rhythm, beat, tempo",
-        " Musical features and properties -> representations of music",
         "MIR tasks -> alignment, synchronization, and score following",
+        " Musical features and properties -> representations of music",
         "Musical features and properties -> musical style and genre"
       ],
       "pdf_url": "",
@@ -2907,9 +2907,9 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        "Musical features and properties -> melody and motives",
         " MIR tasks -> automatic classification",
-        "MIR fundamentals and methodology -> symbolic music processing"
+        "MIR fundamentals and methodology -> symbolic music processing",
+        "Musical features and properties -> melody and motives"
       ],
       "pdf_url": "",
       "recs": [],
@@ -2977,10 +2977,10 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
-        " MIR tasks -> music synthesis and transformation",
-        "Evaluation, datasets, and reproducibility -> evaluation methodology",
         " Evaluation, datasets, and reproducibility -> MIR tasks",
+        " MIR tasks -> music synthesis and transformation",
+        " MIR tasks -> music generation",
+        "Evaluation, datasets, and reproducibility -> evaluation methodology",
         "MIR tasks -> sound source separation"
       ],
       "pdf_url": "",
@@ -3007,12 +3007,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Applications -> performance, and production",
-        " MIR fundamentals and methodology -> music signal processing",
-        " MIR tasks -> similarity metrics",
         "MIR tasks -> indexing and querying",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR tasks -> similarity metrics",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR fundamentals and methodology -> music signal processing",
+        "Applications -> performance, and production"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3039,11 +3039,11 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "Applications -> music retrieval systems",
         " Domain knowledge -> representations of music",
+        "Applications -> music retrieval systems",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         "MIR tasks -> optical music recognition",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3071,12 +3071,12 @@
       "channel_url": "",
       "day": "3",
       "keywords": [
-        " Human-centered MIR -> personalization",
-        " Human-centered MIR -> user behavior analysis and mining",
-        "Applications -> music recommendation and playlist generation",
         " Human-centered MIR -> user modeling",
+        " Human-centered MIR -> user behavior analysis and mining",
         " MIR fundamentals and methodology -> lyrics and other textual data",
-        "Human-centered MIR"
+        "Applications -> music recommendation and playlist generation",
+        "Human-centered MIR",
+        " Human-centered MIR -> personalization"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3105,9 +3105,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "MIR tasks -> music generation",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "MIR tasks -> music synthesis and transformation",
-        " Musical features and properties -> timbre, instrumentation, and singing voice"
+        "MIR tasks -> music generation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3137,10 +3137,10 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Human-centered MIR -> human-computer interaction",
-        " MIR tasks -> music generation",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " MIR fundamentals and methodology -> symbolic music processing"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Human-centered MIR -> human-computer interaction",
+        " MIR tasks -> music generation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3168,12 +3168,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        " Musical features and properties -> musical affect, emotion and mood",
         " Musical features and properties -> musical style and genre",
-        "Musical features and properties -> representations of music",
+        " MIR tasks -> similarity metrics",
+        " Musical features and properties -> musical affect, emotion and mood",
+        " MIR tasks -> automatic classification",
         "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
-        " MIR tasks -> similarity metrics"
+        "Musical features and properties -> representations of music"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3201,11 +3201,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties -> structure, segmentation, and form",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR tasks -> music generation",
         "Applications -> music composition",
-        "Domain knowledge -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> structure, segmentation, and form"
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3234,12 +3234,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> melody and motives",
-        "Domain knowledge -> cognitive MIR",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Musical features and properties -> melody and motives",
         "MIR fundamentals and methodology -> symbolic music processing",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR tasks -> music transcription and annotation",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        "Domain knowledge -> cognitive MIR"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3267,11 +3267,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Applications -> performance, and production",
-        "Applications -> digital libraries and archives",
-        " Evaluation, datasets, and reproducibility -> MIR tasks",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Domain knowledge -> computational music theory and musicology"
+        " Evaluation, datasets, and reproducibility -> MIR tasks",
+        "Domain knowledge -> computational music theory and musicology",
+        " Applications -> performance, and production",
+        "Applications -> digital libraries and archives"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3298,9 +3298,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> evaluation methodology",
         "Evaluation, datasets, and reproducibility",
-        " MIR tasks -> music synthesis and transformation"
+        " MIR tasks -> music synthesis and transformation",
+        "Evaluation, datasets, and reproducibility -> evaluation methodology"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3327,12 +3327,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        "MIR tasks -> automatic classification",
-        "Applications -> music retrieval systems",
         " Domain knowledge -> representations of music",
         " MIR tasks -> indexing and querying",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> representations of music",
+        "Applications -> music retrieval systems",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> automatic classification"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3362,11 +3362,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> automatic classification",
         " Musical features and properties -> musical style and genre",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Domain knowledge -> computational music theory and musicology"
+        "Domain knowledge -> computational music theory and musicology",
+        " MIR tasks -> automatic classification",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3396,11 +3396,11 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        "MIR tasks -> automatic classification",
         " Musical features and properties -> musical style and genre",
-        "Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR fundamentals and methodology -> lyrics and other textual data",
-        " Musical features and properties -> structure, segmentation, and form"
+        " Musical features and properties -> structure, segmentation, and form",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> automatic classification"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3428,12 +3428,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR fundamentals and methodology -> lyrics and other textual data",
         "Applications -> music retrieval systems",
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
-        " MIR tasks -> music transcription and annotation",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR tasks -> music transcription and annotation"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3461,12 +3461,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        " Domain knowledge -> computational music theory and musicology",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " Domain knowledge -> computational music theory and musicology",
+        " Musical features and properties -> structure, segmentation, and form",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Applications -> music training and education",
-        " Musical features and properties -> structure, segmentation, and form"
+        " MIR tasks -> automatic classification",
+        "Applications -> music training and education"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3498,12 +3498,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR tasks -> fingerprinting",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Evaluation, datasets, and reproducibility -> annotation protocols",
-        " Evaluation, datasets, and reproducibility -> reproducibility",
+        " MIR tasks -> indexing and querying",
         "Applications -> music retrieval systems",
-        " MIR tasks -> indexing and querying"
+        " MIR tasks -> fingerprinting",
+        " Evaluation, datasets, and reproducibility -> reproducibility",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3530,9 +3530,9 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        "MIR fundamentals and methodology -> symbolic music processing",
         "Musical features and properties -> harmony, chords and tonality",
+        "MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties -> representations of music",
         " Musical features and properties -> structure, segmentation, and form"
       ],
       "pdf_url": "",
@@ -3561,12 +3561,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music generation",
         " MIR tasks -> music synthesis and transformation",
+        " MIR tasks -> music generation",
         "Applications -> music composition",
         "MIR tasks",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3597,12 +3597,12 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Applications -> performance, and production",
-        " MIR fundamentals and methodology -> music signal processing",
         "Domain knowledge -> music acoustics",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
         " Domain knowledge -> cognitive MIR",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> music signal processing",
+        "Applications -> performance, and production"
       ],
       "pdf_url": "",
       "recs": [],
@@ -3630,8 +3630,8 @@
       "channel_url": "",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> musical style and genre",
         "Domain knowledge -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> musical style and genre",
         "MIR tasks -> automatic classification"
       ],
       "pdf_url": "",

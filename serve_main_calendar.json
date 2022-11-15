@@ -203,8 +203,8 @@
     "calendarId": "industry",
     "category": "time",
     "end": "2022-12-08T10:00:00+05:30",
-    "link": "industry.html",
-    "location": "industry.html",
+    "link": "industry.html?session=Platinum",
+    "location": "industry.html?session=Platinum",
     "scrollKey": null,
     "start": "2022-12-08T09:00:00+05:30",
     "title": "Industry Session"
