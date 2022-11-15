@@ -4,8 +4,8 @@
 {% block head %}
 
 {{ super() }}
-<meta name="citation_title" content="{{music.UID}}" />
-<meta name="citation_author" content="{{music.first_name}} {{music.last_name}}" />
+<meta name="citation_title" content="{{music.uid}}" />
+<meta name="citation_author" content="{{music.authors}}" />
 <meta name="citation_publication_date" content="{{config.citation_date}}" />
 <meta name="citation_conference_title" content="{{config.tagline|striptags|title}}" />
 <meta name="citation_inbook_title" content="{{config.proceedings_title}}" />
@@ -21,20 +21,11 @@
 <div class="music-page-wrapper mt-3 mb-5">
   <div class="page-header">
     <div class="image-wrapper">
-      <img alt="{{music.first_name}} {{music.last_name}}" src="static/images/music_headshots/{{music.UID}}.jpg"/>
+      <img alt="{{music.authors}}" src="static/images/music_headshots/{{music.uid}}.jpg"/>
     </div>
     <div class="details">
       <h1 class="mb-4">{{music.title}}</h1>
-      <!-- <p>{{music.UID}}</p> -->
-      {% if music.UID == '392' %}
-          <h4>{{music.last_name[12:]}}</h4>
-      {% elif music.UID == '393' %}
-          <h4>{{music.last_name}}</h4>
-      {% elif music.authors %}
-          <h4>{{music.authors.split('; ') | join(' | ')}}</h4>
-      {% else %}
-          <h4>{{music.first_name}} {{music.last_name}}</h4>
-      {% endif %}
+      <h4 style="color: rgba(0,0,0,.5);">{{music.authors}}</h4>
       <h5 style="color: rgba(0,0,0,.5);">{{music.affiliation}}</h5>
     </div>
   </div>

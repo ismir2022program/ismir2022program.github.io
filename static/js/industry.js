@@ -11,7 +11,7 @@ const filters = {
 const updateCards = (papers) => {
 
     const all_mounted_cards = d3.select('.industry-cards')
-      .selectAll('.myCard', openreview => openreview.UID)
+      .selectAll('.myCard', openreview => openreview.uid)
       .data(papers, d => d.number)
       .join('div')
       .attr('class', 'myCard col-12 col-sm-6 col-md-4')
@@ -137,10 +137,10 @@ d3.selectAll('.filter_option input').on('click', function () {
 const card_html = openreview => {
     return `
       <div class="industry-card m-4 text-center">
-      <a href="industry_${openreview.UID}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; height: 70px">
+      <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; height: 70px">
         <img style="max-width: 100%;" src="static/images/${openreview.logo_name}" />
       </a>
-      <h3><a href="industry_${openreview.UID}.html">${openreview.title}</a></h3>
+      <h3><a href="industry_${openreview.uid}.html">${openreview.title}</a></h3>
       <h4>${openreview.company}</h4>
       </div>`
 }

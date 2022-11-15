@@ -51,12 +51,7 @@ def main(site_data_path):
             site_data[name] = yaml.load(open(f).read(), Loader=yaml.SafeLoader)
     for typ in ["papers", "industry", "music", "lbds", "events"]:
         by_uid[typ] = {}
-        # print(typ)
-        # if typ == 'lbds':
-        #     from IPython import embed
-        #     embed()
         for p in site_data[typ]:
-
             by_uid[typ][p["uid"]] = p
     print("Data Successfully Loaded")
     by_uid["days"] = {}
@@ -274,12 +269,12 @@ def format_lbd(v):
         list_fields[key] = extract_list_field(v, key)
     channel_name = v.get("channel_name", "")
     channel_url = v.get("channel_url", "")
-    if channel_name == "" and channel_url == "" and len(list_fields["session"]) > 0:
-        print('Re-creating channel name')
-        primary_author_names = v["primary_author"].split(" ")
-        primary_author_name = primary_author_names[len(primary_author_names)-1].lower()
-        channel_name = "lbd-"+list_fields["session"][0]+"-"+v["uid"]+"-"+primary_author_name
-        channel_url = "https://ismir2020.slack.com/archives/"+channel_name
+    # if channel_name == "" and channel_url == "" and len(list_fields["session"]) > 0:
+    #     print('Re-creating channel name')
+    #     primary_author_names = v["primary_author"].split(" ")
+    #     primary_author_name = primary_author_names[len(primary_author_names)-1].lower()
+    #     channel_name = "lbd-"+list_fields["session"][0]+"-"+v["uid"]+"-"+primary_author_name
+    #     channel_url = "https://ismir2020.slack.com/archives/"+channel_name
 
     return {
         "id": v["uid"],
@@ -318,8 +313,7 @@ def format_music(v):
         "id": v["uid"],
         "content": {
             "title": v["title"],
-            "first_name": v["first_name"],
-            "last_name": v["last_name"],
+            "authors": v["authors"],
             "affiliation": v["affiliation"],
             "abstract": v["abstract"],
             "bio": v["bio"],
@@ -327,7 +321,6 @@ def format_music(v):
             "session": v["session"],
             "yt_id": v["yt_id"],
             "bb_id": v["bb_id"],
-            "authors": v["authors"],
         }
     }
 

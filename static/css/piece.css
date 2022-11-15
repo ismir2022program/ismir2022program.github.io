@@ -10,6 +10,7 @@
 
 .music-content-wrapper {
   min-height: 400px;
+  white-space: pre-wrap;
 }
 
 .music-page-wrapper .page-header .image-wrapper, .speaker-page-wrapper .page-header .image-wrapper {

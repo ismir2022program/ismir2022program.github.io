@@ -101,9 +101,9 @@ if __name__ == "__main__":
             primary_author_names = contribution["primary_author"].split(" ")
             primary_author_name = primary_author_names[len(primary_author_names)-1].lower()
             if presentation == 'lbd':
-                channel_name = presentation + "-" + contribution["session"] + "-" + contribution["UID"] + "-" + primary_author_name
+                channel_name = presentation + "-" + contribution["session"] + "-" + contribution["uid"] + "-" + primary_author_name
             else:
-                channel_name = presentation + "-" + contribution["UID"] + "-" + primary_author_name
+                channel_name = presentation + "-" + contribution["uid"] + "-" + primary_author_name
             # print(channel_name,contribution["channel_name"])
             contribution['channel_name']=channel_name
 
@@ -161,15 +161,11 @@ if __name__ == "__main__":
 
             # Define topic
             channel_topic = ''
-            # if presentation == 'lbd':
-            #     channel_topic = "LBD" + " " + contribution["UID"] + " session " + contribution["session"]
-            # else:
-            #     channel_topic = presentation + " " + contribution["UID"]
             channel_topic += "<https://program.ismir2020.net/";
             if presentation == 'lbd':
-                channel_topic += presentation + "_" + contribution["UID"]
+                channel_topic += presentation + "_" + contribution["uid"]
             else:
-                channel_topic += presentation + "_" + contribution["UID"]
+                channel_topic += presentation + "_" + contribution["uid"]
             channel_topic += ".html>"
             channel_topic += " \"" + contribution["title"] + " \""    
             channel_topic += " by " + ", ".join(authors)

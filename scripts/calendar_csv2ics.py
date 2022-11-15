@@ -60,8 +60,7 @@ def calendar_csv2ics(in_csv='../ISMIR-2022-Miniconf-Data/sitedata/events.csv', o
             e_cal['location'] = f'tutorials.html#{event["title"][:2]}'
 
         elif event['category'] == "Music":
-            session_num = event['title'].split(" ")[-1]
-            e_cal['location'] = f'music.html?session={session_num}'
+            e_cal['location'] = f'music.html'
 
         elif event['category'] in ["All Meeting", "Meetup", "VMeetup", "Awards", "WiMIR Meetup", "Social", "Opening"]:
             e_cal['location'] = f'day_{event["day"]}.html#{color_dict[event["category"]]}'

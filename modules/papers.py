@@ -24,7 +24,7 @@ class Papers:
 
         # Adding columns in the dataframe.
         # UID can eb number 
-        columns = ["UID", "title", "zoom_link"]
+        columns = ["uid", "title", "zoom_link"]
         data = []
 
         # Reading the papers data.
@@ -50,4 +50,4 @@ class Papers:
         df_to_write.to_csv("papers-zoom.csv")
 
         # Creating zoom links if needed.
-        zoomUtils.createZoomLinksIfNeeded("papers-zoom.csv", "title", "zoom_link", "UID")
+        zoomUtils.createZoomLinksIfNeeded("papers-zoom.csv", "title", "zoom_link", "uid")
