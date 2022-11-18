@@ -24,6 +24,7 @@ def calendar_csv2ics(in_csv='../ISMIR-2022-Miniconf-Data/sitedata/events.csv', o
         "Social": "social",
         "Satellite": "sat",
         "Lunch": "lunch",
+        "Registration": "registration",
         "Industry": "industry",
         "LBD": "lbd",
         "Awards":'awards',
