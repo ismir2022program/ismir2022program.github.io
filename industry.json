@@ -57,7 +57,7 @@
     "session": "Gold",
     "title": "MIR and Music Recommendation Research at SiriusXM / Pandora",
     "uid": "sirius",
-    "video": "https://www.youtube.com/embed/k5_HXG81vUo"
+    "video": "https://www.youtube.com/watch?v=k5_HXG81vUo"
   },
   {
     "abstract": "",
@@ -93,7 +93,7 @@
     "session": "Gold",
     "title": "Enhancing Music Performance Experience through MIR",
     "uid": "yamaha",
-    "video": "https://drive.google.com/file/d/1uaPyxnHHsF2DCC65q238-DXXCHQd0HXW/preview"
+    "video": "https://drive.google.com/file/d/1uaPyxnHHsF2DCC65q238-DXXCHQd0HXW/view?usp=sharing"
   },
   {
     "abstract": "",
@@ -108,16 +108,16 @@
     "video": ""
   },
   {
-    "abstract": "Steinberg has been providing award-winning, technologically advanced music and media production products for musicians and producers of music, video and film since 1984. Today, Steinberg is one of the world's largest manufacturers of music and audio software and hardware, with millions of users worldwide. The Steinberg range of products has long since found world renown in all aspects of modern digital audio processing. They form the backbone of facilities specializing in music composition and production, mastering, restoration, sound design and audio post for the music, game and film industries.\n\nSince January 2005, Steinberg is a wholly owned subsidiary of Yamaha Corporation, the world's leading manufacturer of audio hardware.\n\nFor additional information, visit https://www.steinberg.net or contact us at press@steinberg.net",
+    "abstract": "Steinberg Media Technologies GmbH\n\nMakers of VST, ASIO, Cubase, WaveLab and much more.\n\nSteinberg has been providing award-winning, technologically advanced music and media production products for musicians and producers of music, video and film since 1984. Today, Steinberg is one of the world's largest manufacturers of music and audio software and hardware, with millions of users worldwide. The Steinberg range of products has long since found world renown in all aspects of modern digital audio processing. They form the backbone of facilities specializing in music composition and production, mastering, restoration, sound design and audio post for the music, game and film industries.\n\nSince January 2005, Steinberg is a wholly owned subsidiary of Yamaha Corporation, the world's leading manufacturer of audio hardware.\n\n\nFor additional information, visit https://www.steinberg.net or contact us at press@steinberg.net",
     "channel_name": "",
     "channel_url": "",
-    "company": "Steinberg Media Technologies GmbH",
+    "company": "Steinberg",
     "external_web_link": "https://www.steinberg.net/",
     "pdf": "",
     "session": "Silver",
-    "title": "Makers of VST, ASIO, Cubase, WaveLab and much more",
+    "title": "Steinberg",
     "uid": "steinberg",
-    "video": "https://www.youtube.com/embed/nc8I36RI4Y4"
+    "video": "https://www.youtube.com/watch?v=nc8I36RI4Y4&feature=emb_title"
   },
   {
     "abstract": "",

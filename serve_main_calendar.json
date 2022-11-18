@@ -80,6 +80,16 @@
     "title": "Virtual Special Session 1: Ethics/Code of Conduct for ISMIR"
   },
   {
+    "calendarId": "registration",
+    "category": "time",
+    "end": "2022-12-06T09:00:00+05:30",
+    "link": null,
+    "location": null,
+    "scrollKey": null,
+    "start": "2022-12-06T08:00:00+05:30",
+    "title": "Registration"
+  },
+  {
     "calendarId": "all",
     "category": "time",
     "end": "2022-12-06T10:00:00+05:30",
@@ -88,6 +98,16 @@
     "scrollKey": null,
     "start": "2022-12-06T09:00:00+05:30",
     "title": "Keynote 1: Evolution of Performance and Aesthetics in Indian Art Music"
+  },
+  {
+    "calendarId": "registration",
+    "category": "time",
+    "end": "2022-12-04T09:00:00+05:30",
+    "link": null,
+    "location": null,
+    "scrollKey": null,
+    "start": "2022-12-04T08:00:00+05:30",
+    "title": "Registration"
   },
   {
     "calendarId": "tut",
@@ -120,6 +140,16 @@
     "title": "T3(M): Designing Controllable Synthesis System for Musical Signals"
   },
   {
+    "calendarId": "lunch",
+    "category": "time",
+    "end": "2022-12-04T14:00:00+05:30",
+    "link": null,
+    "location": null,
+    "scrollKey": null,
+    "start": "2022-12-04T13:00:00+05:30",
+    "title": "Lunch"
+  },
+  {
     "calendarId": "tut",
     "category": "time",
     "end": "2022-12-04T18:00:00+05:30",
@@ -150,14 +180,54 @@
     "title": "T6(A): Trustworthy MIR: Creating MIR applications with values"
   },
   {
+    "calendarId": "registration",
+    "category": "time",
+    "end": "2022-12-05T09:00:00+05:30",
+    "link": null,
+    "location": null,
+    "scrollKey": null,
+    "start": "2022-12-05T08:00:00+05:30",
+    "title": "Registration"
+  },
+  {
+    "calendarId": "lbd",
+    "category": "time",
+    "end": "2022-12-08T17:30:00+05:30",
+    "link": "lbds.html?session=Physical",
+    "location": "lbds.html?session=Physical",
+    "scrollKey": null,
+    "start": "2022-12-08T15:30:00+05:30",
+    "title": "Late Breaking Demo (Physical)"
+  },
+  {
+    "calendarId": "lbd",
+    "category": "time",
+    "end": "2022-12-08T19:00:00+05:30",
+    "link": "lbds.html?session=Virtual",
+    "location": "lbds.html?session=Virtual",
+    "scrollKey": null,
+    "start": "2022-12-08T17:30:00+05:30",
+    "title": "Late Breaking Demo (Virtual)"
+  },
+  {
     "calendarId": "sat",
     "category": "time",
-    "end": "2022-12-09T18:00:00+05:30",
+    "end": "2022-12-09T19:30:00+05:30",
     "link": "https://ismir2022.ismir.net/satellites/ime",
     "location": "https://ismir2022.ismir.net/satellites/ime",
     "scrollKey": null,
-    "start": "2022-12-09T09:00:00+05:30",
+    "start": "2022-12-09T08:00:00+05:30",
     "title": "Indian Music Experience Satellite Workshop"
+  },
+  {
+    "calendarId": "lunch",
+    "category": "time",
+    "end": "2022-12-07T13:30:00+05:30",
+    "link": null,
+    "location": null,
+    "scrollKey": null,
+    "start": "2022-12-07T12:30:00+05:30",
+    "title": "Lunch"
   },
   {
     "calendarId": "pos",
@@ -200,24 +270,34 @@
     "title": "Virtual Special Session 3: TISMIR: the open journal of the ISMIR society"
   },
   {
-    "calendarId": "industry",
+    "calendarId": "registration",
     "category": "time",
-    "end": "2022-12-08T10:00:00+05:30",
-    "link": "industry.html?session=Platinum",
-    "location": "industry.html?session=Platinum",
+    "end": "2022-12-08T09:00:00+05:30",
+    "link": null,
+    "location": null,
     "scrollKey": null,
-    "start": "2022-12-08T09:00:00+05:30",
-    "title": "Industry Session"
+    "start": "2022-12-08T08:00:00+05:30",
+    "title": "Registration"
   },
   {
     "calendarId": "pos",
     "category": "time",
-    "end": "2022-12-08T12:30:00+05:30",
+    "end": "2022-12-08T11:30:00+05:30",
     "link": "papers.html?session=7",
     "location": "papers.html?session=7",
     "scrollKey": null,
-    "start": "2022-12-08T10:00:00+05:30",
+    "start": "2022-12-08T09:00:00+05:30",
     "title": "Poster Sessions 7"
+  },
+  {
+    "calendarId": "industry",
+    "category": "time",
+    "end": "2022-12-08T12:30:00+05:30",
+    "link": "industry.html?session=Platinum",
+    "location": "industry.html?session=Platinum",
+    "scrollKey": null,
+    "start": "2022-12-08T11:30:00+05:30",
+    "title": "Industry Session"
   },
   {
     "calendarId": "lunch",
@@ -238,26 +318,6 @@
     "scrollKey": null,
     "start": "2022-12-08T13:30:00+05:30",
     "title": "Society meeting, awards and closing"
-  },
-  {
-    "calendarId": "lbd",
-    "category": "time",
-    "end": "2022-12-08T17:30:00+05:30",
-    "link": "lbds.html?session=Physical",
-    "location": "lbds.html?session=Physical",
-    "scrollKey": null,
-    "start": "2022-12-08T15:30:00+05:30",
-    "title": "Late Breaking Demo (Physical)"
-  },
-  {
-    "calendarId": "lbd",
-    "category": "time",
-    "end": "2022-12-08T19:00:00+05:30",
-    "link": "lbds.html?session=Virtual",
-    "location": "lbds.html?session=Virtual",
-    "scrollKey": null,
-    "start": "2022-12-08T17:30:00+05:30",
-    "title": "Late Breaking Demo (Virtual)"
   },
   {
     "calendarId": "pos",
@@ -330,6 +390,16 @@
     "title": "Virtual Special Session 2: PhD in MIR - Challenges and Opportunities"
   },
   {
+    "calendarId": "registration",
+    "category": "time",
+    "end": "2022-12-07T09:00:00+05:30",
+    "link": null,
+    "location": null,
+    "scrollKey": null,
+    "start": "2022-12-07T08:00:00+05:30",
+    "title": "Registration"
+  },
+  {
     "calendarId": "all",
     "category": "time",
     "end": "2022-12-07T10:00:00+05:30",
@@ -348,15 +418,5 @@
     "scrollKey": null,
     "start": "2022-12-07T10:00:00+05:30",
     "title": "Posters Session 5"
-  },
-  {
-    "calendarId": "lunch",
-    "category": "time",
-    "end": "2022-12-07T13:30:00+05:30",
-    "link": null,
-    "location": null,
-    "scrollKey": null,
-    "start": "2022-12-07T12:30:00+05:30",
-    "title": "Lunch"
   }
 ]
