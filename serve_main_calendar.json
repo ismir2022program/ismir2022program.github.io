@@ -17,7 +17,7 @@
     "location": "papers.html?session=1",
     "scrollKey": null,
     "start": "2022-12-05T10:00:00+05:30",
-    "title": "Posters Session 1"
+    "title": "Paper Session - 1"
   },
   {
     "calendarId": "lunch",
@@ -37,7 +37,7 @@
     "location": "papers.html?session=2",
     "scrollKey": null,
     "start": "2022-12-05T13:30:00+05:30",
-    "title": "Posters Session 2"
+    "title": "Paper Session - 2"
   },
   {
     "calendarId": "wimir",
@@ -57,7 +57,7 @@
     "location": "day_1.html#social",
     "scrollKey": null,
     "start": "2022-12-05T17:30:00+05:30",
-    "title": "Dhaatu Puppet Show"
+    "title": "Performance by Dhaatu Puppet Show"
   },
   {
     "calendarId": "social",
@@ -77,7 +77,7 @@
     "location": "day_1.html#vmeet",
     "scrollKey": null,
     "start": "2022-12-05T22:00:00+05:30",
-    "title": "Virtual Special Session 1: Ethics/Code of Conduct for ISMIR"
+    "title": "Special Session A (Online): Ethics/Code of Conduct for ISMIR"
   },
   {
     "calendarId": "registration",
@@ -97,7 +97,7 @@
     "location": "day_2.html#all",
     "scrollKey": null,
     "start": "2022-12-06T09:00:00+05:30",
-    "title": "Keynote 1: Evolution of Performance and Aesthetics in Indian Art Music"
+    "title": "Keynote-1: TM Krishna on \"Evolution of Performance and Aesthetics in Indian Art Music\""
   },
   {
     "calendarId": "registration",
@@ -197,7 +197,7 @@
     "location": "lbds.html?session=Physical",
     "scrollKey": null,
     "start": "2022-12-08T15:30:00+05:30",
-    "title": "Late Breaking Demo (Physical)"
+    "title": "Late-breaking/Demo (Physical)"
   },
   {
     "calendarId": "lbd",
@@ -207,16 +207,16 @@
     "location": "lbds.html?session=Virtual",
     "scrollKey": null,
     "start": "2022-12-08T17:30:00+05:30",
-    "title": "Late Breaking Demo (Virtual)"
+    "title": "Late-breaking/Demo (Virtual)"
   },
   {
     "calendarId": "sat",
     "category": "time",
-    "end": "2022-12-09T19:30:00+05:30",
+    "end": "2022-12-09T18:00:00+05:30",
     "link": "https://ismir2022.ismir.net/satellites/ime",
     "location": "https://ismir2022.ismir.net/satellites/ime",
     "scrollKey": null,
-    "start": "2022-12-09T08:00:00+05:30",
+    "start": "2022-12-09T10:00:00+05:30",
     "title": "Indian Music Experience Satellite Workshop"
   },
   {
@@ -237,7 +237,7 @@
     "location": "papers.html?session=6",
     "scrollKey": null,
     "start": "2022-12-07T13:30:00+05:30",
-    "title": "Posters Session 6"
+    "title": "Paper Session - 6"
   },
   {
     "calendarId": "meet",
@@ -257,7 +257,7 @@
     "location": "day_3.html#social",
     "scrollKey": null,
     "start": "2022-12-07T17:00:00+05:30",
-    "title": "ISMIR2022 Banquet"
+    "title": "ISMIR 2022 Banquet"
   },
   {
     "calendarId": "vmeet",
@@ -267,7 +267,7 @@
     "location": "day_3.html#vmeet",
     "scrollKey": null,
     "start": "2022-12-07T22:00:00+05:30",
-    "title": "Virtual Special Session 3: TISMIR: the open journal of the ISMIR society"
+    "title": "Special Session - C (Online): TISMIR: the open journal of the ISMIR society"
   },
   {
     "calendarId": "registration",
@@ -287,7 +287,7 @@
     "location": "papers.html?session=7",
     "scrollKey": null,
     "start": "2022-12-08T09:00:00+05:30",
-    "title": "Poster Sessions 7"
+    "title": "Paper Session - 7"
   },
   {
     "calendarId": "industry",
@@ -323,11 +323,11 @@
     "calendarId": "pos",
     "category": "time",
     "end": "2022-12-06T12:30:00+05:30",
-    "link": "papers.html?session=3",
-    "location": "papers.html?session=3",
+    "link": "papers.html?session=Call)",
+    "location": "papers.html?session=Call)",
     "scrollKey": null,
     "start": "2022-12-06T10:00:00+05:30",
-    "title": "Posters Session 3"
+    "title": "Paper Session - 3 (Special Call)"
   },
   {
     "calendarId": "lunch",
@@ -347,7 +347,7 @@
     "location": "papers.html?session=4",
     "scrollKey": null,
     "start": "2022-12-06T13:30:00+05:30",
-    "title": "Posters Session 4"
+    "title": "Paper Session - 4"
   },
   {
     "calendarId": "meet",
@@ -357,7 +357,7 @@
     "location": "day_2.html#meet",
     "scrollKey": null,
     "start": "2022-12-06T16:00:00+05:30",
-    "title": "Special Session 1: Enhancing music listening with MIR"
+    "title": "Special Session - 1: Enhancing music listening with MIR"
   },
   {
     "calendarId": "mus",
@@ -377,7 +377,7 @@
     "location": "day_2.html#social",
     "scrollKey": null,
     "start": "2022-12-06T18:30:00+05:30",
-    "title": "Music Concert"
+    "title": "ISMIR Music Concert"
   },
   {
     "calendarId": "vmeet",
@@ -387,7 +387,7 @@
     "location": "day_2.html#vmeet",
     "scrollKey": null,
     "start": "2022-12-06T22:00:00+05:30",
-    "title": "Virtual Special Session 2: PhD in MIR - Challenges and Opportunities"
+    "title": "Special Session B (Online): PhD in MIR - Challenges and Opportunities"
   },
   {
     "calendarId": "registration",
@@ -407,7 +407,7 @@
     "location": "day_3.html#all",
     "scrollKey": null,
     "start": "2022-12-07T09:00:00+05:30",
-    "title": "Keynote 2: Adventures of AI: Deepfake and Bias in Audio Processing"
+    "title": "Keynote - 2: Richa Singh on \"Adventures of AI: Deepfake and Bias in Audio Processing\""
   },
   {
     "calendarId": "pos",
@@ -417,6 +417,6 @@
     "location": "papers.html?session=5",
     "scrollKey": null,
     "start": "2022-12-07T10:00:00+05:30",
-    "title": "Posters Session 5"
+    "title": "Paper Session - 5"
   }
 ]
