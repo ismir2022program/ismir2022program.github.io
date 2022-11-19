@@ -8,7 +8,7 @@ def display(cal):
     return cal.to_ical().replace('\r\n', '\n').strip()
 
 
-def calendar_csv2ics(in_csv='../ISMIR-2022-Miniconf-Data/sitedata/events.csv', out_ics='static/calendar/ISMIR_2022.ics'):
+def calendar_csv2ics(in_csv='../miniconf-data/sitedata/events.csv', out_ics='static/calendar/ISMIR_2022.ics'):
     orig_csv = pd.read_csv(in_csv)
     orig_csv = orig_csv.sort_values(by=['uid'])
 
@@ -47,7 +47,7 @@ def calendar_csv2ics(in_csv='../ISMIR-2022-Miniconf-Data/sitedata/events.csv', o
         e_cal.add('dtstamp', datetime(2022,12,4,0,0,0,tzinfo=pytz.timezone('Asia/Kolkata')))
 
         if event['category'] == "Poster session":
-            session_num = event['title'].split()[-1]
+            session_num = event['title'].split()[3]
             e_cal['location'] = f'papers.html?session={session_num}'
 
         if event['category'] == "LBD":

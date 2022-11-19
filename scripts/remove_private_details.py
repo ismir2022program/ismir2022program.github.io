@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-def remove_author_contacts(in_dir='../ISMIR-2022-Miniconf-Data/sitedata/', out_dir='sitedata'):
+def remove_author_contacts(in_dir='../miniconf-data/sitedata/', out_dir='sitedata'):
     os.makedirs(out_dir, exist_ok=True)
 
     print('Removing author details from events.csv ')

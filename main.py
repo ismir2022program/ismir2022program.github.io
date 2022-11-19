@@ -191,16 +191,12 @@ def tutorials():
 def musics():
     data = _data()
     data["music"] = site_data["music"]
-    data["music_top"] = open("music_top.md").read()
-    data["music_bottom"] = open("music_bottom.md").read()
     return render_template("music.html", **data)
 
 @app.route("/industry.html")
 def industries():
     data = _data()
     data["industry"] = site_data["industry"]
-    data["industry_top"] = open("industry_top.md").read()
-    data["industry_bottom"] = open("industry_bottom.md").read()
     return render_template("industry.html", **data)
 
 @app.route("/lbds.html")
