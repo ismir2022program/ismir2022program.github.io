@@ -244,7 +244,7 @@ def format_paper(v):
     return {
         "id": v["uid"],
         "forum": v["uid"],
-        "pic_id": v['pic_id'],
+        "pic_id": v['thumbnail'],
         "content": {
             "title": v["title"],
             "authors": list_fields["authors"],
@@ -254,6 +254,7 @@ def format_paper(v):
             "recs": [],
             "session": list_fields["session"],
             "pdf_url": v.get("pdf_url", ""),
+            "video": v["video"].replace('/open?id=', '/file/d/')+'/preview',
             "channel_url": v["channel_url"],
             "channel_name": v["channel_name"],
             "day": v["day"],
