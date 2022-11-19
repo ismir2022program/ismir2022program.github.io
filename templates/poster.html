@@ -15,7 +15,7 @@
 {% for keyword in paper.content.keywords %}
 <meta name="citation_keywords" content="{{keyword}}" />
 {% endfor %}
-<meta name="citation_pdf_url" content="{{paper.content.pdf_url | default("")}}" />
+<meta name="citation_pdf_url" content="{{paper.content.uid | default("")}}" />
 <meta id="yt-id" data-name={{paper.content.yt_id}} />
 <meta id="bb-id" data-name={{paper.content.bb_id}} />
 
@@ -89,7 +89,7 @@
   <div id="paper" class="collapse">
     {% if config.paper_embeds %}
     <button class="fullscreen-button btn btn-primary mb-3">Fullscreen</button>
-    <iframe class="fullscreen-iframe" src = "static/final_papers/{{ paper.pic_id }}.pdf#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
+    <iframe class="fullscreen-iframe" src = "static/final_papers/{{ paper.id }}.pdf#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
     {% endif %}
   </div>
   <div id="poster" class="collapse">

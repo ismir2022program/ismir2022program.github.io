@@ -1,34 +1,25 @@
-import re
+# import csv
+# in_csv = '../ISMIR-2022-Miniconf-Data/sitedata/papers.csv'
+#
+# csv_reader = csv.reader(open(in_csv), delimiter=',')
+# words = next(csv_reader)
+#
+# cnt =0
+# for words in csv_reader:
+#     uid = words[0]
+#     print(uid)
+#     cnt+=1
+# print(cnt)
+
+
 import os
-import sys
-import collections
-import pandas as pd
 import shutil
 
-posters_hold_path ="../../ISMIR-CONF-HOLD/posters/"
-posters_save_path ="../static/posters/"
+in_dir = '/Users/jyotsna//Downloads/PDFs'
+out_dir = '/Users/jyotsna//Downloads/cameraready'
 
-paper_ID_csv = "../static/csv/Schedule - Paper (Preliminary) - Schedule - Paper (Preliminary).csv"
+for filename in os.listdir(in_dir):
+    out_filename = '{}.pdf'.format(filename.split('_')[0])
+    print(out_filename, filename)
+    shutil.copyfile(os.path.join(in_dir, filename), os.path.join(out_dir, out_filename))
 
-
-poster_list = []
-
-if not os.path.isdir(posters_save_path):
-    os.mkdir(posters_save_path)
-
-for poster in os.listdir(posters_hold_path):
-    if '.DS_Store' in poster:
-        continue
-    poster_list.append(int(poster.split(' - ')[-1].split("_")[0]))
-    # print(poster.split(' - ')[-1].split("_")[0])
-
-    shutil.copy(posters_hold_path + poster, posters_save_path)
-    os.rename(posters_save_path + poster, posters_save_path + poster.split(' - ')[-1].split("_")[0] + '.pdf')
-
-unique_poster_list = list(set(poster_list))
-print(len(poster_list), len(unique_poster_list))
-
-with open('current_poster_ids.txt', 'w') as f:
-    f.write(('\n').join(str(i) for i in unique_poster_list))
-
-print([item for item, count in collections.Counter(poster_list).items() if count > 1])
