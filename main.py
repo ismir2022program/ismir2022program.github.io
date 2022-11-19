@@ -236,18 +236,21 @@ def extract_list_field(v, key):
 
 
 def format_paper(v):
-    list_keys = ["authors", "primary_subject", "secondary_subject", "session"]
+    list_keys = ["authors", "primary_subject", "secondary_subject", "session", "authors_and_affil"]
     list_fields = {}
     for key in list_keys:
         list_fields[key] = extract_list_field(v, key)
 
     return {
         "id": v["uid"],
+        "session": v["session"],
+        "position": "{:02d}".format(int(v["position"])+1),
         "forum": v["uid"],
         "pic_id": v['thumbnail'],
         "content": {
             "title": v["title"],
             "authors": list_fields["authors"],
+            "authors_and_affil": list_fields["authors_and_affil"],
             "keywords": list(set(list_fields["primary_subject"] + list_fields["secondary_subject"])),
             "abstract": v["abstract"],
             "TLDR": v["abstract"],

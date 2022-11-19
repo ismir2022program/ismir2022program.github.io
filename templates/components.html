@@ -405,7 +405,7 @@
           </a>
         {% endif %}
         <div class="m-3 text-left card-subtitle text-muted">
-          {{meet.organiser}}
+          {{meet.organiser | markdown}}
         </div>
         <div class="m-3 text-left card-subtitle" style="display:flex; align-content: center;">
           {{local_date[0]}} | {{local_date[1]}} ({{ timezone }})
