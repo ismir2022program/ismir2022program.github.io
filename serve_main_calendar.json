@@ -323,8 +323,8 @@
     "calendarId": "pos",
     "category": "time",
     "end": "2022-12-06T12:30:00+05:30",
-    "link": "papers.html?session=Call)",
-    "location": "papers.html?session=Call)",
+    "link": "papers.html?session=3",
+    "location": "papers.html?session=3",
     "scrollKey": null,
     "start": "2022-12-06T10:00:00+05:30",
     "title": "Paper Session - 3 (Special Call)"
