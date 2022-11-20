@@ -79,6 +79,7 @@
     <!-- NAV -->
     
     <!--
+    ('tutorials.html', 'Tutorials'),
     ('index.html, 'Home'),
     ('special_meetings.html', 'Special Meetings'),
     -->
@@ -130,11 +131,7 @@
             </li>
             
             <li class="nav-item ">
-              <a class="nav-link" href="industry.html">Industry</a>
-            </li>
-            
-            <li class="nav-item active">
-              <a class="nav-link" href="tutorials.html">Tutorials</a>
+              <a class="nav-link" href="industry.html?session=Platinum">Industry</a>
             </li>
             
           </ul>
@@ -150,7 +147,77 @@
     <div class="container">
       <!-- Tabs -->
       <div class="tabs">
-         
+        
+<ul class="nav nav-pills justify-content-center">
+  
+  <li class="nav-item">
+    <a
+      id="calendar-html"
+      class="nav-link text-muted"
+      href="calendar.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Calendar
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="tutorials-html"
+      class="nav-link text-muted"
+      href="tutorials.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Dec-4
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_2-html"
+      class="nav-link text-muted"
+      href="day_2.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Dec-5
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_3-html"
+      class="nav-link text-muted"
+      href="day_3.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Dec-6
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_4-html"
+      class="nav-link text-muted"
+      href="day_4.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Dec-7
+    </a>
+  </li>
+  
+  <li class="nav-item">
+    <a
+      id="day_5-html"
+      class="nav-link text-muted"
+      href="day_5.html"
+      aria-controls="nav-home"
+      aria-selected="true"
+      >Dec-8
+    </a>
+  </li>
+  
+</ul>
+
       </div>
       <!-- Content -->
       <div class="content">
@@ -159,7 +226,9 @@
 <div class="tab-content px-3 px-sm-0" id="nav-tabContent">
   <div id="day">
     <!-- Workshops -->
-    <h2 style="text-align: center;">Tutorials</h2>
+<!--    <h2 style="text-align: center;">Tutorials</h2>-->
+    <h2 class="day-title" id=tut>Tutorial</h2>
+
     <div class="speakers">
       <div class="cards row p-4">
   
@@ -406,6 +475,7 @@ To enable screen reader support, press ⌘+Option+Z To learn about keyboard shor
     </div>
   </div>
 </div>
+<script src="static/js/schedule_nav.js"></script>
 <script src="static/js/anchor_offset.js"></script>
 
       </div>

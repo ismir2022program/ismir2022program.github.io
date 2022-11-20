@@ -141,7 +141,7 @@ const card_html = openreview => {
       <a href="music_${openreview.uid}.html" class="image-wrapper mb-3">
         <img src="static/images/music_headshots/${openreview.uid}.jpg"/>
       </a>
-      <h3><a href="music_${openreview.uid}.html">${openreview.title}</a></h3>
+      <h3><a href="music_${openreview.uid}.html">M${openreview.position}: ${openreview.title}</a></h3>
       <h4>${author}</h4>
       </div>`
 }

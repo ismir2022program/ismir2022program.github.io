@@ -5,9 +5,10 @@
     "channel_url": "",
     "company": "Spotify",
     "external_web_link": "https://research.atspotify.com/",
-    "pdf": "https://drive.google.com/file/d/1IsxHI1a0gxdl-bF4lX5xk9wKpz49BJVL/view?usp=share_link",
+    "pdf": "spotify.pdf",
     "session": "Platinum",
     "title": "Spotify",
+    "type": "Booth + communication channel",
     "uid": "spotify",
     "video": "https://www.youtube.com/embed/M7LQYW6DCb0"
   },
@@ -20,6 +21,7 @@
     "pdf": "adobe.pdf",
     "session": "Gold",
     "title": "Audio AI for Human Centered Creativity",
+    "type": "Booth + communication channel",
     "uid": "adobe",
     "video": ""
   },
@@ -32,6 +34,7 @@
     "pdf": "deezer.pdf",
     "session": "Gold",
     "title": "Deezer Research: Exploring music at scale",
+    "type": "Booth + communication channel",
     "uid": "deezer",
     "video": ""
   },
@@ -41,11 +44,12 @@
     "channel_url": "",
     "company": "Utopia Music",
     "external_web_link": "https://utopiamusic.com/",
-    "pdf": "",
+    "pdf": "https://drive.google.com/file/d/1bj-v_RC_1SFIFLu1Mo_TXQMR5fbDtRfE/view?usp=share_link",
     "session": "Gold",
     "title": "Music Analysis and Data Science at Utopia",
+    "type": "Booth + communication channel",
     "uid": "utopia",
-    "video": ""
+    "video": "https://drive.google.com/file/d/1KkgUZ8W4isdIfPHx78st9i3n5Bv9eSvs/view?usp=share_link"
   },
   {
     "abstract": "",
@@ -56,6 +60,7 @@
     "pdf": "sirius.pdf",
     "session": "Gold",
     "title": "MIR and Music Recommendation Research at SiriusXM / Pandora",
+    "type": "Booth + communication channel",
     "uid": "sirius",
     "video": "https://www.youtube.com/embed/k5_HXG81vUo"
   },
@@ -65,11 +70,12 @@
     "channel_url": "",
     "company": "Smule",
     "external_web_link": "https://www.smule.com/",
-    "pdf": "",
+    "pdf": "https://drive.google.com/file/d/13xHzIAmTy3nmvGiCxtHEuiQqy3MVg3Yp/view?usp=share_link",
     "session": "Gold",
     "title": "Smule",
+    "type": "Booth + communication channel",
     "uid": "smule",
-    "video": ""
+    "video": "https://drive.google.com/file/d/1j8fdTaNtfNPHes191_behGJfJ1hXRg_z/view?usp=share_link"
   },
   {
     "abstract": "",
@@ -80,6 +86,7 @@
     "pdf": "",
     "session": "Platinum",
     "title": "Moises",
+    "type": "Booth + communication channel",
     "uid": "moises",
     "video": ""
   },
@@ -92,6 +99,7 @@
     "pdf": "",
     "session": "Gold",
     "title": "Enhancing Music Performance Experience through MIR",
+    "type": "Booth + communication channel",
     "uid": "yamaha",
     "video": "https://drive.google.com/file/d/1uaPyxnHHsF2DCC65q238-DXXCHQd0HXW/preview"
   },
@@ -104,6 +112,7 @@
     "pdf": "",
     "session": "Gold",
     "title": "Chordify",
+    "type": "Booth + communication channel",
     "uid": "chordify",
     "video": ""
   },
@@ -116,6 +125,7 @@
     "pdf": "",
     "session": "Silver",
     "title": "Steinberg: Creativity First",
+    "type": "Booth only",
     "uid": "steinberg",
     "video": "https://www.youtube.com/embed/nc8I36RI4Y4"
   },
@@ -128,7 +138,21 @@
     "pdf": "",
     "session": "Silver",
     "title": "Soundwide",
+    "type": "Communication channel only",
     "uid": "soundwide",
+    "video": ""
+  },
+  {
+    "abstract": "Indian Speech Communication Association or IndSCA is a community/committee formed with distinguished faculty members from different institutions of India. With boosting speech, language and audio research activity in India as one of the major objectives, IndSCA is the pioneer committee in above mentioned subjects in the country. It also offers student travel grants to major international speech conference such as NIPS, ICML, Interspeech, ICASSP.\n\nPlease check our website for more details.",
+    "channel_name": "",
+    "channel_url": "",
+    "company": "IndSCA",
+    "external_web_link": "https://indsca.web.app/",
+    "pdf": "",
+    "session": "Gold",
+    "title": "IndSCA",
+    "type": "",
+    "uid": "indsca",
     "video": ""
   }
 ]
