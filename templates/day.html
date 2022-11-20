@@ -1,14 +1,15 @@
 {% set active_page = "Schedule" %}
 {% set page_title = "Day " + daynum  %}
 {% extends "base.html" %}
-
+<!--  ("day_1.html", "December 4th", "day_1-html"),-->
 {% block tabs %}
 {{ components.navtabs([
   ("calendar.html", "Calendar", "calendar-html"),
-  ("day_1.html", "Day 1", "day_1-html"),
-  ("day_2.html", "Day 2", "day_2-html"),
-  ("day_3.html", "Day 3", "day_3-html"),
-  ("day_4.html", "Day 4", "day_4-html"),
+  ("tutorials.html", "Dec-4", "tutorials-html"),
+  ("day_2.html", "Dec-5", "day_2-html"),
+  ("day_3.html", "Dec-6", "day_3-html"),
+  ("day_4.html", "Dec-7", "day_4-html"),
+  ("day_5.html", "Dec-8", "day_5-html"),
   ])
 }}
 {% endblock %}
@@ -20,7 +21,12 @@
   {% set tzone = '' | localcheck %}
 {% endif %}
 <div id="day">
-  <!-- Speakers -->
+
+  {% if day.tutorials %}
+  {{ components.subsection_tag("Tutorial", "tut") }}
+  {{ components.tutorialscard(tutorials, tzone, tut_md) }}
+  {% endif %}
+
   {% if day.opening %}
     {{ components.subsection_tag("Opening", "open") }}
     {{ components.meetingcard(day.opening, tzone) }}

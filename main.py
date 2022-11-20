@@ -15,10 +15,6 @@ from pytz import timezone
 import tzlocal
 import datetime
 from dateutil import tz
-import sys
-
-from modules.tutorials import Tutorials
-from modules.zoom_creator import ZoomCreator
 
 site_data = {}
 by_uid = {}
@@ -56,7 +52,7 @@ def main(site_data_path):
     print("Data Successfully Loaded")
     by_uid["days"] = {}
     site_data["days"] = []
-    for day in ['1', '2', '3', '4']:
+    for day in ['1', '2', '3', '4', '5']:
         speakers = [s for s in site_data["events"] if s["day"] == day and s["category"] == "All Meeting"]
         posters = [p for p in site_data["events"] if p["day"] == day and p["category"] == "Poster session"]
         lbd = [l for l in site_data["events"] if l["day"] == day and l["category"] == "LBD"]
@@ -70,6 +66,7 @@ def main(site_data_path):
         opening = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Opening"]
         business = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Awards"]
         social = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Social"]
+        tutorials = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Tutorials"]
 
         by_uid["days"][day] = {
             "uid": day,
@@ -87,7 +84,8 @@ def main(site_data_path):
             "opening": opening,
             "business": business,
             "social": social,
-            "vmeetup":vmeetup
+            "vmeetup":vmeetup,
+            "tutorials":tutorials
         }
         site_data["days"].append(by_uid["days"][day])
     return extra_files
@@ -141,7 +139,7 @@ def schedule():
     data = _data()
     data["days"] = []
     # data = _data()
-    for day in ['1', '2', '3', '4']:
+    for day in ['1', '2', '3', '4', '5']:
         speakers = [s for s in site_data["events"] if s["day"] == day and s["category"] == "All Meeting"]
         posters = [p for p in site_data["events"] if p["day"] == day and p["category"] == "Poster session"]
         lbd = [l for l in site_data["events"] if l["day"] == day and l["category"] == "LBD"]
@@ -155,6 +153,7 @@ def schedule():
         opening = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Opening"]
         business = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Awards"]
         social = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Social"]
+        tutorials = [o for o in site_data["events"] if o["day"] == day and o["category"] == "Tutorials"]
 
         out = {
             "speakers": speakers,
@@ -171,7 +170,8 @@ def schedule():
             "opening": opening,
             "business": business,
             "social": social,
-            "vmeetup": vmeetup
+            "vmeetup": vmeetup,
+            "tutorials": tutorials
 
         }
         data["days"].append(out)

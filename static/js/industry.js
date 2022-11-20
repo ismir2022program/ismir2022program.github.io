@@ -135,14 +135,32 @@ d3.selectAll('.filter_option input').on('click', function () {
 })
 
 const card_html = openreview => {
-    return `
-      <div class="industry-card m-4 text-center">
-      <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
-        <img style="max-width: 100%;" src="static/images/sponsors/${openreview.uid}.png" />
-      </a>
-      <h3><a href="industry_${openreview.uid}.html">${openreview.title}</a></h3>
-      <h4>${openreview.company}</h4>
-      </div>`
+    if (openreview.session == 'Platinum'){
+        return `<div class="industry-card m-4 text-center">
+          <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
+            <img style="max-width: 100%;" src="static/images/sponsors/${openreview.uid}.png" />
+          </a>
+          <h3><a href="industry_${openreview.uid}.html">${openreview.company}</a></h3>
+          </div>`
+      }
+    if (openreview.session == 'Gold'){
+        return `<div class="industry-card m-4 text-center">
+          <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
+            <img style="max-width: 60%;" src="static/images/sponsors/${openreview.uid}.png" />
+          </a>
+          <h3><a href="industry_${openreview.uid}.html">${openreview.company}</a></h3>
+
+          </div>`
+      }
+    if (openreview.session == 'Silver'){
+        return `<div class="industry-card m-4 text-center">
+          <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
+            <img style="max-width: 50%;" src="static/images/sponsors/${openreview.uid}.png" />
+          </a>
+          <h3><a href="industry_${openreview.uid}.html">${openreview.company}</a></h3>
+          </div>`
+      }
+
 }
 
 
