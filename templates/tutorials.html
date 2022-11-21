@@ -15,7 +15,11 @@
 {% endblock %}
 
 {% block content %}
-{% set tzone = '' | localcheck %}
+{% if request.args.get('tz') %}
+  {% set tzone = request.args.get('tz') %}
+{% else %}
+  {% set tzone = 'Asia/Calcutta' | localcheck %}
+{% endif %}
 <div class="tab-content px-3 px-sm-0" id="nav-tabContent">
   <div id="day">
     <!-- Workshops -->

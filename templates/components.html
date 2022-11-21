@@ -79,7 +79,7 @@
               </span>
             </div>
             <div class="m-3 text-left card-subtitle">
-              {{local_date_a[0]}} | {{local_date_a[1]}} (Live) ({{ timezone }})
+              {{local_date_a[0]}} | {{local_date_a[1]}} ({{ timezone }})
             </div>
             <div class="m-3">
               {{speaker.description|safe}}
@@ -346,14 +346,19 @@
   {% endfor %}
 
   {% for session in session_list %}
-    <div class="col-md-6 col-sm-12 p-3" style="box-sizing: border-box;">
-
-      {% set session_filter = session[0]['title'].split(" ")[-1][0] %}
-
+<!--    <div class="col-md-6 col-sm-12 p-3" style="box-sizing: border-box;">-->
+        <div class="col-12 p-3" style="box-sizing: border-box;">
       {% set category = session[0]['category'] %}
 
-      {% if category == 'Poster session' and session[0]['title'].split(" ")[0] == 'LBD' %}{% set page = 'lbds.html' %}
-      {% elif category == 'Music concert' %}{% set page = 'music.html' %}
+      {% if category == 'LBD' %}{% set session_filter = session[0]['title'].split()[-1][1:-1] %}
+      {% elif category == 'Music' %}{% set session_filter = '' %}
+      {% elif category == 'Poster session' %}{% set session_filter = session[0]['title'].split(" ")[3] %}
+      {% endif %}
+
+
+
+      {% if category == 'LBD' %}{% set page = 'lbds.html'%}
+      {% elif category == 'Music' %}{% set page = 'music.html' %}
       {% elif category == 'Poster session' %}{% set page = 'papers.html' %}
       {% endif %}
 
@@ -368,12 +373,16 @@
             <h3 class="m-3 card-title main-title text-left">
               {{part.title}}
             </h3>
+            <div class="m-3 text-left card-subtitle text-muted">
+              {{part.organiser | markdown}}
+            </div>
             <div class="m-3 text-left card-subtitle">
               {{local_date[0]}} | {{local_date[1]}} ({{ timezone }})
             </div>
-<!--            <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">-->
-<!--              {{part.description | markdown}}-->
-<!--            </div>-->
+
+            <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+              {{part.description | markdown}}
+            </div>
 
           {% endfor %}
           </div>

@@ -177,5 +177,5 @@ def registration_stats(in_csv):
 
 
 if __name__ == "__main__":
-    in_csv = '../ISMIR-2022-Miniconf-Data/sitedata/__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv'
+    in_csv = '../miniconf-data/sitedata/__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv'
     registration_stats(in_csv=in_csv)

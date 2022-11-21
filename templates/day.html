@@ -18,8 +18,9 @@
 {% if request.args.get('tz') %}
   {% set tzone = request.args.get('tz') %}
 {% else %}
-  {% set tzone = '' | localcheck %}
+  {% set tzone = 'Asia/Calcutta' | localcheck %}
 {% endif %}
+
 <div id="day">
 
   {% if day.tutorials %}
@@ -32,11 +33,6 @@
     {{ components.meetingcard(day.opening, tzone) }}
   {% endif %}
 
-  {% if day.industry %}
-    {{ components.subsection_tag("Industry Session", "industry") }}
-    {{ components.meetingcard(day.industry, tzone) }}
-  {% endif %}
-
   {% if day.speakers %}
   {{ components.subsection_tag("Keynote Speaker", "all") }}
   {{ components.speakergroup(day.speakers, tzone) }}
@@ -44,8 +40,14 @@
 
   {% if day.posters %}
     {{ components.subsection_tag("Poster Sessions", "pos") }}
-    {{ components.meetingcard(day.posters, tzone) }}
+    {{ components.postercards(day.posters, tzone) }}
   {% endif %}
+
+  {% if day.industry %}
+    {{ components.subsection_tag("Industry Session", "industry") }}
+    {{ components.meetingcard(day.industry, tzone) }}
+  {% endif %}
+
 
   {% if day.meetup %}
     {{ components.subsection_tag("Special Sessions", "meet") }}
@@ -59,7 +61,7 @@
 
   {% if day.lbd %}
     {{ components.subsection_tag("Late Breaking Demo", "lbd") }}
-    {{ components.meetingcard(day.lbd, tzone) }}
+    {{ components.postercards(day.lbd, tzone) }}
   {% endif %}
 
   {% if day.wimir %}
@@ -69,7 +71,7 @@
 
   {% if day.music %}
     {{ components.subsection_tag("Music Sessions", "mus") }}
-    {{ components.meetingcard(day.music, tzone) }}
+    {{ components.postercards(day.music, tzone) }}
   {% endif %}
 
   {% if day.social %}
