@@ -170,6 +170,18 @@ def createPrivateSlackChannels(slackClient, csvFile, channelColumnName):
                 print("Exception in creating channel: ", e)
 
 
+def createPublicSlackChannels(slackClient, csvFile, channelColumnName):
+    paper_data = pd.read_csv(csvFile)
+    channels = paper_data[channelColumnName]
+    # channelsData = get_all_channels_data(slackClient)
+    for channelName in channels:
+        if isChannel(channelName) == False:
+            try:
+                createSlackChannelAsBot(slackClient, channelName, False)
+            except SlackApiError as e: # set proper exception
+                print("Exception in creating channel: ", e)
+
+
 def createEmptyLinkColumnInCSVifNotPresent(csvFile, column_name, newCsvFile = None):
     """
         Parameters:
