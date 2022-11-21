@@ -11,6 +11,7 @@ import pandas as pd
 from pathlib import Path
 from dotenv import load_dotenv
 from slack_sdk.errors import SlackApiError
+import time
 
 # [Workaround 1 Step 1]
 # This step is to be used if you get a [SSL: CERTIFICATE_VERIFY_FAILED] error
@@ -166,6 +167,20 @@ def createPrivateSlackChannels(slackClient, csvFile, channelColumnName):
         if isChannel(channelName) == False:
             try:
                 createSlackChannelAsBot(slackClient, channelName, True)
+                time.sleep(1)
+            except SlackApiError as e: # set proper exception
+                print("Exception in creating channel: ", e)
+
+
+def createPublicSlackChannels(slackClient, csvFile, channelColumnName):
+    paper_data = pd.read_csv(csvFile)
+    channels = paper_data[channelColumnName]
+    # channelsData = get_all_channels_data(slackClient)
+    for channelName in channels:
+        if isChannel(channelName) == False:
+            try:
+                createSlackChannelAsBot(slackClient, channelName, False)
+                time.sleep(1)
             except SlackApiError as e: # set proper exception
                 print("Exception in creating channel: ", e)
 
@@ -263,7 +278,7 @@ def isUserAlreadyInChannel(slackClient, user_email, channelName):
 # Upto 1000 users can be invited
 # channels:manage and groups:write bot scopes required
 def inviteUserToChannel(slackClient, user_email, channelName):
-    if((isUserAlreadyInChannel(slackClient, user_email, channelName) == False) and (isUserAlreadyInWorkspace(slackClient, user_email) == True)):
+    if((isUserAlreadyInChannel(slackClient, user_email, channelName) == False)):
         userID = getUserID(slackClient, user_email)
         channelID = getChannelID(slackClient, channelName)
         addUserIDsToASlackChannelById(slackClient, channelID, userID)
