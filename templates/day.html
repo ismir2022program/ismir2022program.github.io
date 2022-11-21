@@ -15,12 +15,15 @@
 {% endblock %}
 
 {% block content %}
-{% if request.args.get('tz') %}
-  {% set tzone = request.args.get('tz') %}
-{% else %}
-  {% set tzone = 'Asia/Calcutta' | localcheck %}
-{% endif %}
-
+<!--{% if request.args.get('tz') %}-->
+<!--  {% set tzone = request.args.get('tz') %}-->
+<!--argument: {{tzone}}-->
+<!--{% else %}-->
+<!--  {% set tzone = '' | localcheck %}-->
+<!--localcheck: {{tzone}}-->
+<!--{% endif %}-->
+<!--finalchosen: {{tzone}}-->
+{% set tzone = 'Asia/Calcutta' %}
 <div id="day">
 
   {% if day.tutorials %}
