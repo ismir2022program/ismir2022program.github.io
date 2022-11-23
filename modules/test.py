@@ -12,6 +12,7 @@ from modules.papers import Papers
 from modules.zoom_creator import ZoomCreator
 from lbds import Lbds
 from music import Music
+from industry import Industry
 
 # Uncomment below for zoom creation
 # zoomCreator =  ZoomCreator("../../ISMIR-2022-Miniconf-Data/sitedata/events.csv")
@@ -32,5 +33,9 @@ from music import Music
 # lbdObj.setupSlackChannels(slackUtils)
 
 # Uncommnet below for music slack setup
-musicObj = Music("/Users/sg/ismir22-prod/miniconf-data/sitedata/music.csv")
-musicObj.setupSlackChannels(slackUtils)
+# musicObj = Music("/Users/sg/ismir22-prod/miniconf-data/sitedata/music.csv")
+# musicObj.setupSlackChannels(slackUtils)
+
+# Uncommnet below for industry slack setup
+industryObj = Industry("/Users/sg/ismir22-prod/miniconf-data/sitedata/industry.csv", "/Users/sg/ismir22-prod/miniconf-data/sitedata/__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv")
+industryObj.setupSlackChannels(slackUtils)
