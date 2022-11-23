@@ -9,7 +9,7 @@ class Music:
     This method takes the config data loaded and the music csv file.
     """
     def __init__(self, musicCsvFile):
-        print("Initialising lbds")
+        print("Initialising music")
         self.musicCsvFile = musicCsvFile
         self.useDummyValues = True
 
