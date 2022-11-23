@@ -104,7 +104,7 @@ class Tutorials:
         # If we have to use dummy values, then we just send invites to dummy values.
         if(self.useDummyValues):
             for key in titles_to_be_used.keys():
-                titles_to_be_used[key] = (titles_to_be_used[key][0], ["swapnilgupta.iiith@gmail.com", "sharathadavanne@gmail.com "])
+                titles_to_be_used[key] = (titles_to_be_used[key][0], ["swapnilgupta.iiith@gmail.com", "sharathadavanne@gmail.com"])
         
         print("######## The final data for emails is", titles_to_be_used)
 
