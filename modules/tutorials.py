@@ -13,10 +13,10 @@ class Tutorials:
     """
     This method takes the config data loaded and the tutorials csv file.
     """
-    def __init__(self, eventsCsvFile, townscriptCsvFile):
+    def __init__(self, eventsCsvFile, townscriptCsvFile, useDummyValues):
         self.eventsCsvFile = eventsCsvFile
         self.townscriptCsvFile = townscriptCsvFile
-        self.useDummyValues = True
+        self.useDummyValues = useDummyValues
 
     """
     This method inputs the slack utils, and uses it to create the slack channels.

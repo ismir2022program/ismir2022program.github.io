@@ -8,10 +8,10 @@ class Lbds:
     """
     This method takes the config data loaded and the papers csv file.
     """
-    def __init__(self, lbdsCsvFile):
+    def __init__(self, lbdsCsvFile, useDummyValues):
         print("Initialising lbds")
         self.lbdsCsvFile = lbdsCsvFile
-        self.useDummyValues = True
+        self.useDummyValues = useDummyValues
 
     """
     This method inputs the zoomUtils and setup zoom calls for the all the sessions.
