@@ -53,7 +53,7 @@ class Papers:
         if(self.useDummyValues):
             print("Have to use dummy values!!!")
             for key, value in user_details.items():
-                user_details[key] = ["swapnilgupta.iiith@gmail.com", "sharathadavanne@gmail.com", "ayushipaharia@gmail.com"]
+                user_details[key] = ["swapnilgupta.iiith@gmail.com", "sharathadavanne@gmail.com"]
 
         # Sending invites to users.
         print("The user details are: ", user_details)
