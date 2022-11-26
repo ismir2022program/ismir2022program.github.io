@@ -6,7 +6,6 @@ Recent advances of FSL/ZSL in MIR - Techniques and contributions in recent studi
 Coding examples - Showcasing the training and evaluation pipeline of FSL and ZSL models on specific MIR tasks. Code and references to the tools and datasets will be provided.
 
 We aim for this tutorial to be useful to researchers and practitioners in the ISMIR community who are facing labeled data scarcity issues, looking for new interaction paradigms between users and MIR systems, or generally interested in the techniques and applications of FSL and ZSL. We assume the audience is familiar with the basic machine learning concepts.
-To enable screen reader support, press ⌘+Option+Z To learn about keyboard shortcuts, press ⌘slash
  
  
  		
