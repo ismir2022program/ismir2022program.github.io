@@ -108,7 +108,7 @@ if __name__ == "__main__":
         setupLbds(os.path.join(data_path, "lbds.csv"))
 
     elif(action == "setup-music"):
-        setupMusic(os.path.join(data_path, "lbds.csv"))
+        setupMusic(os.path.join(data_path, "music.csv"))
 
     elif(action == "setup-sponsors"):
         setupSponsors(os.path.join(data_path, "industry.csv"), os.path.join(data_path, "__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv"))
