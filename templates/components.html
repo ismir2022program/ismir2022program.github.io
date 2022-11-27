@@ -81,6 +81,14 @@
             <div class="m-3 text-left card-subtitle">
               {{local_date_a[0]}} | {{local_date_a[1]}} ({{ timezone }})
             </div>
+
+            <div class="m-3 text-center">
+            {% if speaker.channel_url %}
+              <a href="{{speaker.channel_url}}" class="btn btn-primary mr-3">{% include 'slack_svg.html' %} {{speaker.slack_channel}}</a>
+            {% endif %}
+            </div>
+
+
             <div class="m-3">
               {{speaker.description|safe}}
             </div>
@@ -91,9 +99,11 @@
             <div class="m-3">
               {{speaker.organiser_bio|safe}}
             </div>
-            <div class="ml-3 mr-3 mt-4 mb-3 h5 text-muted">
-              Zoom links will be shared on Slack.
-            </div>
+
+
+<!--            <div class="ml-3 mr-3 mt-4 mb-3 h5 text-muted">-->
+<!--              Zoom links will be shared on Slack.-->
+<!--            </div>-->
           </div>
         </div>
       </div>
