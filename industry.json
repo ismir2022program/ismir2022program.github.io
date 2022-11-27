@@ -1,8 +1,10 @@
 [
   {
+    "Unnamed: 0": "0",
+    "Unnamed: 0.1": "0",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "spotify-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CMR5C51S",
     "company": "Spotify",
     "external_web_link": "https://research.atspotify.com/",
     "pdf": "spotify.pdf",
@@ -13,9 +15,11 @@
     "video": "https://www.youtube.com/embed/M7LQYW6DCb0"
   },
   {
+    "Unnamed: 0": "1",
+    "Unnamed: 0.1": "1",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "adobe-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CMR5CWTE",
     "company": "Adobe",
     "external_web_link": "https://www.adobe.com/",
     "pdf": "adobe.pdf",
@@ -26,9 +30,11 @@
     "video": ""
   },
   {
+    "Unnamed: 0": "2",
+    "Unnamed: 0.1": "2",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "deezer-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CCPD09E2",
     "company": "Deezer",
     "external_web_link": "https://www.deezer.com/soon",
     "pdf": "deezer.pdf",
@@ -39,9 +45,11 @@
     "video": ""
   },
   {
+    "Unnamed: 0": "3",
+    "Unnamed: 0.1": "3",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "utopia-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CMR5ELF6",
     "company": "Utopia Music",
     "external_web_link": "https://utopiamusic.com/",
     "pdf": "https://drive.google.com/file/d/1bj-v_RC_1SFIFLu1Mo_TXQMR5fbDtRfE/view?usp=share_link",
@@ -52,9 +60,11 @@
     "video": "https://drive.google.com/file/d/1KkgUZ8W4isdIfPHx78st9i3n5Bv9eSvs/view?usp=share_link"
   },
   {
+    "Unnamed: 0": "4",
+    "Unnamed: 0.1": "4",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "sirius-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CKBK89K4",
     "company": "SiriusXM/Pandora",
     "external_web_link": "https://www.siriusxm.com/pandora",
     "pdf": "sirius.pdf",
@@ -65,9 +75,11 @@
     "video": "https://www.youtube.com/embed/k5_HXG81vUo"
   },
   {
+    "Unnamed: 0": "5",
+    "Unnamed: 0.1": "5",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "smule-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CKBK92E6",
     "company": "Smule",
     "external_web_link": "https://www.smule.com/",
     "pdf": "https://drive.google.com/file/d/13xHzIAmTy3nmvGiCxtHEuiQqy3MVg3Yp/view?usp=share_link",
@@ -78,9 +90,11 @@
     "video": "https://drive.google.com/file/d/1j8fdTaNtfNPHes191_behGJfJ1hXRg_z/view?usp=share_link"
   },
   {
+    "Unnamed: 0": "6",
+    "Unnamed: 0.1": "6",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "moises-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CY0Y3WSD",
     "company": "Moises",
     "external_web_link": "https://moises.ai/",
     "pdf": "",
@@ -91,9 +105,11 @@
     "video": ""
   },
   {
+    "Unnamed: 0": "7",
+    "Unnamed: 0.1": "7",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "yamaha-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CGD56LQ5",
     "company": "Yamaha",
     "external_web_link": "https://www.yamaha.com/",
     "pdf": "",
@@ -104,9 +120,11 @@
     "video": "https://drive.google.com/file/d/1uaPyxnHHsF2DCC65q238-DXXCHQd0HXW/preview"
   },
   {
+    "Unnamed: 0": "8",
+    "Unnamed: 0.1": "8",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "chordify-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CKBKBDMG",
     "company": "Chordify",
     "external_web_link": "https://chordify.net/",
     "pdf": "",
@@ -117,9 +135,11 @@
     "video": ""
   },
   {
+    "Unnamed: 0": "9",
+    "Unnamed: 0.1": "9",
     "abstract": "Steinberg has been providing award-winning, technologically advanced music and media production products for musicians and producers of music, video and film since 1984. Today, Steinberg is one of the world's largest manufacturers of music and audio software and hardware, with millions of users worldwide. The Steinberg range of products has long since found world renown in all aspects of modern digital audio processing. They form the backbone of facilities specializing in music composition and production, mastering, restoration, sound design and audio post for the music, game and film industries.\n\nSince January 2005, Steinberg is a wholly owned subsidiary of Yamaha Corporation, the world's leading manufacturer of audio hardware.\n\nFor additional information, visit https://www.steinberg.net or contact us at press@steinberg.net",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "steinberg-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CK8H7X9R",
     "company": "Steinberg Media Technologies GmbH",
     "external_web_link": "https://www.steinberg.net/",
     "pdf": "",
@@ -130,9 +150,11 @@
     "video": "https://www.youtube.com/embed/nc8I36RI4Y4"
   },
   {
+    "Unnamed: 0": "10",
+    "Unnamed: 0.1": "10",
     "abstract": "",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "soundwide-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CMR5KWP6",
     "company": "iZotope",
     "external_web_link": "https://www.izotope.com/",
     "pdf": "",
@@ -143,9 +165,11 @@
     "video": ""
   },
   {
+    "Unnamed: 0": "11",
+    "Unnamed: 0.1": "11",
     "abstract": "Indian Speech Communication Association or IndSCA is a community/committee formed with distinguished faculty members from different institutions of India. With boosting speech, language and audio research activity in India as one of the major objectives, IndSCA is the pioneer committee in above mentioned subjects in the country. It also offers student travel grants to major international speech conference such as NIPS, ICML, Interspeech, ICASSP.\n\nPlease check our website for more details.",
-    "channel_name": "",
-    "channel_url": "",
+    "channel_name": "indsca-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CCPD77L6",
     "company": "IndSCA",
     "external_web_link": "https://indsca.web.app/",
     "pdf": "",
