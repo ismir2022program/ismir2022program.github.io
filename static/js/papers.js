@@ -329,6 +329,8 @@ const card_html = (openreview) => {
                    <h5 class="card-title text-muted" align="center">P${openreview.session}-${openreview.position}: ${openreview.content.title} </h5>
                 <h6 style="flex-grow: 1;" class="card-subtitle text-muted" align="center">
                         ${openreview.content.authors.join(', ')}
+                        <br><br>
+                      <em>Presented ${openreview.content.paper_presentation}</em>
                 </h6>
                 ${card_image(openreview, render_mode !== 'list')}
                 ` + button +

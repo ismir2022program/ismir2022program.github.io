@@ -245,6 +245,8 @@ def format_paper(v):
         "pic_id": v['thumbnail'],
         "content": {
             "title": v["title"],
+            "paper_presentation": v["paper_presentation"],
+            "long_presentation": v["long_presentation"],
             "authors": list_fields["authors"],
             "authors_and_affil": list_fields["authors_and_affil"],
             "keywords": list(set(list_fields["primary_subject"] + list_fields["secondary_subject"])),

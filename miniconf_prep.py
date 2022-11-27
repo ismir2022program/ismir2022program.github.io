@@ -1,8 +1,6 @@
 from scripts.calendar_csv2ics import calendar_csv2ics
 from scripts.calendar_ics2json import calendar_ics2json
 from scripts.remove_private_details import remove_author_contacts
-from utils import slack as slackUtils
-from utils import zoom as zoomUtils
 from modules.tutorials import Tutorials
 from modules.papers import Papers
 from modules.zoom_creator import ZoomCreator
@@ -22,11 +20,11 @@ useDummyValues = True
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description="MiniConf Prep Script")
-    
+
     parser.add_argument(
         "--path",
         help="Pass the path of directory containing the master data.",
-        required=True)
+        required=False)
 
 
     parser.add_argument(
@@ -47,8 +45,7 @@ def parse_arguments():
 
     parser.add_argument(
         "--action",
-        help="set this value as true if we want to run on prod data.",
-        required=True)
+        help="set this value to one of the possible actions: setup-zoom, setup-tutorial, setup-papers, setup-lbd, setup-music, setup-sponsors, remove-author-email, prepare-calendar, process-new-users", required=True)
 
     args = parser.parse_args()
     return args
@@ -79,8 +76,8 @@ def setupSponsors(industryCsvFile, registrtionDataCsvFile):
     industryObj.setupSlackChannels(slackUtils)
 
 def removeAuthorEmails():
-    # Step2: Create sitedata for miniconf without author/presenter credentials.
     remove_author_contacts()
+
 
 if __name__ == "__main__":
     args = parse_arguments()
@@ -88,48 +85,49 @@ if __name__ == "__main__":
     useDummyValues = not args.prod
     action = args.action
 
-    if(data_path is None):
-        raise Exception("--path for the root directory for data is missing")
-
-    if(action is None):
+    if (action is None):
         raise Exception("--action is missing. Possible values are setup-zoom, setup-tutorial, setup-papers, setup-lbd, setup-music, setup-sponsors, remove-author-email, prepare-calendar", "process-new-users")
 
+    if 'setup' in action or 'process' in action:
+        if(data_path is None):
+            raise Exception("--path for the root directory for data is missing")
+        from utils import slack as slackUtils
+        from utils import zoom as zoomUtils
 
-    if(action == "setup-zoom"):
+    if (action == "setup-zoom"):
         setupZoom(os.path.join(data_path, "events.csv"))
 
-    elif(action == "setup-tutorials"):
+    elif (action == "setup-tutorials"):
         setupTutorials(os.path.join(data_path, "events.csv"), os.path.join(data_path, "__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv"))
-    
-    elif(action == "setup-papers"):
+
+    elif (action == "setup-papers"):
         setupPapers(os.path.join(data_path, "papers.csv"))
 
-    elif(action == "setup-lbd"):
+    elif (action == "setup-lbd"):
         setupLbds(os.path.join(data_path, "lbds.csv"))
 
-    elif(action == "setup-music"):
+    elif (action == "setup-music"):
         setupMusic(os.path.join(data_path, "music.csv"))
 
-    elif(action == "setup-sponsors"):
+    elif (action == "setup-sponsors"):
         setupSponsors(os.path.join(data_path, "industry.csv"), os.path.join(data_path, "__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv"))
 
-    elif(action == "remove-author-email"):
+    elif (action == "process-new-users"):
+        # First setup tutorials.
+        setupTutorials(os.path.join(data_path, "events.csv"), os.path.join(data_path, "__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv"))
+        # Next setup sponsors.
+        setupSponsors(os.path.join(data_path, "industry.csv"), os.path.join(data_path, "__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv"))
+
+    elif (action == "remove-author-email"):
         removeAuthorEmails()
 
-    elif(action == "prepare-calendar"):
+    elif (action == "prepare-calendar"):
         # Step3: Prepare for calendar
         # If links from schedule are not redirecting to the right page, check this code
         calendar_csv2ics()
         calendar_ics2json()
 
-    elif(action == "process-new-users"):
-        # First setup tutorials.
-        setupTutorials(os.path.join(data_path, "events.csv"), os.path.join(data_path, "__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv"))
-        # Next setup sponsors.
-        setupSponsors(os.path.join(data_path, "industry.csv"), os.path.join(data_path, "__23rd_International_Society_for_Music_Information_Retrieval_Conference_(ISMIR_2022)__Registration_Data.csv"))
-    
 
 
 
 
-    

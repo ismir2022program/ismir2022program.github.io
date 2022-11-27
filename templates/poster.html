@@ -46,6 +46,15 @@
       > {{ "; " if not loop.last }}
       {% endfor %}
     </p>
+    <h4 class="text-muted text-center">
+      Presented {{paper.content.paper_presentation}}:
+      {% if paper.content.long_presentation == 'True' %}
+        10-minute long-format presentation
+      {% else %}
+        4-minute short-format presentation
+      {% endif %}
+    </h4>
+
   </div>
 </div>
 <div style="display: flex; justify-content: center;" class="btn-toolbar mt-4" role="toolbar">
