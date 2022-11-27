@@ -8,10 +8,10 @@ class Industry:
     """
     This method takes the config data loaded and the papers csv file.
     """
-    def __init__(self, industryCsvFile, registrationCsvFile):
+    def __init__(self, industryCsvFile, registrationCsvFile, useDummyValues):
         print("Initialising lbds")
         self.industryCsvFile = industryCsvFile
-        self.useDummyValues = True
+        self.useDummyValues = useDummyValues
         self.registrationCsvFile = registrationCsvFile
 
     """

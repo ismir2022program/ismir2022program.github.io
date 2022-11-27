@@ -8,10 +8,10 @@ class Lbds:
     """
     This method takes the config data loaded and the papers csv file.
     """
-    def __init__(self, lbdsCsvFile):
+    def __init__(self, lbdsCsvFile, useDummyValues):
         print("Initialising lbds")
         self.lbdsCsvFile = lbdsCsvFile
-        self.useDummyValues = True
+        self.useDummyValues = useDummyValues
 
     """
     This method inputs the zoomUtils and setup zoom calls for the all the sessions.
@@ -24,8 +24,19 @@ class Lbds:
         csv_data = pd.read_csv(self.lbdsCsvFile)
 
         print(csv_data)
+        slack_channel_column = "channel_name"
 
-        slack_channel_column = "slack_channel"
+        # Preparing the slack channel name.
+        for index, row in csv_data.iterrows():
+            names_array = row["primary_author"].lower().strip().split()
+            names_array.reverse()
+            if(row["session"].strip() == "Physical"):
+                csv_data.loc[index, slack_channel_column] = "lp-" + str(row["position"]) + "-" + str(names_array[0])
+            else:
+                csv_data.loc[index, slack_channel_column] = "lv-" + str(row["position"]) + "-" + str(names_array[0])
+
+        # Overwriting the file.
+        csv_data.to_csv(self.lbdsCsvFile)
         
         print("########### Now creating slack channels ##########")
         slackUtils.createPublicSlackChannels(slackUtils.client, self.lbdsCsvFile, slack_channel_column)

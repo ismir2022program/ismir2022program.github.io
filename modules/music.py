@@ -8,10 +8,10 @@ class Music:
     """
     This method takes the config data loaded and the music csv file.
     """
-    def __init__(self, musicCsvFile):
+    def __init__(self, musicCsvFile, useDummyValues):
         print("Initialising music")
         self.musicCsvFile = musicCsvFile
-        self.useDummyValues = True
+        self.useDummyValues = useDummyValues
 
     """
     This method inputs the zoomUtils and setup zoom calls for the all the sessions.
