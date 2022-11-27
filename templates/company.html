@@ -33,15 +33,28 @@
     </div>
     {% endif %}
   </div>
+
   {% if industry.video %}
+  <br><br><br>
+  <h2 class="day-title" id="LBD"> Video</h2>
   <div  style="display: flex; justify-content: center;" class="industry-content-wrapper">
       <iframe src="{{industry.video}}" width="640" height="480" allow="autoplay"></iframe>
   </div>
   {% endif %}
 
+  {% if industry.video2 %}
+  <br><br><br>
+  <h2 class="day-title" id="LBD"> Video 2</h2>
+  <div  style="display: flex; justify-content: center;" class="industry-content-wrapper">
+      <iframe src="{{industry.video2}}" width="640" height="480" allow="autoplay"></iframe>
+  </div>
+  {% endif %}
+
   {% if industry.pdf %}
+  <br><br><br>
+  <h2 class="day-title" id="tut">Document</h2>
   <div class="industry-content-wrapper">
-    <iframe class="fullscreen-iframe" src="static/industry/{{industry.pdf}}#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
+    <iframe class="fullscreen-iframe" src="static/industry/{{industry.uid}}.pdf#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
   </div>
   {% endif %}
 
