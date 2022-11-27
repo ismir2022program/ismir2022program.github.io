@@ -17,7 +17,7 @@ def parse_arguments():
         "--path",
         help="Pass the path of directory containing the master data.",
         required=True)
-        
+
     args = parser.parse_args()
     return args
 
@@ -42,46 +42,24 @@ registered_users_csv = pd.read_csv(registrationCsvFile)
 
 attendee_emails = list(map(str.strip, registered_users_csv[attendee_email_columns]))
 
+print("Total number of registered users: ", str(len(attendee_emails)))
+
 # Getting email for the tutorials.
-tutorials_email_column = "organiser_emails"
-tutorials_author_email = pd.read_csv(eventsCsvFile)
+# tutorials_email_column = "organiser_emails"
+# tutorials_author_email = pd.read_csv(eventsCsvFile)
 
-for emails in tutorials_author_email[tutorials_email_column]:
-    if(not pd.isna(emails)):
-        attendee_emails.extend(getIndividualEmails(emails))
-
-# Getting email for the papers.
-papers_email_column = "author_emails"
-paper_author_email = pd.read_csv(papersCsvFile)
-
-for emails in paper_author_email[papers_email_column]:
-    if(not pd.isna(emails)):
-        attendee_emails.extend(getIndividualEmails(emails))
-
-# Getting email for music papers.
-music_email_column = "author_emails"
-music_author_email = pd.read_csv(musicCsvFile)
-
-for emails in music_author_email[music_email_column]:
-    if(not pd.isna(emails)):
-        attendee_emails.extend(getIndividualEmails(emails))
-
-# Getting email for lbds papers.
-lbds_email_column = "author_emails"
-lbds_author_email = pd.read_csv(lbdCsvFile)
-
-for emails in lbds_author_email[lbds_email_column]:
-    if(not pd.isna(emails)):
-        attendee_emails.extend(getIndividualEmails(emails))
+# for emails in tutorials_author_email[tutorials_email_column]:
+    # if(not pd.isna(emails)):
+        # attendee_emails.extend(getIndividualEmails(emails))
 
 
 # Getting email for music papers.
-sponsors_email_column = "registered_emails"
-sponsors_email = pd.read_csv(industryCsvFile)
+# sponsors_email_column = "registered_emails"
+# sponsors_email = pd.read_csv(industryCsvFile)
 
-for emails in sponsors_email[sponsors_email_column]:
-    if(not pd.isna(emails)):
-        attendee_emails.extend(getIndividualEmails(emails))
+# for emails in sponsors_email[sponsors_email_column]:
+    # if(not pd.isna(emails)):
+        # attendee_emails.extend(getIndividualEmails(emails))
 
 print(attendee_emails)
 
