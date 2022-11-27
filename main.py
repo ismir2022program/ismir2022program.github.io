@@ -269,15 +269,9 @@ def format_lbd(v):
         list_fields[key] = extract_list_field(v, key)
     channel_name = v.get("channel_name", "")
     channel_url = v.get("channel_url", "")
-    # if channel_name == "" and channel_url == "" and len(list_fields["session"]) > 0:
-    #     print('Re-creating channel name')
-    #     primary_author_names = v["primary_author"].split(" ")
-    #     primary_author_name = primary_author_names[len(primary_author_names)-1].lower()
-    #     channel_name = "lbd-"+list_fields["session"][0]+"-"+v["uid"]+"-"+primary_author_name
-    #     channel_url = "https://ismir2020.slack.com/archives/"+channel_name
-
     return {
         "id": v["uid"],
+        "position": v["position"],
         "forum": v["uid"],
         "content": {
             "title": v["title"],
@@ -285,6 +279,9 @@ def format_lbd(v):
             "abstract": v["abstract"],
             "TLDR": v["abstract"],
             "session": list_fields["session"],
+            "thumbnail_link": v.get("thumbnail_link", ""),
+            "poster_link": v.get("poster_link", ""),
+            "paper_link": v.get("paper_link", ""),
             "poster_type": v.get("poster_type", ""),
             "bilibili_id": v.get("bilibili_id", ""),
             "youtube_id": v.get("youtube_id", ""),

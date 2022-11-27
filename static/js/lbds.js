@@ -261,7 +261,7 @@ const keyword = kw => `<a href="lbds.html?filter=keywords&search=${kw}"
                        class="text-secondary text-decoration-none">${kw.toLowerCase()}</a>`
 
 const card_image = (openreview, show) => {
-    if (show) return ` <center><img class="lazy-load-img cards_img" data-src="static/lbd/ISMIR2020-LBD-${openreview.id}-thumbnail.png" width="80%"/></center>`
+    if (show) return ` <center><img class="lazy-load-img cards_img" data-src="static/images/lbd/thumbnails/${openreview.content.thumbnail_link}" width="80%"/></center>`
     else return ''
 }
 
@@ -325,13 +325,12 @@ const card_html = openreview => {
         <a href="lbd_${openreview.id}.html"><div class="pp-card pp-mode-` + render_mode + ` ">
             <div class="pp-card-header">
             <div class="checkbox-paper ${openreview.content.read ? 'selected' : ''}" style="display: block;position: absolute; bottom:35px;left: 35px;">✓</div>
-            <h5 class="card-title text-muted" align="center">  ${openreview.content.session}-${openreview.id} - ${openreview.content.title} </h5>
-            <h6 class="card-subtitle text-muted" align="center">
-                        ${openreview.content.authors.join(', ')}
-                </h6>
+            <h5 class="card-title text-muted" align="center">  ${openreview.content.session}-${openreview.position}: ${openreview.content.title} </h5>
+            <h6 class="card-subtitle text-muted" align="center"> ${openreview.content.authors.join(', ')} </h6>
                 ${card_image(openreview, render_mode !== 'list')}
                 ` + button +
                 `</div>
                 ${card_detail(openreview, (render_mode === 'detail'))}
+
         </div></a>`
 }

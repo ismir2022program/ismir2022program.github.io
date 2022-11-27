@@ -21,7 +21,7 @@
 <div class="pp-card m-3" style="">
   <div class="card-header">
     <h2 class="card-title main-title text-center" style="">
-      {{lbd.content.session  | join("")}}-{{lbd.id}} - {{lbd.content.title}}
+      {{lbd.content.session  | join("")}}-{{lbd.position}}: {{lbd.content.title}}
     </h2>
     <h3 class="card-subtitle mb-2 text-muted text-center">
       {% for author in lbd.content.authors %}
@@ -68,16 +68,13 @@
     </div>
   </div>
   <div id="paper" class="collapse">
-    {% if config.lbd_embeds %}
     <button class="fullscreen-button btn btn-primary mb-3">Fullscreen</button>
-    <iframe class="fullscreen-iframe" src="static/lbd/ISMIR2020-LBD-{{lbd.id}}-abstract.pdf#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
-    {% endif %}
+    <iframe class="fullscreen-iframe" src="{{lbd.content.paper_link}}" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
+
   </div>
   <div id="poster" class="collapse">
-    {% if config.lbd_embeds %}
-      <button class="fullscreen-button btn btn-primary mb-3">Fullscreen</button>
-      <iframe class="fullscreen-iframe" src="static/lbd/ISMIR2020-LBD-{{lbd.id}}-poster{% if lbd.content.poster_type == 'pdf' %}.pdf{% else %}/index.html{% endif %}#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
-    {% endif %}
+    <button class="fullscreen-button btn btn-primary mb-3">Fullscreen</button>
+    <iframe class="fullscreen-iframe" src="{{lbd.content.poster_link}}" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
   </div>
   {% if lbd.content.youtube_id or lbd.content.bilibili_id %}
   <div id="video" class="collapse">
@@ -85,7 +82,7 @@
 
     {% if lbd.content.youtube_id %}
     <div style="padding:56.25% 0 0 0;position:relative;">
-      <iframe src="https://www.youtube.com/embed/{{lbd.content.youtube_id}}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+      <iframe src="{{lbd.content.youtube_id}}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
     </div>
     <br/>
     {% endif %}
