@@ -70,7 +70,7 @@
   </div>
   {% if paper.content.channel_url and config.paper_day_release >= paper.content.day | int %}
     <div class="btn-group ml-3 mb-3">
-      <a href="{{paper.content.channel_url}}" class="btn btn-primary">{% include 'slack_svg.html' %} {{paper.content.channel_name}}</a>
+      <a href="{{paper.content.channel_url}}" class="btn btn-primary">{% include 'slack_svg.html' %} {{paper.content.slack_channel}}</a>
     </div>
   {% endif %}
 </div>

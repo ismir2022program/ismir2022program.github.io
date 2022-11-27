@@ -255,7 +255,7 @@ def format_paper(v):
             "pdf_url": v.get("pdf_url", ""),
             "video": v["video"].replace('/open?id=', '/file/d/')+'/preview',
             "channel_url": v["channel_url"],
-            "channel_name": v["channel_name"],
+            "slack_channel": v["slack_channel"],
             "day": v["day"],
             "yt_id": v["yt_id"]
         },
