@@ -281,7 +281,10 @@ def inviteUserToChannel(slackClient, user_email, channelName):
     if((isUserAlreadyInChannel(slackClient, user_email, channelName) == False)):
         userID = getUserID(slackClient, user_email)
         channelID = getChannelID(slackClient, channelName)
-        addUserIDsToASlackChannelById(slackClient, channelID, userID)
+        try:
+            addUserIDsToASlackChannelById(slackClient, channelID, userID)
+        except SlackApiError as e: # set proper exception
+                print("Exception in adding user to channel: ", e)
         print('Invitation Sent')
     else:
         print('Either member already exists in the channel or no such member exists in the workspace')

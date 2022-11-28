@@ -10,6 +10,10 @@ def getIndividualEmails(emailString):
     emails = emails.split(",")
     return emails
 
+def split(list_a, chunk_size):
+  for i in range(0, len(list_a), chunk_size):
+    yield list_a[i:i + chunk_size]
+
 def parse_arguments():
     parser = argparse.ArgumentParser(description="MiniConf Prep Script")
 
@@ -42,26 +46,12 @@ registered_users_csv = pd.read_csv(registrationCsvFile)
 
 attendee_emails = list(map(str.strip, registered_users_csv[attendee_email_columns]))
 
-print("Total number of registered users: ", str(len(attendee_emails)))
+# Splitting list into smaller chunks.
+final_list = list(split(attendee_emails, 100))
+# print("Total number of registered users: ", str(final_list))
 
-# Getting email for the tutorials.
-# tutorials_email_column = "organiser_emails"
-# tutorials_author_email = pd.read_csv(eventsCsvFile)
-
-# for emails in tutorials_author_email[tutorials_email_column]:
-    # if(not pd.isna(emails)):
-        # attendee_emails.extend(getIndividualEmails(emails))
-
-
-# Getting email for music papers.
-# sponsors_email_column = "registered_emails"
-# sponsors_email = pd.read_csv(industryCsvFile)
-
-# for emails in sponsors_email[sponsors_email_column]:
-    # if(not pd.isna(emails)):
-        # attendee_emails.extend(getIndividualEmails(emails))
-
-print(attendee_emails)
-
-
+for list_part in final_list:
+    for email in list_part:
+        print(email, end=", ")
+    print("#################################################")
 
