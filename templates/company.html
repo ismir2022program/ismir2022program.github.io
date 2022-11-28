@@ -23,9 +23,11 @@
       {{industry.abstract | markdown}}
     </div>
 
+    {% if industry.channel_url %}
     <div class="btn-group ml-3 mb-3">
       <a href="{{industry.channel_url}}" class="btn btn-primary">{% include 'slack_svg.html' %} {{industry.channel_name}}</a>
     </div>
+    {% endif %}
 
     {% if industry.external_web_link %}
     <div class="btn-group ml-3 mb-3">
