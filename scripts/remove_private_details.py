@@ -1,6 +1,6 @@
 import os
 import pandas as pd
-
+from shutil import copyfile
 def remove_author_contacts(in_dir='../miniconf-data/sitedata/', out_dir='sitedata'):
     os.makedirs(out_dir, exist_ok=True)
 
@@ -31,6 +31,9 @@ def remove_author_contacts(in_dir='../miniconf-data/sitedata/', out_dir='sitedat
     f.drop('author_emails', axis=1, inplace=True)
     f.drop('primary_email', axis=1, inplace=True)
     f.to_csv(os.path.join(out_dir, 'music.csv'), index=False)
+
+    print('Removing author details from jobs.csv ')
+    copyfile(os.path.join(in_dir, 'jobs.csv'), os.path.join(out_dir, 'jobs.csv'))
 
 
 if __name__ == "__main__":

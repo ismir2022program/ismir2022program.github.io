@@ -45,7 +45,7 @@ def main(site_data_path):
             site_data[name] = list(csv.DictReader(open(f)))
         elif typ == "yml":
             site_data[name] = yaml.load(open(f).read(), Loader=yaml.SafeLoader)
-    for typ in ["papers", "industry", "music", "lbds", "events"]:
+    for typ in ["papers", "industry", "music", "lbds", "events", "jobs"]:
         by_uid[typ] = {}
         for p in site_data[typ]:
             by_uid[typ][p["uid"]] = p
@@ -189,6 +189,12 @@ def musics():
     data = _data()
     data["music"] = site_data["music"]
     return render_template("music.html", **data)
+
+@app.route("/jobs.html")
+def job_board():
+    data = _data()
+    data["jobs"] = site_data["jobs"]
+    return render_template("jobs.html", **data)
 
 @app.route("/industry.html")
 def industries():
@@ -390,6 +396,14 @@ def music(music):
     data["music"] = v
     return render_template("piece.html", **data)
 
+@app.route("/jobs_<jobs>.html")
+def jobs(jobs):
+    uid = jobs
+    v = by_uid["jobs"][uid]
+    data = _data()
+    data["jobs"] = v
+    return render_template("jobs_template.html", **data)
+
 @app.route("/industry_<industry>.html")
 def industry(industry):
     uid = industry
@@ -427,6 +441,13 @@ def paper_json():
 def music_json():
     json = []
     for v in site_data["music"]:
+        json.append(v)
+    return jsonify(json)
+
+@app.route("/jobs.json")
+def jobs_json():
+    json = []
+    for v in site_data["jobs"]:
         json.append(v)
     return jsonify(json)
 

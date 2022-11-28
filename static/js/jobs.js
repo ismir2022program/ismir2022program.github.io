@@ -1,4 +1,4 @@
-let allIndustry = [];
+let allJobs = [];
 const allKeys = {
     session: [],
 }
@@ -9,7 +9,7 @@ const filters = {
 
 const updateCards = (papers) => {
 
-    const all_mounted_cards = d3.select('.industry-cards')
+    const all_mounted_cards = d3.select('.jobs-cards')
       .selectAll('.myCard', openreview => openreview.uid)
       .data(papers, d => d.number)
       .join('div')
@@ -57,9 +57,9 @@ const render = () => {
       .forEach(k => {filters[k] ? f_test.push([k, filters[k]]) : null})
 
     console.log(f_test, filters, "--- f_test, filters");
-    if (f_test.length === 0) updateCards(allIndustry)
+    if (f_test.length === 0) updateCards(allJobs)
     else {
-        const fList = allIndustry.filter(
+        const fList = allJobs.filter(
           d => {
               let i = 0, pass_test = true;
               while (i < f_test.length && pass_test) {
@@ -87,16 +87,14 @@ const start = () => {
     setQueryStringParameter("session", urlFilter);
     updateFilterSelectionBtn(urlFilter)
 
-    d3.json('industry.json').then(industry => {
-        console.log(industry, "--- industry");
+    d3.json('jobs.json').then(jobs => {
+        console.log(jobs, "--- jobs");
 
-        shuffleArray(industry);
-        //
-        allIndustry = industry;
-        calcAllKeysSimple(allIndustry, allKeys);
+        shuffleArray(jobs);
+        allJobs = jobs;
+        calcAllKeysSimple(allJobs, allKeys);
         uniqueSessions = [...new Set(allKeys['session'])];
         uniqueSessions = uniqueSessions.sort((a,b) => a - b);
-        // console.log(uniqueSessions);
         render();
 
     }).catch(e => console.error(e))
@@ -132,31 +130,13 @@ d3.selectAll('.filter_option input').on('click', function () {
 })
 
 const card_html = openreview => {
-    if (openreview.session == 'Platinum'){
-        return `<div class="industry-card m-4 text-center">
-          <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
-            <img style="max-width: 100%;" src="static/images/sponsors/${openreview.uid}.png" />
-          </a>
-          <h3><a href="industry_${openreview.uid}.html">${openreview.company}</a></h3>
-          </div>`
-      }
-    if (openreview.session == 'Gold'){
-        return `<div class="industry-card m-4 text-center">
-          <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
-            <img style="max-width: 60%;" src="static/images/sponsors/${openreview.uid}.png" />
-          </a>
-          <h3><a href="industry_${openreview.uid}.html">${openreview.company}</a></h3>
+    return `<div class="jobs-card m-4 text-center">
+      <a href="jobs_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
+        <img style="max-width: 100%;" src="static/images/sponsors/${openreview.uid}.png" />
+      </a>
+      <h3><a href="jobs_${openreview.uid}.html">${openreview.company}</a></h3>
+      </div>`
 
-          </div>`
-      }
-    if (openreview.session == 'Silver'){
-        return `<div class="industry-card m-4 text-center">
-          <a href="industry_${openreview.uid}.html" class="image-wrapper mb-3" style="display: flex; align-items: center; justify-content: center;">
-            <img style="max-width: 50%;" src="static/images/sponsors/${openreview.uid}.png" />
-          </a>
-          <h3><a href="industry_${openreview.uid}.html">${openreview.company}</a></h3>
-          </div>`
-      }
 
 }
 
