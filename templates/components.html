@@ -482,8 +482,14 @@
         {% endif %}
 
         <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
-          {{tut_md[str_index] | markdown}}
+          {{meet.description | markdown}}
         </div>
+
+        <h3 class="card-title m-3 text-left">Presenters</h3>
+        <div class="mt-3 ml-3 mr-3 mb-4 text-left card-subtitle">
+          {{meet.organiser_bio | markdown}}
+        </div>
+
         <div class="m-3 text-left">
         </div>
 <!--        {% if meet.category == "All Meeting" %}-->
