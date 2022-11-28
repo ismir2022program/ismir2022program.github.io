@@ -23,6 +23,10 @@ by_uid = {}
 def paper_check(row):
     return "paper" in row['type']
 
+
+def jobs_check(row):
+    return "jobs" in row['type']
+
 def industry_check(row):
     return "industry" in row['type']
 
@@ -326,6 +330,21 @@ def format_music(v):
         }
     }
 
+
+def format_jobs(v):
+    return {
+        "id": v["uid"],
+        "content": {
+            "title": v["title"],
+            "jd": v["jd"],
+            "channel_name": v["channel_name"],
+            "channel_url": v["channel_url"],
+            "company": v["company"],
+            "external_web_link": v["external_web_link"]
+        }
+    }
+
+
 def format_industry(v):
     return {
         "id": v["uid"],
@@ -490,6 +509,8 @@ def generator():
         yield "music", {"music": str(music["uid"])}
     for industry in site_data["industry"]:
         yield "industry", {"industry": str(industry["uid"])}
+    for jobs in site_data["jobs"]:
+        yield "jobs", {"jobs": str(jobs["uid"])}
     for lbd in site_data["lbds"]:
         yield "lbd", {"lbd": str(lbd["uid"])}
     for day in site_data["days"]:
