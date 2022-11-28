@@ -58,12 +58,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCTJME1",
       "day": "4",
       "keywords": [
-        " MIR tasks -> music transcription and annotation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Musical features and properties -> melody and motives",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music transcription and annotation",
         "MIR fundamentals and methodology -> symbolic music processing",
         "Domain knowledge -> cognitive MIR",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -108,10 +108,10 @@
       "day": "2",
       "keywords": [
         "Applications -> performance, and production",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties -> musical affect, emotion and mood",
-        " MIR fundamentals and methodology -> music signal processing",
         " MIR tasks -> music synthesis and transformation",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -149,11 +149,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQU1H8U",
       "day": "4",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        "Domain knowledge -> computational music theory and musicology",
+        "Applications -> digital libraries and archives",
         " Evaluation, datasets, and reproducibility -> MIR tasks",
         " Applications -> performance, and production",
-        "Applications -> digital libraries and archives",
-        "Domain knowledge -> computational music theory and musicology"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -197,10 +197,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92FNZFS",
       "day": "3",
       "keywords": [
-        " MIR tasks -> automatic classification",
         "Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR tasks -> fingerprinting",
-        "Domain knowledge -> representations of music"
+        "Domain knowledge -> representations of music",
+        " MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -238,12 +238,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQU38A0",
       "day": "2",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        " MIR fundamentals and methodology -> music signal processing",
-        "Domain knowledge -> representations of music",
         " Musical features and properties -> musical style and genre",
+        "Domain knowledge -> representations of music",
+        " MIR tasks -> automatic classification",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties -> musical affect, emotion and mood",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -360,11 +360,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92FRX5W",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> music generation",
         " Musical features and properties -> musical style and genre",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing",
         " MIR tasks -> music synthesis and transformation",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -402,11 +402,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92FSND6",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> optical music recognition",
         " Applications -> music heritage and sustainability",
+        "Domain knowledge -> computational music theory and musicology",
         "Applications -> digital libraries and archives",
-        "Domain knowledge -> computational music theory and musicology"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> optical music recognition"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -444,10 +444,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0LP7GR",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> music generation",
+        " Musical features and properties -> musical affect, emotion and mood",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> musical affect, emotion and mood"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -483,8 +483,8 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQU7CPN",
       "day": "1",
       "keywords": [
-        "Musical features and properties",
-        "Musical features and properties -> rhythm, beat, tempo"
+        "Musical features and properties -> rhythm, beat, tempo",
+        "Musical features and properties"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -530,12 +530,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92FURNU",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> MIR tasks",
+        " MIR tasks",
         "MIR tasks -> music transcription and annotation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " Musical features and properties -> representations of music",
         " Musical features and properties -> expression and performative aspects of music",
-        " MIR tasks"
+        "Evaluation, datasets, and reproducibility -> MIR tasks",
+        " Musical features and properties -> representations of music",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -581,12 +581,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB81QV8",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
         " Domain knowledge -> machine learning/artificial intelligence for music",
-        "MIR tasks -> music generation",
         "Applications -> music composition",
-        " Musical features and properties -> representations of music",
-        " Domain knowledge -> representations of music"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " Domain knowledge -> representations of music",
+        "MIR tasks -> music generation",
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -626,12 +626,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0LRXKK",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
         "Domain knowledge -> computational ethnomusicology",
-        " Musical features and properties -> representations of music",
-        " MIR tasks -> similarity metrics",
         " Domain knowledge -> computational music theory and musicology",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " MIR tasks -> similarity metrics",
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -667,12 +667,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCTUN13",
       "day": "4",
       "keywords": [
-        " Domain knowledge -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> representations of music",
-        " Domain knowledge -> representations of music",
-        "MIR tasks -> automatic classification",
         "Applications -> music retrieval systems",
-        " MIR tasks -> indexing and querying"
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> automatic classification",
+        " MIR tasks -> indexing and querying",
+        " Domain knowledge -> representations of music",
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -710,11 +710,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCTVCP7",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music generation",
-        "Applications -> music composition",
         " Musical features and properties -> structure, segmentation, and form",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> music composition",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -795,10 +795,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP1UBPY",
       "day": "2",
       "keywords": [
-        "MIR tasks -> automatic classification",
+        "Domain knowledge -> computational ethnomusicology",
         " Musical features and properties",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Domain knowledge -> computational ethnomusicology"
+        "MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -842,9 +842,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCU222Z",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
         "Applications -> music composition",
         "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music generation",
         " Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
@@ -885,11 +885,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCU2S0M",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> music generation",
         " MIR fundamentals and methodology -> multimodality",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties -> expression and performative aspects of music",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -931,11 +931,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB87ESW",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> automatic classification",
         " Musical features and properties -> musical style and genre",
+        " MIR tasks -> automatic classification",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         "Domain knowledge -> computational music theory and musicology",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -979,11 +979,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP21PDL",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         "Applications -> performance, and production",
         " Musical features and properties -> expression and performative aspects of music",
-        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
@@ -1022,10 +1022,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0M36E5",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
-        "Musical features and properties",
         "Applications -> music retrieval systems",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        " Musical features and properties -> rhythm, beat, tempo",
+        "Musical features and properties"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1063,12 +1063,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQUGT6Y",
       "day": "4",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music generation",
-        "Applications -> music composition",
-        "MIR tasks",
         " Domain knowledge -> machine learning/artificial intelligence for music",
-        " MIR tasks -> music synthesis and transformation"
+        "MIR tasks",
+        "Applications -> music composition",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " MIR tasks -> music synthesis and transformation",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1104,12 +1104,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCU6FQD",
       "day": "3",
       "keywords": [
-        "MIR tasks -> music generation",
-        "Applications -> music composition",
-        " Human-centered MIR -> human-computer interaction",
-        " Musical features and properties -> rhythm, beat, tempo",
         " Domain knowledge -> machine learning/artificial intelligence for music",
-        " MIR tasks -> music synthesis and transformation"
+        "Applications -> music composition",
+        " MIR tasks -> music synthesis and transformation",
+        "MIR tasks -> music generation",
+        " Human-centered MIR -> human-computer interaction",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1156,8 +1156,8 @@
       "day": "3",
       "keywords": [
         " MIR fundamentals and methodology -> music signal processing",
-        "MIR tasks",
         " MIR tasks -> sound source separation",
+        "MIR tasks",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
@@ -1194,12 +1194,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0M5ZBK",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> harmony, chords and tonality",
-        "MIR tasks -> music generation",
         " Applications -> music composition",
+        " Musical features and properties -> harmony, chords and tonality",
+        "Applications -> gaming, augmented/virtual reality",
         " Musical features and properties -> musical affect, emotion and mood",
-        " Musical features and properties -> rhythm, beat, tempo",
-        "Applications -> gaming, augmented/virtual reality"
+        "MIR tasks -> music generation",
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -1237,10 +1237,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB8CK0A",
       "day": "2",
       "keywords": [
-        "Applications -> music heritage and sustainability",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR tasks -> music transcription and annotation",
-        " Evaluation, datasets, and reproducibility -> evaluation metrics"
+        "Applications -> music heritage and sustainability",
+        " Evaluation, datasets, and reproducibility -> evaluation metrics",
+        "MIR tasks -> music transcription and annotation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1282,9 +1282,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0M7ERF",
       "day": "2",
       "keywords": [
+        "Domain knowledge -> computational ethnomusicology",
         " MIR tasks -> automatic classification",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Domain knowledge -> computational ethnomusicology"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "True",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1332,11 +1332,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QPEXC7",
       "day": "1",
       "keywords": [
-        " MIR tasks -> music generation",
-        " MIR fundamentals and methodology -> music signal processing",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "MIR tasks -> music synthesis and transformation",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -1372,9 +1372,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CK86ASM9",
       "day": "3",
       "keywords": [
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Evaluation, datasets, and reproducibility -> MIR tasks",
-        "MIR tasks -> sound source separation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "MIR tasks -> sound source separation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1412,11 +1412,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CK86BGAX",
       "day": "1",
       "keywords": [
+        " Musical features and properties -> melody and motives",
         "Evaluation, datasets, and reproducibility -> evaluation metrics",
-        " Musical features and properties -> representations of music",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
         " Musical features and properties -> rhythm, beat, tempo",
-        " Musical features and properties -> melody and motives"
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -1458,11 +1458,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP29X6J",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> structure, segmentation, and form",
         " Musical features and properties -> musical style and genre",
         "MIR tasks -> automatic classification",
-        " MIR fundamentals and methodology -> lyrics and other textual data",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> structure, segmentation, and form",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> lyrics and other textual data"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -1500,12 +1500,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0MB30R",
       "day": "4",
       "keywords": [
-        " MIR tasks -> music transcription and annotation",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
         "Applications -> music retrieval systems",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         " Domain knowledge -> machine learning/artificial intelligence for music",
-        "MIR fundamentals and methodology -> lyrics and other textual data"
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        " MIR tasks -> music transcription and annotation",
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1584,11 +1584,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0MCR4H",
       "day": "1",
       "keywords": [
-        "MIR fundamentals and methodology -> lyrics and other textual data",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
         " MIR fundamentals and methodology -> multimodality",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "MIR fundamentals and methodology -> lyrics and other textual data",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "True",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1632,10 +1632,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0MDC8H",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        "Evaluation, datasets, and reproducibility -> evaluation metrics",
         " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR tasks -> music synthesis and transformation"
+        "Evaluation, datasets, and reproducibility -> evaluation methodology",
+        " MIR tasks -> music synthesis and transformation",
+        "Evaluation, datasets, and reproducibility -> evaluation metrics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1671,12 +1671,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP2DG5C",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        " MIR fundamentals and methodology -> music signal processing",
-        "Domain knowledge -> representations of music",
         " Musical features and properties -> musical style and genre",
+        "Domain knowledge -> representations of music",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties -> musical affect, emotion and mood",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> representations of music",
+        " MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1712,10 +1712,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0MEP41",
       "day": "2",
       "keywords": [
+        "Domain knowledge -> computational ethnomusicology",
         "Domain knowledge -> computational music theory and musicology",
         " Musical features and properties -> melody and motives",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Domain knowledge -> computational ethnomusicology"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1759,11 +1759,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QPMVK9",
       "day": "1",
       "keywords": [
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         "Applications -> performance, and production",
         "MIR fundamentals and methodology -> music signal processing",
-        " Domain knowledge -> machine learning/artificial intelligence for music",
-        " MIR tasks -> music synthesis and transformation",
-        " MIR tasks -> sound source separation"
+        " MIR tasks -> sound source separation",
+        " MIR tasks -> music synthesis and transformation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -1801,10 +1801,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCUHYSH",
       "day": "3",
       "keywords": [
-        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
         "Applications -> music and health, well-being and therapy",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " MIR fundamentals and methodology -> web mining, and natural language processing"
+        " MIR fundamentals and methodology -> web mining, and natural language processing",
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -1879,10 +1879,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB8PDEE",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
-        " Human-centered MIR -> user behavior analysis and mining",
-        " Musical features and properties -> musical affect, emotion and mood",
         "MIR tasks -> automatic classification",
+        " MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
+        " Musical features and properties -> musical affect, emotion and mood",
+        " Human-centered MIR -> user behavior analysis and mining",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Human-centered MIR -> personalization"
       ],
@@ -1971,8 +1971,8 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB8QSP4",
       "day": "3",
       "keywords": [
-        "Human-centered MIR -> human-computer interaction",
-        "Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR to"
+        "Philosophical and ethical discussions -> ethical issues related to designing and implementing MIR to",
+        "Human-centered MIR -> human-computer interaction"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2010,8 +2010,8 @@
       "keywords": [
         "Domain knowledge -> computational music theory and musicology",
         "Domain knowledge -> representations of music",
-        " Musical features and properties -> structure, segmentation, and form",
-        " Musical features and properties -> melody and motives"
+        " Musical features and properties -> melody and motives",
+        " Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -2047,11 +2047,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQV3Y76",
       "day": "3",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
+        "Applications -> music retrieval systems",
         " Domain knowledge -> machine learning/artificial intelligence for music",
         "MIR tasks -> optical music recognition",
-        " Domain knowledge -> representations of music",
-        "Applications -> music retrieval systems"
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " Domain knowledge -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2089,12 +2089,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QPTMUP",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
-        " Musical features and properties -> structure, segmentation, and form",
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
         " Musical features and properties",
+        " Musical features and properties -> structure, segmentation, and form",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         "Domain knowledge -> computational music theory and musicology",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2136,12 +2136,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92GS2G0",
       "day": "2",
       "keywords": [
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> music training and education",
         " MIR tasks -> music transcription and annotation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " Evaluation, datasets, and reproducibility -> MIR tasks",
         " MIR fundamentals and methodology -> music signal processing",
-        "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Applications -> music training and education"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2177,9 +2177,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP2N0NA",
       "day": "2",
       "keywords": [
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "MIR tasks -> music synthesis and transformation",
-        "Musical features and properties -> musical style and genre"
+        "Musical features and properties -> musical style and genre",
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -2219,12 +2219,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92GTCQG",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> pattern matching and detection",
-        "Musical features and properties -> structure, segmentation, and form",
-        " Musical features and properties -> rhythm, beat, tempo",
+        " Musical features and properties",
         "Domain knowledge -> computational music theory and musicology",
-        " Musical features and properties"
+        " MIR tasks -> pattern matching and detection",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        " Musical features and properties -> rhythm, beat, tempo",
+        "Musical features and properties -> structure, segmentation, and form"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2258,12 +2258,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QQ0WCX",
       "day": "2",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " MIR tasks -> automatic classification",
-        " Evaluation, datasets, and reproducibility -> evaluation metrics",
         " Musical features and properties -> musical style and genre",
+        " MIR tasks -> automatic classification",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Philosophical and ethical discussions -> legal and societal aspects of MIR"
+        " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        "Philosophical and ethical discussions -> legal and societal aspects of MIR",
+        " Evaluation, datasets, and reproducibility -> evaluation metrics"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -2307,12 +2307,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0MQK0R",
       "day": "3",
       "keywords": [
-        " MIR tasks -> automatic classification",
-        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
+        " MIR tasks -> automatic classification",
+        " MIR tasks -> indexing and querying",
         "MIR fundamentals and methodology -> multimodality",
         " MIR fundamentals and methodology -> music signal processing",
-        " MIR tasks -> indexing and querying"
+        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2389,12 +2389,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QQ3295",
       "day": "4",
       "keywords": [
-        " Musical features and properties -> structure, segmentation, and form",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " MIR tasks -> automatic classification",
-        " Domain knowledge -> computational music theory and musicology",
+        " Musical features and properties -> structure, segmentation, and form",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Applications -> music training and education"
+        " Domain knowledge -> computational music theory and musicology",
+        "Applications -> music training and education",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -2438,12 +2438,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB936LS",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music generation",
-        " Musical features and properties -> musical affect, emotion and mood",
         " Domain knowledge -> machine learning/artificial intelligence for music",
         "Applications -> gaming, augmented/virtual reality",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        " Musical features and properties -> musical affect, emotion and mood",
+        " MIR fundamentals and methodology -> symbolic music processing",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2481,10 +2481,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCUVCF7",
       "day": "3",
       "keywords": [
-        "MIR tasks -> music generation",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        " Musical features and properties -> representations of music",
-        " Domain knowledge -> representations of music"
+        " Domain knowledge -> representations of music",
+        "MIR tasks -> music generation",
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2524,9 +2524,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCV0NSZ",
       "day": "4",
       "keywords": [
+        "MIR tasks -> music synthesis and transformation",
         "MIR tasks -> music generation",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR tasks -> music synthesis and transformation"
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2564,9 +2564,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQVCF2Q",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         "MIR tasks -> music generation",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Musical features and properties -> rhythm, beat, tempo"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -2610,9 +2610,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92H4F96",
       "day": "2",
       "keywords": [
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
         "Applications -> music recommendation and playlist generation",
-        "Human-centered MIR -> user behavior analysis and mining",
-        " Philosophical and ethical discussions -> legal and societal aspects of MIR"
+        "Human-centered MIR -> user behavior analysis and mining"
       ],
       "long_presentation": "True",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2655,9 +2655,9 @@
       "day": "4",
       "keywords": [
         " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music generation",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "Human-centered MIR -> human-computer interaction"
+        "Human-centered MIR -> human-computer interaction",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -2695,9 +2695,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQVEKSQ",
       "day": "1",
       "keywords": [
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR tasks -> music synthesis and transformation",
         "MIR tasks -> music generation",
-        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
@@ -2734,10 +2734,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CK8741KM",
       "day": "4",
       "keywords": [
-        "Musical features and properties -> harmony, chords and tonality",
         " Musical features and properties -> structure, segmentation, and form",
         "MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> representations of music"
+        " Musical features and properties -> representations of music",
+        "Musical features and properties -> harmony, chords and tonality"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2822,12 +2822,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CY0N3SAD",
       "day": "3",
       "keywords": [
-        " Human-centered MIR -> human-computer interaction",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
         " MIR fundamentals and methodology -> multimodality",
-        "Applications -> music videos, multimodal music systems",
+        "Applications -> music retrieval systems",
         " Musical features and properties -> musical affect, emotion and mood",
-        "Applications -> music retrieval systems"
+        " Human-centered MIR -> human-computer interaction",
+        "Applications -> music videos, multimodal music systems"
       ],
       "long_presentation": "True",
       "paper_presentation": "Virtually",
@@ -2863,11 +2863,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQVHBRA",
       "day": "2",
       "keywords": [
+        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> performance, and production",
         " Musical features and properties -> structure, segmentation, and form",
         "MIR tasks -> sound source separation",
-        "Applications -> performance, and production",
-        " Evaluation, datasets, and reproducibility -> evaluation metrics",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " Evaluation, datasets, and reproducibility -> evaluation metrics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2905,8 +2905,8 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP34MK8",
       "day": "1",
       "keywords": [
-        "MIR fundamentals and methodology -> music signal processing",
-        "MIR tasks -> music synthesis and transformation"
+        "MIR tasks -> music synthesis and transformation",
+        "MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -2946,10 +2946,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92HA7RN",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> rhythm, beat, tempo",
         "MIR tasks -> alignment, synchronization, and score following",
-        " Musical features and properties -> representations of music",
-        "Musical features and properties -> musical style and genre"
+        " Musical features and properties -> rhythm, beat, tempo",
+        "Musical features and properties -> musical style and genre",
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3029,11 +3029,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP3735L",
       "day": "1",
       "keywords": [
-        " Musical features and properties -> harmony, chords and tonality",
-        " MIR tasks -> automatic classification",
-        "Musical features and properties",
         " Musical features and properties -> musical style and genre",
-        "MIR fundamentals and methodology -> music signal processing"
+        "MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> automatic classification",
+        " Musical features and properties -> harmony, chords and tonality",
+        "Musical features and properties"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -3077,11 +3077,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB9E4F4",
       "day": "4",
       "keywords": [
-        " Domain knowledge -> cognitive MIR",
-        "Applications -> performance, and production",
-        " MIR fundamentals and methodology -> music signal processing",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         " Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> performance, and production",
+        " Domain knowledge -> cognitive MIR",
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        " MIR fundamentals and methodology -> music signal processing",
         "Domain knowledge -> music acoustics"
       ],
       "long_presentation": "False",
@@ -3136,8 +3136,8 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QQFBCP",
       "day": "3",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> reproducibility",
-        "Human-centered MIR"
+        "Human-centered MIR",
+        "Evaluation, datasets, and reproducibility -> reproducibility"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3171,12 +3171,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QQG07R",
       "day": "3",
       "keywords": [
-        "MIR tasks -> indexing and querying",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         "Applications -> performance, and production",
-        " MIR tasks -> similarity metrics",
-        " MIR fundamentals and methodology -> music signal processing",
+        "MIR tasks -> indexing and querying",
         " Musical features and properties -> timbre, instrumentation, and singing voice",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR fundamentals and methodology -> music signal processing",
+        " MIR tasks -> similarity metrics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3216,10 +3216,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB9G3AN",
       "day": "1",
       "keywords": [
+        "Human-centered MIR",
         "Applications -> music composition",
         " Musical features and properties -> representations of music",
         " MIR tasks -> similarity metrics",
-        "Human-centered MIR",
         " Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "True",
@@ -3260,12 +3260,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92HF0QY",
       "day": "1",
       "keywords": [
-        " MIR tasks -> music generation",
         "MIR tasks",
-        " Evaluation, datasets, and reproducibility -> MIR tasks",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " Human-centered MIR -> music interfaces and services",
-        " MIR tasks -> music synthesis and transformation"
+        " MIR tasks -> music synthesis and transformation",
+        " Evaluation, datasets, and reproducibility -> MIR tasks",
+        " MIR tasks -> music generation",
+        " Human-centered MIR -> music interfaces and services"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3301,12 +3301,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB9HE6N",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> harmony, chords and tonality",
-        "MIR tasks -> fingerprinting",
-        " MIR tasks -> similarity metrics",
-        " Musical features and properties -> rhythm, beat, tempo",
+        "Applications -> music retrieval systems",
         " Musical features and properties -> melody and motives",
-        "Applications -> music retrieval systems"
+        " Musical features and properties -> harmony, chords and tonality",
+        " Musical features and properties -> rhythm, beat, tempo",
+        "MIR tasks -> fingerprinting",
+        " MIR tasks -> similarity metrics"
       ],
       "long_presentation": "True",
       "paper_presentation": "Virtually",
@@ -3350,11 +3350,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB9JE2E",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music generation",
-        "MIR tasks -> sound source separation",
-        " Evaluation, datasets, and reproducibility -> MIR tasks",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " MIR tasks -> music synthesis and transformation"
+        " MIR tasks -> music synthesis and transformation",
+        " Evaluation, datasets, and reproducibility -> MIR tasks",
+        "MIR tasks -> sound source separation",
+        " MIR tasks -> music generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -3400,12 +3400,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CK87EZJP",
       "day": "4",
       "keywords": [
-        " MIR tasks -> fingerprinting",
+        "Applications -> music retrieval systems",
+        " Evaluation, datasets, and reproducibility -> annotation protocols",
         " Evaluation, datasets, and reproducibility -> reproducibility",
         " MIR tasks -> indexing and querying",
-        " Evaluation, datasets, and reproducibility -> annotation protocols",
-        "Applications -> music retrieval systems",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
+        " MIR tasks -> fingerprinting"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3441,10 +3441,10 @@
       "channel_url": "",
       "day": "1",
       "keywords": [
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Domain knowledge -> representations of music",
         " MIR tasks -> indexing and querying",
-        "MIR fundamentals and methodology -> music signal processing",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3480,12 +3480,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QQLQHM",
       "day": "1",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> MIR tasks",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR tasks -> automatic classification",
         "Musical features and properties -> representations of music",
-        " MIR tasks -> similarity metrics",
+        " Evaluation, datasets, and reproducibility -> MIR tasks",
         "Applications -> music recommendation and playlist generation",
-        " Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR tasks -> similarity metrics"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3523,11 +3523,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCVGXKP",
       "day": "2",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> MIR tasks",
         " MIR tasks -> automatic classification",
         "Domain knowledge -> computational ethnomusicology",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " Philosophical and ethical discussions -> philosophical and methodological foundations"
+        " Philosophical and ethical discussions -> philosophical and methodological foundations",
+        " Evaluation, datasets, and reproducibility -> MIR tasks"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3565,10 +3565,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCVHLUD",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music transcription and annotation",
-        "Domain knowledge -> computational music theory and musicology",
         " Musical features and properties",
+        "Domain knowledge -> computational music theory and musicology",
+        " MIR tasks -> music transcription and annotation",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
@@ -3649,11 +3649,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92HMC80",
       "day": "2",
       "keywords": [
+        "Applications -> music retrieval systems",
         " Evaluation, datasets, and reproducibility -> evaluation methodology",
+        "Applications -> music recommendation and playlist generation",
         " Human-centered MIR -> user behavior analysis and mining",
         " Evaluation, datasets, and reproducibility -> evaluation metrics",
-        "Applications -> music recommendation and playlist generation",
-        "Applications -> music retrieval systems",
         " Human-centered MIR -> personalization"
       ],
       "long_presentation": "False",
@@ -3692,12 +3692,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCVKU69",
       "day": "4",
       "keywords": [
-        "Musical features and properties -> representations of music",
-        " MIR tasks -> automatic classification",
-        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web",
-        " MIR tasks -> similarity metrics",
         " Musical features and properties -> musical style and genre",
-        " Musical features and properties -> musical affect, emotion and mood"
+        " MIR tasks -> automatic classification",
+        " Musical features and properties -> musical affect, emotion and mood",
+        "Musical features and properties -> representations of music",
+        " MIR tasks -> similarity metrics",
+        "MIR fundamentals and methodology -> metadata, tags, linked data, and semantic web"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3739,8 +3739,8 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCVLJMB",
       "day": "2",
       "keywords": [
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Domain knowledge -> computational ethnomusicology"
+        "Domain knowledge -> computational ethnomusicology",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3786,9 +3786,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB9RCUA",
       "day": "3",
       "keywords": [
+        "MIR tasks -> music synthesis and transformation",
         " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR fundamentals and methodology -> music signal processing",
-        "MIR tasks -> music synthesis and transformation"
+        "MIR fundamentals and methodology -> music signal processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -3828,8 +3828,8 @@
       "keywords": [
         " MIR tasks -> music transcription and annotation",
         " MIR fundamentals and methodology -> music signal processing",
-        "Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        "Applications -> music training and education"
+        "Applications -> music training and education",
+        "Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3867,10 +3867,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP3LHNJ",
       "day": "3",
       "keywords": [
-        " Musical features and properties -> representations of music",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
         "MIR tasks -> music synthesis and transformation",
-        "Applications -> performance, and production"
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "Applications -> performance, and production",
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -3906,8 +3906,8 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP3M8TY",
       "day": "3",
       "keywords": [
-        "Musical features and properties -> timbre, instrumentation, and singing voice",
-        "Musical features and properties -> rhythm, beat, tempo"
+        "Musical features and properties -> rhythm, beat, tempo",
+        "Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -3943,12 +3943,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKB9UD7C",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " Musical features and properties -> harmony, chords and tonality",
+        "MIR fundamentals and methodology -> music signal processing",
         " MIR tasks -> automatic classification",
+        " Musical features and properties -> harmony, chords and tonality",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "MIR fundamentals and methodology -> multimodality",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        "MIR fundamentals and methodology -> music signal processing"
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -3986,9 +3986,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CK87QV5Z",
       "day": "3",
       "keywords": [
-        " MIR tasks -> music synthesis and transformation",
         " MIR fundamentals and methodology -> music signal processing",
         "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR tasks -> music synthesis and transformation",
         "MIR tasks -> sound source separation"
       ],
       "long_presentation": "False",
@@ -4029,10 +4029,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQW7C5A",
       "day": "2",
       "keywords": [
-        "Applications -> music heritage and sustainability",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         " Domain knowledge -> computational ethnomusicology",
         "Musical features and properties -> rhythm, beat, tempo",
-        " Domain knowledge -> machine learning/artificial intelligence for music",
+        "Applications -> music heritage and sustainability",
         " Human-centered MIR -> personalization"
       ],
       "long_presentation": "False",
@@ -4074,10 +4074,10 @@
       "day": "3",
       "keywords": [
         " MIR fundamentals and methodology -> web mining, and natural language processing",
-        "Applications -> music retrieval systems",
         " MIR fundamentals and methodology -> multimodality",
-        " Domain knowledge -> representations of music",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "Applications -> music retrieval systems",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        " Domain knowledge -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4115,9 +4115,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQW8TDJ",
       "day": "3",
       "keywords": [
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Domain knowledge -> machine learning/artificial intelligence for music",
-        "MIR tasks -> sound source separation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
+        "MIR tasks -> sound source separation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4153,11 +4153,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCVTYER",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        " MIR tasks -> music transcription and annotation",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         "Evaluation, datasets, and reproducibility -> evaluation metrics",
         " Musical features and properties -> expression and performative aspects of music",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " MIR tasks -> music transcription and annotation",
+        " MIR fundamentals and methodology -> symbolic music processing"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4195,12 +4195,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQWA9M2",
       "day": "3",
       "keywords": [
-        " Human-centered MIR -> user modeling",
-        " Human-centered MIR -> user behavior analysis and mining",
-        "Human-centered MIR",
-        "Applications -> music recommendation and playlist generation",
         " MIR fundamentals and methodology -> lyrics and other textual data",
-        " Human-centered MIR -> personalization"
+        "Human-centered MIR",
+        " Human-centered MIR -> user behavior analysis and mining",
+        "Applications -> music recommendation and playlist generation",
+        " Human-centered MIR -> personalization",
+        " Human-centered MIR -> user modeling"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4238,11 +4238,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKBA3ZK4",
       "day": "3",
       "keywords": [
-        "Musical features and properties -> representations of music",
-        " MIR tasks -> automatic classification",
         " MIR fundamentals and methodology -> multimodality",
+        " MIR tasks -> automatic classification",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties -> musical affect, emotion and mood",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4284,12 +4284,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04D92J316U",
       "day": "1",
       "keywords": [
-        "Musical features and properties -> representations of music",
+        " Domain knowledge -> machine learning/artificial intelligence for music",
         " MIR tasks -> automatic classification",
         "Applications -> digital libraries and archives",
-        " Domain knowledge -> machine learning/artificial intelligence for music",
-        " Domain knowledge -> representations of music",
-        " Applications -> music retrieval systems"
+        " Applications -> music retrieval systems",
+        "Musical features and properties -> representations of music",
+        " Domain knowledge -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4329,11 +4329,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QR62KZ",
       "day": "3",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " MIR tasks -> automatic classification",
+        "Musical features and properties -> musical affect, emotion and mood",
         "Evaluation, datasets, and reproducibility -> annotation protocols",
         " Musical features and properties -> representations of music",
-        "Musical features and properties -> musical affect, emotion and mood"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4375,12 +4375,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CK88202F",
       "day": "1",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "MIR tasks -> music transcription and annotation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         " MIR fundamentals and methodology -> web mining, and natural language processing",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> music transcription and annotation",
+        " MIR fundamentals and methodology -> symbolic music processing",
         " MIR fundamentals and methodology -> music signal processing",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -4418,12 +4418,12 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQWDUUU",
       "day": "2",
       "keywords": [
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
         "Applications -> performance, and production",
         " MIR tasks -> automatic classification",
-        "Musical features and properties -> expression and performative aspects of music",
         " Domain knowledge -> computational music theory and musicology",
-        " Musical features and properties -> timbre, instrumentation, and singing voice"
+        " Musical features and properties -> timbre, instrumentation, and singing voice",
+        "Musical features and properties -> expression and performative aspects of music",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4461,11 +4461,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP4146A",
       "day": "2",
       "keywords": [
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         "MIR tasks -> music transcription and annotation",
-        " Evaluation, datasets, and reproducibility -> novel datasets and use cases",
-        " Evaluation, datasets, and reproducibility -> MIR tasks",
         " Domain knowledge -> representations of music",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        " Evaluation, datasets, and reproducibility -> MIR tasks",
+        " Evaluation, datasets, and reproducibility -> novel datasets and use cases"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -4511,10 +4511,10 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CCP41U0N",
       "day": "2",
       "keywords": [
+        " Philosophical and ethical discussions -> legal and societal aspects of MIR",
         "Domain knowledge -> computational music theory and musicology",
-        "Applications -> digital libraries and archives",
         " Domain knowledge -> computational ethnomusicology",
-        " Philosophical and ethical discussions -> legal and societal aspects of MIR"
+        "Applications -> digital libraries and archives"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -4555,9 +4555,9 @@
       "day": "1",
       "keywords": [
         " Human-centered MIR -> personalization",
-        "Applications -> music recommendation and playlist generation",
+        " Musical features and properties -> musical affect, emotion and mood",
         "Domain knowledge -> cognitive MIR",
-        " Musical features and properties -> musical affect, emotion and mood"
+        "Applications -> music recommendation and playlist generation"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -4599,8 +4599,8 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QRA7T9",
       "day": "1",
       "keywords": [
-        "MIR fundamentals and methodology -> multimodality",
-        "MIR tasks -> music generation"
+        "MIR tasks -> music generation",
+        "MIR fundamentals and methodology -> multimodality"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4636,9 +4636,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CKBAAB42",
       "day": "4",
       "keywords": [
+        "Evaluation, datasets, and reproducibility",
         "Evaluation, datasets, and reproducibility -> evaluation methodology",
-        " MIR tasks -> music synthesis and transformation",
-        "Evaluation, datasets, and reproducibility"
+        " MIR tasks -> music synthesis and transformation"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4676,9 +4676,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CMQWJ0J0",
       "day": "4",
       "keywords": [
-        "MIR tasks -> automatic classification",
         " Musical features and properties -> musical style and genre",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        "MIR tasks -> automatic classification"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4759,11 +4759,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CK8884BD",
       "day": "1",
       "keywords": [
-        "MIR tasks -> music generation",
         " Musical features and properties -> structure, segmentation, and form",
-        " Musical features and properties -> representations of music",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Domain knowledge -> representations of music",
-        "Domain knowledge -> machine learning/artificial intelligence for music"
+        "MIR tasks -> music generation",
+        " Musical features and properties -> representations of music"
       ],
       "long_presentation": "False",
       "paper_presentation": "Virtually",
@@ -4803,11 +4803,11 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04CGCW91RT",
       "day": "2",
       "keywords": [
+        " Musical features and properties -> melody and motives",
         "Domain knowledge -> computational ethnomusicology",
-        "MIR tasks -> pattern matching and detection",
         " Domain knowledge -> computational music theory and musicology",
-        " Musical features and properties -> timbre, instrumentation, and singing voice",
-        " Musical features and properties -> melody and motives"
+        "MIR tasks -> pattern matching and detection",
+        " Musical features and properties -> timbre, instrumentation, and singing voice"
       ],
       "long_presentation": "False",
       "paper_presentation": "In-person, in Bengaluru",
@@ -4847,9 +4847,9 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04C4QRE9P1",
       "day": "2",
       "keywords": [
-        " MIR fundamentals and methodology -> symbolic music processing",
-        "Domain knowledge -> machine learning/artificial intelligence for music",
         " Musical features and properties -> rhythm, beat, tempo",
+        "Domain knowledge -> machine learning/artificial intelligence for music",
+        " MIR fundamentals and methodology -> symbolic music processing",
         "MIR tasks -> music transcription and annotation"
       ],
       "long_presentation": "True",
