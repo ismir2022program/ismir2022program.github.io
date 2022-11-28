@@ -87,11 +87,11 @@
 <meta name="citation_inbook_title" content="Proceedings of the First MiniCon Conference" />
 <meta name="citation_abstract" content="This paper proposes a model that generates a drum track in the audio domain to play along to a user-provided drum-free recording. Specifically, using paired data of drumless tracks and the corresponding human-made drum tracks, we train a Transformer model to improvise the drum part of an unseen drumless recording. We combine two approaches to encode the input audio. First, we train a vector-quantized variational autoencoder (VQ-VAE) to represent the input audio with discrete codes, which can then be readily used in a Transformer. Second, using an audio- domain beat tracking model, we compute beat-related features of the input audio and use them as embeddings in the Transformer. Instead of generating the drum track directly as waveforms, we use a separate VQ-VAE to encode the mel-spectrogram of a drum track into another set of discrete codes, and train the Transformer to predict the sequence of drum-related discrete codes. The output codes are then converted to a mel-spectrogram with a decoder, and then to the waveform with a vocoder. We report both objective and subjective evaluations of variants of the proposed model, demonstrating that the model with beat information generates drum accompaniment that is rhythmically and stylistically consistent with the input audio." />
 
+<meta name="citation_keywords" content=" Musical features and properties -&gt; rhythm, beat, tempo" />
+
 <meta name="citation_keywords" content="MIR tasks -&gt; music generation" />
 
 <meta name="citation_keywords" content="Domain knowledge -&gt; machine learning/artificial intelligence for music" />
-
-<meta name="citation_keywords" content=" Musical features and properties -&gt; rhythm, beat, tempo" />
 
 <meta name="citation_pdf_url" content="" />
 <meta id="yt-id" data-name= />
@@ -203,6 +203,12 @@
       <span class="">Subjects (starting with primary):</span>
       
       <a
+        href="papers.html?filter=keywords&search= Musical features and properties -&gt; rhythm, beat, tempo"
+        class="text-secondary text-decoration-none"
+        > Musical features and properties -&gt; rhythm, beat, tempo</a
+      > ; 
+      
+      <a
         href="papers.html?filter=keywords&search=MIR tasks -&gt; music generation"
         class="text-secondary text-decoration-none"
         >MIR tasks -&gt; music generation</a
@@ -212,12 +218,6 @@
         href="papers.html?filter=keywords&search=Domain knowledge -&gt; machine learning/artificial intelligence for music"
         class="text-secondary text-decoration-none"
         >Domain knowledge -&gt; machine learning/artificial intelligence for music</a
-      > ; 
-      
-      <a
-        href="papers.html?filter=keywords&search= Musical features and properties -&gt; rhythm, beat, tempo"
-        class="text-secondary text-decoration-none"
-        > Musical features and properties -&gt; rhythm, beat, tempo</a
       > 
       
     </p>
