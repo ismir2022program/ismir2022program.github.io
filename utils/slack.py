@@ -237,11 +237,11 @@ def addChannelLinksToCSV(slackClient, csvFile, channelColumnName, newCsvFile = N
 # For updating description of any channel
 # Takes the channel name and the description which needs to be updated
 # Requires admin.teams.write user scope and mainly Enterprise Version of Slack
-def updateDescription(slackClient, channelName, description):
+def updateTopic(slackClient, channelName, topic):
     # channelsData = get_all_channels_data(slackClient)
     if isChannel(channelName) == True:
         channelID = getChannelID(slackClient, channelName)
-        slackClient.admin_teams_settings_setDescription(token = slackClient.token, description = description, team_id = channelID)
+        slackClient.conversations_setTopic(token = slackClient.token, topic = topic, channel = channelID)
     else:
         print('Channel does not exist')
 
