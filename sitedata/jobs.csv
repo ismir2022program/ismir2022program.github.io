@@ -1,14 +1,14 @@
-uid,session,company,title,jd,channel_name,channel_url,external_web_link
-yamaha,1,Yamaha,Global Internship Program Summer 2023,"Yamaha corporation is recruiting a wide range of competitive R&D engineers for its internship programs. 
+uid,company,title,jd,channel_name,channel_url,external_web_link
+yamaha,Yamaha,Global Internship Program Summer 2023,"Yamaha corporation is recruiting a wide range of competitive R&D engineers for its internship programs. 
 Please check the [JD here](https://drive.google.com/file/d/1---PBAAZUl74KvI0R3m6_HR-Pn5Obl-F/preview)",yamaha-sponsor,https://slack.com/app_redirect?channel=C04CGD56LQ5,https://www.yamaha.com/
-sirius,1,SiriusXM/Pandora,Research roles at SiriusXM/Pandora,"Checkout the different job openings at SiriusXM/Pandora
+sirius,SiriusXM/Pandora,Research roles at SiriusXM/Pandora,"Checkout the different job openings at SiriusXM/Pandora
 
 * [Staff Scientist](https://careers.siriusxm.com/careers/jobs/1960?lang=en-us)
 * [Staff Scientist](https://careers.siriusxm.com/careers/jobs/13528?lang=en-us)
 * [Staff/Principal Applied Scientist - Search](https://careers.siriusxm.com/careers/jobs/1561?lang=en-us)
 * [Product Analyst](https://careers.siriusxm.com/careers/jobs/13316?lang=en-us)
-* [Senior Product Analyst](https://careers.siriusxm.com/careers/jobs/13315?lang=en-us)",sirius-sponsor,https://slack.com/app_redirect?channel=C04CKBK89K4,https://www.siriusxm.com/pandora
-chordify,1,Chordify,Research work at Chordify,"Chordify is a scale-up company that builds products based on state-of-the-art MIR technology to help musicians around the world to live their music. We are a holacratic organisation without bosses in which everybody has full autonomy to work on the tasks and projects that they believe they can have the biggest impact on reaching our common goals. Research at Chordify happens on a variety of MIR-related topics such as automatic chord estimation, beat-tracking, key estimation, polyphonic guitar transcription, music recommendation or automatic playlist generation. In addition, we also do research in fields that are not specifically focused on MIR such as natural language processing or user research. 
+* [Senior Product Analyst](https://careers.siriusxm.com/careers/jobs/13315?lang=en-us)",siriusxm-pandora-sponsor,https://slack.com/app_redirect?channel=C04CKBK89K4,https://www.siriusxm.com/pandora
+chordify,Chordify,Research work at Chordify,"Chordify is a scale-up company that builds products based on state-of-the-art MIR technology to help musicians around the world to live their music. We are a holacratic organisation without bosses in which everybody has full autonomy to work on the tasks and projects that they believe they can have the biggest impact on reaching our common goals. Research at Chordify happens on a variety of MIR-related topics such as automatic chord estimation, beat-tracking, key estimation, polyphonic guitar transcription, music recommendation or automatic playlist generation. In addition, we also do research in fields that are not specifically focused on MIR such as natural language processing or user research. 
 
 
 
