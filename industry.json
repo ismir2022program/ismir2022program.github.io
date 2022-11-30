@@ -19,7 +19,7 @@
     "channel_url": "https://slack.com/app_redirect?channel=C04CKBKBDMG",
     "company": "Chordify",
     "external_web_link": "https://chordify.net/",
-    "pdf": "",
+    "pdf": "https://drive.google.com/file/d/13npetVtLxwwRZ6TLNNk5_FVHhDneueT1/view?usp=share_link",
     "session": "Gold",
     "title": "Chordify",
     "type": "Booth + communication channel",
@@ -127,7 +127,7 @@
   },
   {
     "abstract": "",
-    "channel_name": "bytedance-sponsor",
+    "channel_name": "tiktok-sponsor",
     "channel_url": "https://ismir2022program.slack.com/archives/C04CLCBN6GK",
     "company": "ByteDance",
     "external_web_link": "https://www.bytedance.com/en/",
