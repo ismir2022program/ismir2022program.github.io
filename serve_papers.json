@@ -12,7 +12,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000076.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000076.pdf",
     "position": "12",
     "poster_pdf": "https://drive.google.com/open?id=1jZ0ilSCXRSQcTWl_GQodIO2AeBHlBn2a",
     "primary_author": "Tengyu Deng",
@@ -24,8 +25,7 @@
     "thumbnail": "https://drive.google.com/open?id=1Canay8HQQGNSbK0hh6SXv1Xey8EZcph_",
     "title": "End-to-End Lyrics Transcription Informed by Pitch and Onset Estimation",
     "uid": "6",
-    "video": "https://drive.google.com/open?id=1CyuskJl7dZ2YWd0M7lAu-Ti0X3D0ahhY",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1CyuskJl7dZ2YWd0M7lAu-Ti0X3D0ahhY"
   },
   {
     "AwardNominee": "No",
@@ -40,7 +40,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000101.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000101.pdf",
     "position": "4",
     "poster_pdf": "https://drive.google.com/open?id=1k_xWVpieuYbnYrqcKtBMJnsyr4DcU7qr",
     "primary_author": "Ye Wang",
@@ -52,8 +53,7 @@
     "thumbnail": "https://drive.google.com/open?id=1ruzDpJPC5nQGbRYWyvqYmQQa9Kz4r-X8",
     "title": "Robust Melody Track Identification in Symbolic Music",
     "uid": "7",
-    "video": "https://drive.google.com/open?id=1_FbTmND6no8vptyIFsC9rjI6deCjxDTp",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1_FbTmND6no8vptyIFsC9rjI6deCjxDTp"
   },
   {
     "AwardNominee": "No",
@@ -68,7 +68,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000049.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000049.pdf",
     "position": "2",
     "poster_pdf": "https://drive.google.com/open?id=11_9PlJlhKdYVEOvm8YGOuW3FeBJ-VZpo",
     "primary_author": "Marco A Martinez Ramirez",
@@ -80,8 +81,7 @@
     "thumbnail": "https://drive.google.com/open?id=102P91LePzzQTV-zdeul4BX8q5REUsdWH",
     "title": "Automatic music mixing with deep learning and out-of-domain data",
     "uid": "11",
-    "video": "https://drive.google.com/open?id=1cEgcVYs0PxgsXHdJx5sLOpxW6GivpY4J",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1cEgcVYs0PxgsXHdJx5sLOpxW6GivpY4J"
   },
   {
     "AwardNominee": "No",
@@ -96,7 +96,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000102.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000102.pdf",
     "position": "5",
     "poster_pdf": "https://drive.google.com/open?id=1DhB8xAaKrGiFcr2MtjLFHg34QWcnOAuu",
     "primary_author": "Florian Thalmann",
@@ -108,8 +109,7 @@
     "thumbnail": "https://drive.google.com/open?id=1r_zMQ2KOCtuHusNoEpiRSdO8ddrcLTTE",
     "title": "Tracking the Evolution of a Band's Live Performances over Decades",
     "uid": "12",
-    "video": "https://drive.google.com/open?id=1uAL5bgP8TUTwTyMguU2bOLfHMUR7G_hI",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1uAL5bgP8TUTwTyMguU2bOLfHMUR7G_hI"
   },
   {
     "AwardNominee": "No",
@@ -124,7 +124,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000083.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000083.pdf",
     "position": "2",
     "poster_pdf": "https://drive.google.com/open?id=1-__8LS0fV_lMuqKd-itjhjHuZDWhXv5Z",
     "primary_author": "Romain Loiseau",
@@ -136,8 +137,7 @@
     "thumbnail": "https://drive.google.com/open?id=1vuqO4CRkbaMJ7ns8dU86I1QjXzRkobpV",
     "title": "A Model You Can Hear: Audio Identification with Playable Prototypes",
     "uid": "23",
-    "video": "https://drive.google.com/open?id=1BLk3gCxIA5v3gg7R85oFgR0VjQiORYsi",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1BLk3gCxIA5v3gg7R85oFgR0VjQiORYsi"
   },
   {
     "AwardNominee": "No",
@@ -152,7 +152,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000051.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000051.pdf",
     "position": "4",
     "poster_pdf": "https://drive.google.com/open?id=12qKnF-rdZocB5ibGX2GXm0kIHP2GnBJo",
     "primary_author": "Darius Afchar",
@@ -164,8 +165,7 @@
     "thumbnail": "https://drive.google.com/open?id=1kkweuOto1zjTcZVj8ttOSRMOUTxA0jIZ",
     "title": "Learning Unsupervised Hierarchies of Audio Concepts",
     "uid": "29",
-    "video": "https://drive.google.com/open?id=1-iaBvVq0MRFBdm1wnl5TlOpkKodct-YD",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1-iaBvVq0MRFBdm1wnl5TlOpkKodct-YD"
   },
   {
     "AwardNominee": "No",
@@ -180,7 +180,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000085.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000085.pdf",
     "position": "4",
     "poster_pdf": "https://drive.google.com/open?id=1Eq2_j_EX6vD1OWsRKF0gN7MsM0HTS_2h",
     "primary_author": "Weixing Wei",
@@ -192,8 +193,7 @@
     "thumbnail": "https://drive.google.com/open?id=1eYUDlPexj0t4QIfC-DOAR-dCSQmK8_Yi",
     "title": "HPPNet: Modeling the Harmonic Structure and Pitch Invariance in Piano Transcription",
     "uid": "32",
-    "video": "https://drive.google.com/open?id=1I90r4HFTX8UAOfV2yAc_09WyudcfwMSr",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1I90r4HFTX8UAOfV2yAc_09WyudcfwMSr"
   },
   {
     "AwardNominee": "No",
@@ -208,7 +208,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000026.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000026.pdf",
     "position": "9",
     "poster_pdf": "https://drive.google.com/open?id=1bqt_DrqYkabIYJiZ-pOOasCXEN6ZKXGu",
     "primary_author": "Antonio R\u00edos-Vila",
@@ -220,8 +221,7 @@
     "thumbnail": "https://drive.google.com/open?id=1bJg7r0R-M-_JaQby-2Ui4Ii70iBFPKUG",
     "title": "End-to-End Full-Page Optical Music Recognition for Mensural Notation",
     "uid": "33",
-    "video": "https://drive.google.com/open?id=1ChqPLzsVay8fH5Ve-E4FDbvWTFZnauyD",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1ChqPLzsVay8fH5Ve-E4FDbvWTFZnauyD"
   },
   {
     "AwardNominee": "No",
@@ -236,7 +236,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000003.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000003.pdf",
     "position": "2",
     "poster_pdf": "https://drive.google.com/open?id=1Pj2q7_K2PhZQKvYemSIyLKh6or6d2V4w",
     "primary_author": "Matan Gover",
@@ -248,8 +249,7 @@
     "thumbnail": "https://drive.google.com/open?id=1zbK7SGgSxTlJXBJ4G1zV_O4kZU8hXM15",
     "title": "Music Translation: Generating Piano Arrangements in Different Playing Levels",
     "uid": "37",
-    "video": "https://drive.google.com/open?id=19gJ8ep7hpk1qTvZhFmKthafPWl3evqEj",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=19gJ8ep7hpk1qTvZhFmKthafPWl3evqEj"
   },
   {
     "AwardNominee": "No",
@@ -264,7 +264,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000060.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000060.pdf",
     "position": "13",
     "poster_pdf": "https://drive.google.com/open?id=1vCGz2bH2Wg_j6FkY_DG3oXu1IcsVYCve",
     "primary_author": "Martha E Thomae Elias",
@@ -276,8 +277,7 @@
     "thumbnail": "https://drive.google.com/open?id=1jnrQaG3C-tBPCi2wRXw8xt3Hd8X_gZ0g",
     "title": "Counterpoint Error-Detection Tools for Optical Music Recognition of Renaissance Polyphonic Music",
     "uid": "44",
-    "video": "https://drive.google.com/open?id=1WNvEy2FaYUJDdskqJDekvn9HB7LojNIm",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1WNvEy2FaYUJDdskqJDekvn9HB7LojNIm"
   },
   {
     "AwardNominee": "No",
@@ -292,7 +292,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000086.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000086.pdf",
     "position": "5",
     "poster_pdf": "https://drive.google.com/open?id=1MWbEl2v-OICw0a3JI60Tv_o1qwus2wTs",
     "primary_author": "Pedro LT Neves",
@@ -304,8 +305,7 @@
     "thumbnail": "https://drive.google.com/open?id=1PcUIEJovwkmsHcxwbgoYYu0ap8cY81tG",
     "title": "Generating music with sentiment using Transformer-GANs",
     "uid": "45",
-    "video": "https://drive.google.com/open?id=1vuuOH693beSdcybc3gwGs1T3vkQKzc2S",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1vuuOH693beSdcybc3gwGs1T3vkQKzc2S"
   },
   {
     "AwardNominee": "No",
@@ -320,7 +320,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000002.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000002.pdf",
     "position": "1",
     "poster_pdf": "https://drive.google.com/open?id=1z_cJqeicGRJRs3ET12i1LK9mgcliKCKH",
     "primary_author": "Tsung-Ping Chen",
@@ -332,8 +333,7 @@
     "thumbnail": "https://drive.google.com/open?id=1KPYQUt8mo5JhaiX287vyitUPdF_xb7TG",
     "title": "Toward postprocessing-free neural networks for joint beat and downbeat estimation",
     "uid": "46",
-    "video": "https://drive.google.com/open?id=1NUkdMAyYMortu8ssU8WwasTMUPt7zEby",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1NUkdMAyYMortu8ssU8WwasTMUPt7zEby"
   },
   {
     "AwardNominee": "No",
@@ -348,7 +348,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000037.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000037.pdf",
     "position": "4",
     "poster_pdf": "https://drive.google.com/open?id=14M-JDQqI1LVEW7Uwe_yVhb1P3P1hMOEt",
     "primary_author": "Dichucheng Li",
@@ -360,8 +361,7 @@
     "thumbnail": "https://drive.google.com/open?id=1YT7fAyYnHpnOLh-igf9cJ0ksqMkwhBNA",
     "title": "Playing Technique Detection by Fusing Note Onset Information in Guzheng Performance",
     "uid": "48",
-    "video": "https://drive.google.com/open?id=1Gp00ewNuGQ3FVY27TT-rv4RHrnL2q2Mx",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1Gp00ewNuGQ3FVY27TT-rv4RHrnL2q2Mx"
   },
   {
     "AwardNominee": "No",
@@ -376,7 +376,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000066.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000066.pdf",
     "position": "2",
     "poster_pdf": "https://drive.google.com/open?id=1RzyAAP0f_Sir7ugDaOc-kCYu2yOchsXk",
     "primary_author": "Maosong Sun",
@@ -388,8 +389,7 @@
     "thumbnail": "https://drive.google.com/open?id=1sbutrPvF0UszD1DINTysrrG_riGItu2W",
     "title": "Symphony Generation with Permutation Invariant Language Model",
     "uid": "49",
-    "video": "https://drive.google.com/open?id=1VQXKiPKq3ta7o52v7CpIYK9ezoB2GdSR",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1VQXKiPKq3ta7o52v7CpIYK9ezoB2GdSR"
   },
   {
     "AwardNominee": "No",
@@ -404,7 +404,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000036.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000036.pdf",
     "position": "3",
     "poster_pdf": "https://drive.google.com/open?id=12jRG0khHbiWj4JmVlUefVw_4r3vvzfCu",
     "primary_author": "Polykarpos Polykarpidis",
@@ -416,8 +417,7 @@
     "thumbnail": "https://drive.google.com/open?id=1_0B0WZi06iQa7m_LULRcvn0F9rEFY7b4",
     "title": "Three related corpora in Middle Byzantine music notation and a preliminary comparative analysis",
     "uid": "51",
-    "video": "https://drive.google.com/open?id=12gz76_wQVfQpniX9RYT2wfcnwYfrWlUg",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=12gz76_wQVfQpniX9RYT2wfcnwYfrWlUg"
   },
   {
     "AwardNominee": "No",
@@ -432,7 +432,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000104.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000104.pdf",
     "position": "7",
     "poster_pdf": "https://drive.google.com/open?id=1L7ZphOctH5PbeJFUlwRlcIxD_by_ELHc",
     "primary_author": "Alison B Ma",
@@ -444,8 +445,7 @@
     "thumbnail": "https://drive.google.com/open?id=1SySGsZHnjCCG5fM87XeVEVxC8e24MdFO",
     "title": "Representation Learning for the Automatic Indexing of Sound Effects Libraries",
     "uid": "53",
-    "video": "https://drive.google.com/open?id=1EJsKWAm3a3JCiTGhYx1XUokQwjSvViE6",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1EJsKWAm3a3JCiTGhYx1XUokQwjSvViE6"
   },
   {
     "AwardNominee": "No",
@@ -460,7 +460,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000100.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000100.pdf",
     "position": "3",
     "poster_pdf": "https://drive.google.com/open?id=1QirWM-r5jIpZG40qeOcsAuOZsgtokM9S",
     "primary_author": "Chih-Pin Tan",
@@ -472,8 +473,7 @@
     "thumbnail": "https://drive.google.com/open?id=1917A7wfbJZPRKUrzRzKE3yn-yoxMhKRm",
     "title": "Melody Infilling with User-Provided Structural Context",
     "uid": "59",
-    "video": "https://drive.google.com/open?id=1zdgG8FxH4w_tnBdKcxbIU2EOC2XqdRKR",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1zdgG8FxH4w_tnBdKcxbIU2EOC2XqdRKR"
   },
   {
     "AwardNominee": "No",
@@ -488,7 +488,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000006.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000006.pdf",
     "position": "5",
     "poster_pdf": "https://drive.google.com/open?id=1DFqkRIunJGAHGYWIAIbJrIwg0dLNPaC2",
     "primary_author": "Otso Bj\u00f6rklund",
@@ -500,8 +501,7 @@
     "thumbnail": "https://drive.google.com/open?id=1aKycjVCV_TI_2mlIJ5cD7RFsFhXAwaZR",
     "title": "SIATEC-C: Computationally efficient repeated pattern discovery in polyphonic music",
     "uid": "61",
-    "video": "https://drive.google.com/open?id=1TsSHHxL4DJ2OuYyUyDpVkF1CwwEj2Lt8",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1TsSHHxL4DJ2OuYyUyDpVkF1CwwEj2Lt8"
   },
   {
     "AwardNominee": "No",
@@ -516,7 +516,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000041.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000041.pdf",
     "position": "8",
     "poster_pdf": "https://drive.google.com/open?id=1OO5QLt-Ll_rSK65ElTU1VpnnsWY5oTdI",
     "primary_author": "Wei Li",
@@ -528,8 +529,7 @@
     "thumbnail": "https://drive.google.com/open?id=1IPqfItMzfupr0WxPdq9AT3RPOH6Q9ZCW",
     "title": "Automatic Chinese National Pentatonic Modes Recognition Using Convolutional Neural Network",
     "uid": "63",
-    "video": "https://drive.google.com/open?id=1SmG4hcog1aGDre-ai_mBVSkNiURd2mky",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1SmG4hcog1aGDre-ai_mBVSkNiURd2mky"
   },
   {
     "AwardNominee": "No",
@@ -544,7 +544,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000068.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000068.pdf",
     "position": "4",
     "poster_pdf": "https://drive.google.com/open?id=1BmC8AZSGL18PUxACuqRa0KW0aA9o5WfI",
     "primary_author": "Peiling Lu",
@@ -556,8 +557,7 @@
     "thumbnail": "https://drive.google.com/open?id=1TRDSd6ecnkeVasup3eVMMeGzI-uxXEND",
     "title": "MeloForm: Generating Melody with Musical Form based on Expert Systems and Neural Networks",
     "uid": "64",
-    "video": "https://drive.google.com/open?id=1rBjo-iaak7h15gX1VfV7ikwjGX3EJW7Z",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1rBjo-iaak7h15gX1VfV7ikwjGX3EJW7Z"
   },
   {
     "AwardNominee": "No",
@@ -572,7 +572,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000048.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000048.pdf",
     "position": "1",
     "poster_pdf": "https://drive.google.com/open?id=1BQ5-xEjzL7cMUjiljAp3d2DkGyK9qwvo",
     "primary_author": "Sangjun Han",
@@ -584,8 +585,7 @@
     "thumbnail": "https://drive.google.com/open?id=16wdCJIQK8wnkfsSp3h9t4lwWIcA8mxuQ",
     "title": "Symbolic Music Loop Generation with Neural Discrete Representations",
     "uid": "66",
-    "video": "https://drive.google.com/open?id=1gCIBEdycNqh6biSEXvnEr_PPw8jC0cGf",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1gCIBEdycNqh6biSEXvnEr_PPw8jC0cGf"
   },
   {
     "AwardNominee": "No",
@@ -600,7 +600,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000105.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000105.pdf",
     "position": "8",
     "poster_pdf": "https://drive.google.com/open?id=1t-4k-R3PCNSYQaxR1-AGLuss9M7nPnJH",
     "primary_author": "Katharina Hoedt",
@@ -612,8 +613,7 @@
     "thumbnail": "https://drive.google.com/open?id=1Zl2_LH5Qda6dPIte_zJW6_I2XJFx6fMh",
     "title": "Concept-Based Techniques for \"Musicologist-Friendly\" Explanations in Deep Music Classifiers",
     "uid": "67",
-    "video": "https://drive.google.com/open?id=1JQR--TXENiS7hXgS169ktY1NeSnckSiY",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1JQR--TXENiS7hXgS169ktY1NeSnckSiY"
   },
   {
     "AwardNominee": "No",
@@ -628,7 +628,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000053.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000053.pdf",
     "position": "6",
     "poster_pdf": "https://drive.google.com/open?id=1oFKridMHFoDZDUAY-0XbxtDUReuLOdOa",
     "primary_author": "Huan Zhang",
@@ -640,8 +641,7 @@
     "thumbnail": "https://drive.google.com/open?id=1ClnMf16jVdvey5wwSAMy2ezVOQHJfZDP",
     "title": "ATEPP: A Dataset of Automatically Transcribed Expressive Piano Performance",
     "uid": "70",
-    "video": "https://drive.google.com/open?id=1jtKPOklu0VSGfQkXaO-yKqbHxI2ixNx2",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1jtKPOklu0VSGfQkXaO-yKqbHxI2ixNx2"
   },
   {
     "AwardNominee": "No",
@@ -656,7 +656,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000019.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000019.pdf",
     "position": "2",
     "poster_pdf": "https://drive.google.com/open?id=1DZ3voqJPBwMMe2AQRcvkcOS36iInirKG",
     "primary_author": "Jingwei Zhao",
@@ -668,8 +669,7 @@
     "thumbnail": "https://drive.google.com/open?id=1xfyHMhPnqYcs3PpUGX_biIKMpNMrTQL2",
     "title": "Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention",
     "uid": "72",
-    "video": "https://drive.google.com/open?id=1Q0LsWMOByUsHhXlkArzV0pB0tSlxmos-",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1Q0LsWMOByUsHhXlkArzV0pB0tSlxmos-"
   },
   {
     "AwardNominee": "No",
@@ -684,7 +684,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000111.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000111.pdf",
     "position": "14",
     "poster_pdf": "https://drive.google.com/open?id=1h29abkAL9gGQ6lU3d7MWZQME7Qv5TsJS",
     "primary_author": "Jingwei Zhao",
@@ -696,8 +697,7 @@
     "thumbnail": "https://drive.google.com/open?id=1oU3Ai680ktJf5S80ZMWoA-e0HmMieXsg",
     "title": "Domain Adversarial Training on Conditional Variational Auto-Encoder for Controllable Music Generation",
     "uid": "73",
-    "video": "https://drive.google.com/open?id=15PMfRRlWmV8zeUGbZzxfPbC5dNUui0ze",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=15PMfRRlWmV8zeUGbZzxfPbC5dNUui0ze"
   },
   {
     "AwardNominee": "No",
@@ -712,7 +712,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000065.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000065.pdf",
     "position": "1",
     "poster_pdf": "https://drive.google.com/open?id=1zfEG0D_LeA7eaEgXwyjNiyY0XaKGa2OP",
     "primary_author": "Marco Pasini",
@@ -724,8 +725,7 @@
     "thumbnail": "https://drive.google.com/open?id=13qHfRkly7cxulZcRxBlxrlHy-s1VgkYE",
     "title": "Musika! Fast Infinite Waveform Music Generation",
     "uid": "74",
-    "video": "https://drive.google.com/open?id=1QEAvbOv9-M-xqHS2is_LZEmCn-nMRucU",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1QEAvbOv9-M-xqHS2is_LZEmCn-nMRucU"
   },
   {
     "AwardNominee": "No",
@@ -740,7 +740,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000087.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000087.pdf",
     "position": "6",
     "poster_pdf": "https://drive.google.com/open?id=178fDe_sW05aT3I_3BEMm1eQNvY1w14v9",
     "primary_author": "Ke Chen",
@@ -752,8 +753,7 @@
     "thumbnail": "https://drive.google.com/open?id=1AIWjC2LXb3ssw-uQjiMRgwuIUBgw1uuX",
     "title": "Improving Choral Music Separation through Expressive Synthesized Data from Sampled Instruments",
     "uid": "78",
-    "video": "https://drive.google.com/open?id=1ciUlGPKpwnnfuHqjVQTW5wd60Lu0KvaS",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1ciUlGPKpwnnfuHqjVQTW5wd60Lu0KvaS"
   },
   {
     "AwardNominee": "No",
@@ -768,7 +768,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000089.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000089.pdf",
     "position": "8",
     "poster_pdf": "https://drive.google.com/open?id=1vIQuBKX69giJ73EStghxKlxwThSTIiam",
     "primary_author": "Takuya Takahashi",
@@ -780,8 +781,7 @@
     "thumbnail": "https://drive.google.com/open?id=1th5cZjVh8_6Bb20PH70JcPgVzIrrPM2j",
     "title": "Emotion-driven Harmonisation And Tempo Arrangement of Melodies Using Transfer Learning",
     "uid": "80",
-    "video": "https://drive.google.com/open?id=1vEyuNN9_Ol9nW987ZlxJ8qZh8BY7jCBu",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1vEyuNN9_Ol9nW987ZlxJ8qZh8BY7jCBu"
   },
   {
     "AwardNominee": "No",
@@ -796,7 +796,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000042.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000042.pdf",
     "position": "9",
     "poster_pdf": "https://drive.google.com/open?id=1WCurTzvut5fdWEAi4GvkWuH2b6SNwqzM",
     "primary_author": "David Gillman",
@@ -808,8 +809,7 @@
     "thumbnail": "https://drive.google.com/open?id=1iUO9AOV5BYS29bZeqMAmIv7b4WNeX7CP",
     "title": "Teach Yourself Georgian Folk Songs Dataset: A Annotated Corpus Of Traditional Vocal Polyphony",
     "uid": "81",
-    "video": "https://drive.google.com/open?id=1z3l8KSI2W3EubdKicfBRsxFPbXc3iHhP",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1z3l8KSI2W3EubdKicfBRsxFPbXc3iHhP"
   },
   {
     "AwardNominee": "Yes",
@@ -824,7 +824,8 @@
     "day": "2",
     "long_presentation": "True",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000033.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000033.pdf",
     "position": "0",
     "poster_pdf": "https://drive.google.com/open?id=1g9Vo9_o7IBXIl1z_Jm5mGZ7HQG6csZBH",
     "primary_author": "Preeti Rao",
@@ -836,8 +837,7 @@
     "thumbnail": "https://drive.google.com/open?id=1uEqTDoKqUYOrmWWqCZJte_fufywP83Ab",
     "title": "Raga Classification From Vocal Performances Using Multimodal Analysis  ",
     "uid": "83",
-    "video": "https://drive.google.com/open?id=11wQvhr8uswrb9_o_6im3M_ndtHk6p_Xl",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=11wQvhr8uswrb9_o_6im3M_ndtHk6p_Xl"
   },
   {
     "AwardNominee": "No",
@@ -852,7 +852,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000008.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000008.pdf",
     "position": "7",
     "poster_pdf": "https://drive.google.com/open?id=1C7YKJs6kRSEAV9QHikcDd2yPpMgeqVMo",
     "primary_author": "Da-Yi Wu",
@@ -864,8 +865,7 @@
     "thumbnail": "https://drive.google.com/open?id=1cf0bz_-8AOJ3ylqDPbXmvkIocK0QZgtP",
     "title": "DDSP-based Singing Vocoders: A New Subtractive-based Synthesizer and A Comprehensive Evaluation",
     "uid": "85",
-    "video": "https://drive.google.com/open?id=1SDxWncOrKS39FNOKv09dnFGFUWN_gLZp",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1SDxWncOrKS39FNOKv09dnFGFUWN_gLZp"
   },
   {
     "AwardNominee": "No",
@@ -880,7 +880,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000069.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000069.pdf",
     "position": "5",
     "poster_pdf": "https://drive.google.com/open?id=1BVzyruwuCtVOo0mBayApzFtvGt5oXBV7",
     "primary_author": "Chang-Bin Jeon",
@@ -892,8 +893,7 @@
     "thumbnail": "https://drive.google.com/open?id=127RJsbbf9Mc2VWbGLoWvfewfI4X4KN8w",
     "title": "Towards robust music source separation on loud commercial music",
     "uid": "88",
-    "video": "https://drive.google.com/open?id=1ilduQ9Hu7bEM3-LyhIPunNf_EsImHi15",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1ilduQ9Hu7bEM3-LyhIPunNf_EsImHi15"
   },
   {
     "AwardNominee": "No",
@@ -908,7 +908,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000010.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000010.pdf",
     "position": "9",
     "poster_pdf": "https://drive.google.com/open?id=1BJ40v5h1FPGquMXF7c2VVHm2P0EM98R1",
     "primary_author": "Yuqiang Li",
@@ -920,8 +921,7 @@
     "thumbnail": "https://drive.google.com/open?id=1E2V2AqnYPwxxlPCA_h8p3ia0vGnavqQN",
     "title": "How Music features and Musical Data Representations Affect Objective Evaluation of Music Composition: A Review of CSMT Data Challenge 2020",
     "uid": "90",
-    "video": "https://drive.google.com/open?id=1Z3JKyr8si0qTBYch4VK9dQyUEBvY3iJa",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1Z3JKyr8si0qTBYch4VK9dQyUEBvY3iJa"
   },
   {
     "AwardNominee": "No",
@@ -936,7 +936,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000106.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000106.pdf",
     "position": "9",
     "poster_pdf": "https://drive.google.com/open?id=131Jy3tK0QjPWhBP6ujYRX6UeCFx2gSZ-",
     "primary_author": "Maximilian Mayerl",
@@ -948,8 +949,7 @@
     "thumbnail": "https://drive.google.com/open?id=1q_GOzN6TfcbPvrh-izQyB-x6osnQekOB",
     "title": "Verse versus Chorus: Structure-aware Feature Extraction for Lyrics-based Genre Recognition",
     "uid": "92",
-    "video": "https://drive.google.com/open?id=185Rq0MoJFw_uwaQbNknlj8kHgEqnQaa3",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=185Rq0MoJFw_uwaQbNknlj8kHgEqnQaa3"
   },
   {
     "AwardNominee": "No",
@@ -964,7 +964,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000107.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000107.pdf",
     "position": "10",
     "poster_pdf": "https://drive.google.com/open?id=1tDh_pupJdv1rGg5ImIf7nWHJs4sh4FIA",
     "primary_author": "Longshen Ou",
@@ -976,8 +977,7 @@
     "thumbnail": "https://drive.google.com/open?id=1aJwe52UdKRS_Dc0pn_uVIAwazJX14ErS",
     "title": "Transfer Learning of wav2vec 2.0 for Automatic Lyric Transcription",
     "uid": "94",
-    "video": "https://drive.google.com/open?id=1J02o1LVVDJPfS9xwjtyrktHLDnvdyqWx",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1J02o1LVVDJPfS9xwjtyrktHLDnvdyqWx"
   },
   {
     "AwardNominee": "No",
@@ -992,7 +992,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000005.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000005.pdf",
     "position": "4",
     "poster_pdf": "https://drive.google.com/open?id=1LzpJd3xJpw2Nv5S4kOCbpkvupENNH9_9",
     "primary_author": "Anup Singh",
@@ -1004,8 +1005,7 @@
     "thumbnail": "https://drive.google.com/open?id=12mad31jT1ycN8UOpq0lWeMPrVI80ezo3",
     "title": "Attention-based audio embeddings for query-by-example",
     "uid": "100",
-    "video": "https://drive.google.com/open?id=1G96VBsQfpdqjnGhdFlj8ZA1U0l3D8q_d",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1G96VBsQfpdqjnGhdFlj8ZA1U0l3D8q_d"
   },
   {
     "AwardNominee": "Yes",
@@ -1019,8 +1019,9 @@
     "channel_url": "https://slack.com/app_redirect?channel=C04CY0MCR4H",
     "day": "1",
     "long_presentation": "True",
-    "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "paper_presentation": "Virtually",
+    "pdf_name": "000001.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000001.pdf",
     "position": "0",
     "poster_pdf": "https://drive.google.com/open?id=12pEH1F8X97iyUyzkvMtSxGBxPmvp5u89",
     "primary_author": "Yixiao Zhang",
@@ -1032,8 +1033,7 @@
     "thumbnail": "https://drive.google.com/open?id=1RX-gNH83IsTWPWhmrm8MbkJG1UMlMNTO",
     "title": "Interpreting Song Lyrics with an Audio-Informed Pre-trained Language Model",
     "uid": "103",
-    "video": "https://drive.google.com/open?id=115eIAVogSvSOUKocm9MZNpXeX216uIk0",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=115eIAVogSvSOUKocm9MZNpXeX216uIk0"
   },
   {
     "AwardNominee": "No",
@@ -1048,7 +1048,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000055.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000055.pdf",
     "position": "8",
     "poster_pdf": "https://drive.google.com/open?id=1ehr0qU4earuZdO-FcDTswOleeAB4yK-x",
     "primary_author": "Chitralekha Gupta",
@@ -1060,8 +1061,7 @@
     "thumbnail": "https://drive.google.com/open?id=1mzUe0z4BUL0n6f8aHTP-MU0TyQkdd8VA",
     "title": "Parameter Sensitivity of Deep-Feature based Evaluation Metrics for Audio Textures",
     "uid": "107",
-    "video": "https://drive.google.com/open?id=1AYr3JCRtjSpidj6Yuk76Lsnf8VRPVO0l",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1AYr3JCRtjSpidj6Yuk76Lsnf8VRPVO0l"
   },
   {
     "AwardNominee": "No",
@@ -1076,7 +1076,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000007.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000007.pdf",
     "position": "6",
     "poster_pdf": "https://drive.google.com/open?id=1Gi0Zi7lOvfBM8EVNHvHJ6pUh9VXiwEs7",
     "primary_author": "Marcel A V\u00e9lez V\u00e1squez",
@@ -1088,8 +1089,7 @@
     "thumbnail": "https://drive.google.com/open?id=1DW5rwje8Zjy9MlVC_cYzi7FBnS8GXYLX",
     "title": "Tailed U-Net: Multi-Scale Music Representation Learning",
     "uid": "109",
-    "video": "https://drive.google.com/open?id=1kQbuoxXuO1i1oOevGfvLLGJxYzmzx346",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1kQbuoxXuO1i1oOevGfvLLGJxYzmzx346"
   },
   {
     "AwardNominee": "No",
@@ -1104,7 +1104,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000038.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000038.pdf",
     "position": "5",
     "poster_pdf": "https://drive.google.com/open?id=12M_y7UPwqF6bdOB35RbwPs9owXe6oB1B",
     "primary_author": "Babak Nikzat",
@@ -1116,8 +1117,7 @@
     "thumbnail": "https://drive.google.com/open?id=1jf16ypILamWbpUvcxInEZbMbFCoKAo3K",
     "title": "KDC: an open corpus for computational research of dastg\u0101hi music",
     "uid": "111",
-    "video": "https://drive.google.com/open?id=12CPNBBB11-Yg32qGYCn-BwL6pPHuoxSI",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=12CPNBBB11-Yg32qGYCn-BwL6pPHuoxSI"
   },
   {
     "AwardNominee": "No",
@@ -1132,7 +1132,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000025.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000025.pdf",
     "position": "8",
     "poster_pdf": "https://drive.google.com/open?id=14-dTdMOLibNXOCFe3UFUjgLlT9tGacJc",
     "primary_author": "Giorgio Fabbro",
@@ -1144,8 +1145,7 @@
     "thumbnail": "https://drive.google.com/open?id=1Kmlvn7_i2OpBDk_4OQV3D_w0gsUpAY5v",
     "title": "Distortion Audio Effects: Learning How to Recover the Clean Signal",
     "uid": "113",
-    "video": "https://drive.google.com/open?id=16u1SK0_iqfzqbIvY1TlfQ_yWRG1yYJov",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=16u1SK0_iqfzqbIvY1TlfQ_yWRG1yYJov"
   },
   {
     "AwardNominee": "No",
@@ -1160,7 +1160,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000070.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000070.pdf",
     "position": "6",
     "poster_pdf": "https://drive.google.com/open?id=1mqBWv0DB-be4qKV11vRujzJ27MNpU4vV",
     "primary_author": "Michael Zhou",
@@ -1172,8 +1173,7 @@
     "thumbnail": "https://drive.google.com/open?id=1UHf0cUF8zZQzNB5_sVVBxS9E9E4EQMFb",
     "title": "Towards Quantifying the Strength of Music Scenes Using Live Event Data",
     "uid": "116",
-    "video": "https://drive.google.com/open?id=1h0-RY1e8olgt50_HS-BNt25DWVFn059w",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1h0-RY1e8olgt50_HS-BNt25DWVFn059w"
   },
   {
     "AwardNominee": "No",
@@ -1188,7 +1188,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000009.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000009.pdf",
     "position": "8",
     "poster_pdf": "https://drive.google.com/open?id=1V7heVpCGbctSX1GJA-TOQWPIH5MQ0OKj",
     "primary_author": "Elio Quinton",
@@ -1200,8 +1201,7 @@
     "thumbnail": "https://drive.google.com/open?id=1PQ7_Ir1nW8-Z13OwBIRHVpqm_huprFNl",
     "title": "Equivariant self-supervision for musical tempo estimation",
     "uid": "117",
-    "video": "https://drive.google.com/open?id=1vhS9TpAf5qRwlP6rJXTbrYkZcB6D1TqZ",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1vhS9TpAf5qRwlP6rJXTbrYkZcB6D1TqZ"
   },
   {
     "AwardNominee": "No",
@@ -1216,7 +1216,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000021.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000021.pdf",
     "position": "4",
     "poster_pdf": "https://drive.google.com/open?id=1cS7-ehKq1zxEizn1sWvGGZitdr8hAS64",
     "primary_author": "Karim M. Ibrahim",
@@ -1228,8 +1229,7 @@
     "thumbnail": "https://drive.google.com/open?id=1TgmfGOK_n1KFUMe-X1eMIaiL1lsEGqKM",
     "title": "Exploiting Device and Audio Data to Tag Music with User-Aware Listening Contexts",
     "uid": "118",
-    "video": "https://drive.google.com/open?id=1Q5wzXTun1KIoKdLnhZ-xJP736VQRhfef",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1Q5wzXTun1KIoKdLnhZ-xJP736VQRhfef"
   },
   {
     "AwardNominee": "No",
@@ -1244,7 +1244,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000028.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000028.pdf",
     "position": "11",
     "poster_pdf": "https://drive.google.com/open?id=1F5J93qfLB_enOWdzi3lGneBYrmVdAQCj",
     "primary_author": "Xingjian Du",
@@ -1256,8 +1257,7 @@
     "thumbnail": "https://drive.google.com/open?id=1617ycXzfATdFwdsM-Y9uusY2gYN3H1wT",
     "title": "Latent feature augmentation for chorus detection",
     "uid": "119",
-    "video": "https://drive.google.com/open?id=1N9zeHi5tkvYKhjv0r16xgSBS5GzXW5bH",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1N9zeHi5tkvYKhjv0r16xgSBS5GzXW5bH"
   },
   {
     "AwardNominee": "No",
@@ -1272,7 +1272,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000088.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000088.pdf",
     "position": "7",
     "poster_pdf": "https://drive.google.com/open?id=1HFb7a5n-xNRCbaSpia4km_fgw-oCZx37",
     "primary_author": "Jin Ha Lee",
@@ -1284,8 +1285,7 @@
     "thumbnail": "https://drive.google.com/open?id=1nUxZUs3vxTbxh7ZB4VjAXBQYcAlt7U5Z",
     "title": "Ethics of Singing Voice Synthesis: Perceptions of Users and Developers",
     "uid": "131",
-    "video": "https://drive.google.com/open?id=1_uqARNN5oTzBJCH11H30LAkpH2jwBR4G",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1_uqARNN5oTzBJCH11H30LAkpH2jwBR4G"
   },
   {
     "AwardNominee": "No",
@@ -1300,7 +1300,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000012.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000012.pdf",
     "position": "11",
     "poster_pdf": "https://drive.google.com/open?id=1jmL7YfNTUBFOB6Et1wSw_5Qxs15U-Cx5",
     "primary_author": "Anil Venkatesh",
@@ -1312,8 +1313,7 @@
     "thumbnail": "https://drive.google.com/open?id=1Mq_kbHOiQTUVRLRpZRpABkPThOrrMHi3",
     "title": "Detecting Symmetries of All Cardinalities With Application to Musical 12-Tone Rows",
     "uid": "133",
-    "video": "https://drive.google.com/open?id=1nfO9PGQU-rShoT5ZfgvQsNdoCzVDrR-B",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1nfO9PGQU-rShoT5ZfgvQsNdoCzVDrR-B"
   },
   {
     "AwardNominee": "No",
@@ -1328,7 +1328,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000095.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000095.pdf",
     "position": "14",
     "poster_pdf": "https://drive.google.com/open?id=1BHbdECdT3ATAqOPD9BkQE6-8YJcc8aLu",
     "primary_author": "Timothy de Reuse",
@@ -1340,8 +1341,7 @@
     "thumbnail": "https://drive.google.com/open?id=1QFjVEhTbOEl5Y4T9OOw4-X4R1ikWhZ6O",
     "title": "A Transformer-Based \"Spellchecker\" for Detecting Errors in OMR Output",
     "uid": "134",
-    "video": "https://drive.google.com/open?id=1iOUbYiJZQgZeDPZfF72fr_Lhykj7WhNQ",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1iOUbYiJZQgZeDPZfF72fr_Lhykj7WhNQ"
   },
   {
     "AwardNominee": "No",
@@ -1356,7 +1356,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000079.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000079.pdf",
     "position": "15",
     "poster_pdf": "https://drive.google.com/open?id=1EJMLcpDBOwBrKtONt54rNgtkUNN_M7af",
     "primary_author": "Shuqi Dai",
@@ -1368,8 +1369,7 @@
     "thumbnail": "https://drive.google.com/open?id=1YEa_9gth2NYF3RTiSe-oW98Btgq1n9M2",
     "title": "What is missing in deep music generation? A study of repetition and structure in popular music",
     "uid": "136",
-    "video": "https://drive.google.com/open?id=1hgpQn0Gn3lO1GYdqMVFAPGLkZizMMTs5",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1hgpQn0Gn3lO1GYdqMVFAPGLkZizMMTs5"
   },
   {
     "AwardNominee": "No",
@@ -1384,7 +1384,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000057.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000057.pdf",
     "position": "10",
     "poster_pdf": "https://drive.google.com/file/d/1xnO0ud5zxHf6ZBYlMxvzoBtQ7vE02LuN/view?usp=share_link",
     "primary_author": "Franca Bittner",
@@ -1396,8 +1397,7 @@
     "thumbnail": "https://drive.google.com/file/d/13wnMsMPB2DJ7cwYpi2jeAzSWAF135vg_/view?usp=share_link",
     "title": "Multi-pitch Estimation meets Microphone Mismatch: Applicability of Domain Adaptation",
     "uid": "138",
-    "video": "https://drive.google.com/file/d/1fx80IzmtDUmcRxWpdmd-Oj8U_ThZstyN",
-    "yt_id": ""
+    "video": "https://drive.google.com/file/d/1fx80IzmtDUmcRxWpdmd-Oj8U_ThZstyN"
   },
   {
     "AwardNominee": "No",
@@ -1412,7 +1412,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000050.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000050.pdf",
     "position": "3",
     "poster_pdf": "https://drive.google.com/open?id=1gu839MnctG_GecdOT81yvT6GGovAQ8B3",
     "primary_author": "Mahshid Alinoori",
@@ -1424,8 +1425,7 @@
     "thumbnail": "https://drive.google.com/open?id=1u1jXxXFS60oERhXk2whvvYVSgTIh1sv_",
     "title": "Music-STAR: a Style Translation system for Audio-based Re-instrumentation",
     "uid": "139",
-    "video": "https://drive.google.com/open?id=1jQifWWW-m1J2KvfORdDMM97DaTpDrf28",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1jQifWWW-m1J2KvfORdDMM97DaTpDrf28"
   },
   {
     "AwardNominee": "No",
@@ -1440,7 +1440,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000023.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000023.pdf",
     "position": "6",
     "poster_pdf": "https://drive.google.com/open?id=1WBja87MuYEsYuAh2FtPfQzTL6aDNg2Hg",
     "primary_author": "Junyan Jiang",
@@ -1452,8 +1453,7 @@
     "thumbnail": "https://drive.google.com/open?id=1bJUUFdMLR9-GDKCyTxtNuIHzsSOZHav7",
     "title": "Learning Hierarchical Metrical Structure Beyond Measures",
     "uid": "147",
-    "video": "https://drive.google.com/open?id=1jWSzDrSgqMBs91Mi0uRIGMR0BU3YuuNw",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1jWSzDrSgqMBs91Mi0uRIGMR0BU3YuuNw"
   },
   {
     "AwardNominee": "No",
@@ -1468,7 +1468,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000039.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000039.pdf",
     "position": "6",
     "poster_pdf": "https://drive.google.com/open?id=1XTV9bCJ5QZe2-FOgDldCVUKB7soWMU_j",
     "primary_author": "Ke Nie",
@@ -1480,8 +1481,7 @@
     "thumbnail": "https://drive.google.com/open?id=1LS4URElVU1MG_JDFyp88qQCK29D6JPo_",
     "title": "Inaccurate Prediction or Genre Evolution? Rethinking Genre Classification",
     "uid": "148",
-    "video": "https://drive.google.com/open?id=1N_CcdvwxUOHU_fGO6b0TRhaPS4JZPZ3n",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1N_CcdvwxUOHU_fGO6b0TRhaPS4JZPZ3n"
   },
   {
     "AwardNominee": "No",
@@ -1496,7 +1496,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000067.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000067.pdf",
     "position": "3",
     "poster_pdf": "https://drive.google.com/open?id=1k29DiyZ1qC3TGAVBbv9Gox1bVCdKt30Z",
     "primary_author": "Qingqing Huang",
@@ -1508,8 +1509,7 @@
     "thumbnail": "https://drive.google.com/open?id=1eaa1toshAC9rwK91a2oDJuG1O4Fv3jvC",
     "title": "MuLan: A Joint Embedding of Music Audio and Natural Language",
     "uid": "150",
-    "video": "https://drive.google.com/open?id=1qL-do2sSYGYWyqtivxrNRELnzLrF9MoB",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1qL-do2sSYGYWyqtivxrNRELnzLrF9MoB"
   },
   {
     "AwardNominee": "No",
@@ -1524,7 +1524,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000020.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000020.pdf",
     "position": "3",
     "poster_pdf": "https://drive.google.com/open?id=1pbzok9hZv7VqxQ-T4wwMA66IpVOLMl-w",
     "primary_author": "Seungyeon Rhyu",
@@ -1536,8 +1537,7 @@
     "thumbnail": "https://drive.google.com/open?id=1-YtYLwtg6K029Cx5XidtQG6jC2kg5x-M",
     "title": "Sketching the Expression: Flexible Rendering of Expressive Piano Performance with Self-Supervised Learning",
     "uid": "151",
-    "video": "https://drive.google.com/open?id=1n_HZ-Kgko68D0YoROBida8ITvuXoG7gb",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1n_HZ-Kgko68D0YoROBida8ITvuXoG7gb"
   },
   {
     "AwardNominee": "No",
@@ -1552,7 +1552,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000108.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000108.pdf",
     "position": "11",
     "poster_pdf": "https://drive.google.com/open?id=1QkUF-gWX4l1BCbu-JWLE9b10Yy_bjY-3",
     "primary_author": "Daniel Szelogowski",
@@ -1564,8 +1565,7 @@
     "thumbnail": "https://drive.google.com/open?id=1lmMrdSbxvlxc-tqR6j3qDgo3UBYNca-0",
     "title": "A Novel Dataset and Deep Learning Benchmark for Classical Music Form Recognition and Analysis",
     "uid": "152",
-    "video": "https://drive.google.com/open?id=18EScDB4ill2V1GnNDaIY7Q-A0WNeTfX4",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=18EScDB4ill2V1GnNDaIY7Q-A0WNeTfX4"
   },
   {
     "AwardNominee": "No",
@@ -1580,7 +1580,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000011.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000011.pdf",
     "position": "10",
     "poster_pdf": "https://drive.google.com/open?id=15qp-jjYoLk1RKK0o7SyFhcNArFXNgGCc",
     "primary_author": "Eunjin Choi",
@@ -1592,8 +1593,7 @@
     "thumbnail": "https://drive.google.com/open?id=1EwEe1u1LnfB5mpcws3bQQTg7zADEAupl",
     "title": "YM2413-MDB: A Multi-Instrumental FM Video Game Music Dataset with Emotion Annotations",
     "uid": "153",
-    "video": "https://drive.google.com/open?id=1J4-anjMGCpgeGR5zPPkuiTeZpfr7hj6E",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1J4-anjMGCpgeGR5zPPkuiTeZpfr7hj6E"
   },
   {
     "AwardNominee": "No",
@@ -1608,7 +1608,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000084.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000084.pdf",
     "position": "3",
     "poster_pdf": "https://drive.google.com/open?id=1w-yGPZwZWKnE9cfP8Xr7tyJFonVG3IBT",
     "primary_author": "Timothy Tsai",
@@ -1620,8 +1621,7 @@
     "thumbnail": "https://drive.google.com/open?id=1_IjN18zJOHnLkpkqAAN0tmBa-43Djhk5",
     "title": "An Exploration of Generating Sheet Music Images",
     "uid": "155",
-    "video": "https://drive.google.com/open?id=1_Xb4reQEJYgEqL23vcAGHihgt-BtF8dg",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1_Xb4reQEJYgEqL23vcAGHihgt-BtF8dg"
   },
   {
     "AwardNominee": "No",
@@ -1636,7 +1636,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000097.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000097.pdf",
     "position": "0",
     "poster_pdf": "https://drive.google.com/open?id=1BL5gPSod8aX-uNeCwpZfPT92T6_EfxGp",
     "primary_author": "Li Su",
@@ -1648,8 +1649,7 @@
     "thumbnail": "https://drive.google.com/open?id=1aQqBJoPXKXWcyTLnThakkirPRCfUIW6O",
     "title": "A unified model for zero-shot singing voice conversion and synthesis",
     "uid": "156",
-    "video": "https://drive.google.com/open?id=1sDYV4eSrxppXdXHjsHriKtQ7hSQTcNcY",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1sDYV4eSrxppXdXHjsHriKtQ7hSQTcNcY"
   },
   {
     "AwardNominee": "No",
@@ -1664,7 +1664,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000022.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000022.pdf",
     "position": "5",
     "poster_pdf": "https://drive.google.com/open?id=1kzWgTqJOxZyovhRzsrSMi42bQT5NC_CZ",
     "primary_author": "Yueh-Kao Wu",
@@ -1676,8 +1677,7 @@
     "thumbnail": "https://drive.google.com/open?id=1y-TG4fD3WmNiIvaNdnV5imS3N1_FEyTD",
     "title": "Jukedrummer: Conditional Beat-aware Audio-domain Drum Accompaniment Generation via Transformer VQ-VAE",
     "uid": "164",
-    "video": "https://drive.google.com/open?id=1g_E3V-GrV16hpaKTk4IAbvlK8_FgJTF8",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1g_E3V-GrV16hpaKTk4IAbvlK8_FgJTF8"
   },
   {
     "AwardNominee": "Yes",
@@ -1692,7 +1692,8 @@
     "day": "2",
     "long_presentation": "True",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000034.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000034.pdf",
     "position": "1",
     "poster_pdf": "https://drive.google.com/open?id=11NiZccrqg7WmNy7IQcJiuAzGoq-WpZYp",
     "primary_author": "Oleg Lesota",
@@ -1704,8 +1705,7 @@
     "thumbnail": "https://drive.google.com/open?id=1-8zl2BbnZs3HrkLEymXn3loWxzdLGMHX",
     "title": "Traces of Globalization in Online Music Consumption Patterns and Results of Recommendation Algorithms",
     "uid": "165",
-    "video": "https://drive.google.com/open?id=1LXaANmzwMqXYUMtuA1hfHrdT-lBs056n",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1LXaANmzwMqXYUMtuA1hfHrdT-lBs056n"
   },
   {
     "AwardNominee": "No",
@@ -1720,7 +1720,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000098.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000098.pdf",
     "position": "1",
     "poster_pdf": "https://drive.google.com/open?id=1VE7uZf3V3GZZ-noD7BPZwcjn1AZuO7bt",
     "primary_author": "Stewart Greenhill",
@@ -1732,8 +1733,7 @@
     "thumbnail": "https://drive.google.com/open?id=1i7t5YjaI3T3odMJxnVerf1qYCD8AWxpN",
     "title": "Semantic Control of Generative Musical Attributes",
     "uid": "168",
-    "video": "https://drive.google.com/open?id=1g0hfLPDSrY5tHMNUzKEJMMKjWwwlYTvo",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1g0hfLPDSrY5tHMNUzKEJMMKjWwwlYTvo"
   },
   {
     "AwardNominee": "No",
@@ -1748,7 +1748,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000015.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000015.pdf",
     "position": "14",
     "poster_pdf": "https://drive.google.com/open?id=1K56Pf8bBlUZ7R0iCX1gR6vDM1-iz4c_G",
     "primary_author": "Yen-Tung  Yeh",
@@ -1760,8 +1761,7 @@
     "thumbnail": "https://drive.google.com/open?id=1YwOACtnBvrwrXbLhSNyfaqrUh2AQcSoq",
     "title": "Exploiting Pre-trained Feature Networks for Generative Adversarial Networks in Audio-domain Loop Generation",
     "uid": "169",
-    "video": "https://drive.google.com/open?id=1CtRVNZ7FPPKD_GEB_jMdS0gh4EFEphoZ",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1CtRVNZ7FPPKD_GEB_jMdS0gh4EFEphoZ"
   },
   {
     "AwardNominee": "No",
@@ -1776,7 +1776,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000110.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000110.pdf",
     "position": "13",
     "poster_pdf": "https://drive.google.com/open?id=1dNTgTRl7adkUEQ0Q0oLxwNtpRIEwegpE",
     "primary_author": "Emmanouil Karystinaios",
@@ -1788,8 +1789,7 @@
     "thumbnail": "https://drive.google.com/open?id=1hyu6MSPAUDVVMy2O1nCxT-jiSRzcruUP",
     "title": "Cadence Detection in Symbolic Classical Music using Graph Neural Networks.",
     "uid": "173",
-    "video": "https://drive.google.com/open?id=1s0aQoGik8UHNbfbYkMA22QsRFL_VRc83",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1s0aQoGik8UHNbfbYkMA22QsRFL_VRc83"
   },
   {
     "AwardNominee": "No",
@@ -1804,7 +1804,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000054.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000054.pdf",
     "position": "7",
     "poster_pdf": "https://drive.google.com/open?id=1YIm3VNvWdeZ5Ljjj69gAD0OeLf59VQJo",
     "primary_author": "Kejun Zhang",
@@ -1816,8 +1817,7 @@
     "thumbnail": "https://drive.google.com/open?id=1WtUm8foit1SlCh8cf41aqw6iXoPMs3N6",
     "title": "PDAugment: Data Augmentation by Pitch and Duration Adjustments for Automatic Lyrics Transcription",
     "uid": "180",
-    "video": "https://drive.google.com/open?id=1w1zfWAEhYI4oJtVEmwWf-TxZ_Qd5wVMz",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1w1zfWAEhYI4oJtVEmwWf-TxZ_Qd5wVMz"
   },
   {
     "AwardNominee": "Yes",
@@ -1832,7 +1832,8 @@
     "day": "3",
     "long_presentation": "True",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000064.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000064.pdf",
     "position": "0",
     "poster_pdf": "https://drive.google.com/open?id=12NsPyqn-BWfzNDxOujGOSN9u5OmRqfw7",
     "primary_author": "Jaidev Shriram",
@@ -1844,8 +1845,7 @@
     "thumbnail": "https://drive.google.com/open?id=1OkDCpMGhQPCTw6-NJkomhIWc4apI_Nd2",
     "title": "Sonus Texere! Automated Dense Soundtrack Construction for Books using Movie Adaptations",
     "uid": "182",
-    "video": "https://drive.google.com/open?id=1YIXPR5kcOdosuEa_NY8O6_nNAfppR4be",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1YIXPR5kcOdosuEa_NY8O6_nNAfppR4be"
   },
   {
     "AwardNominee": "No",
@@ -1860,7 +1860,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000059.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000059.pdf",
     "position": "12",
     "poster_pdf": "https://drive.google.com/open?id=1WTzoSalucfsyY7tiqXtR9I64Kh97fJLS",
     "primary_author": "Yigitcan \u00d6zer",
@@ -1872,8 +1873,7 @@
     "thumbnail": "https://drive.google.com/open?id=13XEZ01uTPcqKzb91k4L35nI-alK_YEa-",
     "title": "Source Separation of Piano Concertos with Test-Time Adaptation",
     "uid": "187",
-    "video": "https://drive.google.com/open?id=1RteG0EhWOO2uvE7i9jAq0xc2IqpzmGxb",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1RteG0EhWOO2uvE7i9jAq0xc2IqpzmGxb"
   },
   {
     "AwardNominee": "No",
@@ -1888,7 +1888,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000027.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000027.pdf",
     "position": "10",
     "poster_pdf": "https://drive.google.com/open?id=1jpiR9Y-p0POeWMv3pHDo723_kLmK7Wgb",
     "primary_author": "Bruno Di Giorgi",
@@ -1900,8 +1901,7 @@
     "thumbnail": "https://drive.google.com/open?id=1TWl73QhOmqsG_OWF3x_3c295dZm0ZfCk",
     "title": "Mel Spectrogram Inversion with Stable Pitch",
     "uid": "188",
-    "video": "https://drive.google.com/open?id=1A8OcItwfN9P0OKLQU122KjwNVDrjx0KK",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1A8OcItwfN9P0OKLQU122KjwNVDrjx0KK"
   },
   {
     "AwardNominee": "No",
@@ -1916,7 +1916,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000090.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000090.pdf",
     "position": "9",
     "poster_pdf": "https://drive.google.com/open?id=1Vdd92SN5zEyv8jSpFMuPQJbGX-PZknYt",
     "primary_author": "Yigitcan \u00d6zer",
@@ -1928,8 +1929,7 @@
     "thumbnail": "https://drive.google.com/open?id=1YSwLNC-Z6C3L80mlEKbRc9HPt4QKVPGm",
     "title": "Using Activation Functions for Improving Measure-Level Audio Synchronization",
     "uid": "195",
-    "video": "https://drive.google.com/open?id=1O7TNpNkLw1zlSaIxeuR2xH-CRpf39F9C",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1O7TNpNkLw1zlSaIxeuR2xH-CRpf39F9C"
   },
   {
     "AwardNominee": "No",
@@ -1944,7 +1944,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000091.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000091.pdf",
     "position": "10",
     "poster_pdf": "https://drive.google.com/file/d/1spdzWUhSXptwi4Nw1rXXTEhss8f50Cm1/view?usp=share_link",
     "primary_author": "Katerina Kosta",
@@ -1956,8 +1957,7 @@
     "thumbnail": "https://drive.google.com/file/d/1XdHgdldt8Es5aGmjd86hluqNDrtyR2fc/view?usp=share_link",
     "title": "A deep learning method for melody extraction from a polyphonic symbolic music representation",
     "uid": "196",
-    "video": "https://drive.google.com/file/d/1q1HAq03MtNNx2tqb0KQXLQWHWpojYKTg",
-    "yt_id": ""
+    "video": "https://drive.google.com/file/d/1q1HAq03MtNNx2tqb0KQXLQWHWpojYKTg"
   },
   {
     "AwardNominee": "No",
@@ -1972,7 +1972,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000024.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000024.pdf",
     "position": "7",
     "poster_pdf": "https://drive.google.com/open?id=1jm3Xip_D1P9V1Y4XFCuzEvYTL-1i6Qyj",
     "primary_author": "Francisco C. F. Almeida",
@@ -1984,8 +1985,7 @@
     "thumbnail": "https://drive.google.com/open?id=1b2UHoWcv9d8Bp5uC42rYmfW1MM87_6gW",
     "title": "Mid-level Harmonic Audio Features for Musical Style Classification",
     "uid": "204",
-    "video": "https://drive.google.com/open?id=1sjCeBXku2nJRo1BDYly4TtVZQZQbPzsY",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1sjCeBXku2nJRo1BDYly4TtVZQZQbPzsY"
   },
   {
     "AwardNominee": "No",
@@ -1999,8 +1999,9 @@
     "channel_url": "https://slack.com/app_redirect?channel=C04CKB9E4F4",
     "day": "4",
     "long_presentation": "False",
-    "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "paper_presentation": "Virtually",
+    "pdf_name": "000112.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000112.pdf",
     "position": "15",
     "poster_pdf": "https://drive.google.com/open?id=1urtGL6vD4F9q53fyjM31PZi1CCb_R9KO",
     "primary_author": "Yang Qu",
@@ -2012,8 +2013,7 @@
     "thumbnail": "https://drive.google.com/open?id=1hLUl4F8WoLbLtUodBp3GPjEVx5a_3mWe",
     "title": "Modeling perceptual loudness of piano tone: theory and applications",
     "uid": "206",
-    "video": "https://drive.google.com/open?id=1wrtsC8vVVCiZ0EWm4dmK8-qGRKx4MN6H",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1wrtsC8vVVCiZ0EWm4dmK8-qGRKx4MN6H"
   },
   {
     "AwardNominee": "No",
@@ -2028,7 +2028,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000092.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000092.pdf",
     "position": "11",
     "poster_pdf": "https://drive.google.com/open?id=1MdamLjENVz249t-oqgq47-TCkuSaaMT3",
     "primary_author": "Peter Knees",
@@ -2040,8 +2041,7 @@
     "thumbnail": "https://drive.google.com/open?id=1TsjCIMzXbuDW0QgA9MvSxMp6WvkJUFWh",
     "title": "A Reproducibility Study on User-centric MIR Research and Why it is Important",
     "uid": "209",
-    "video": "https://drive.google.com/open?id=1wi6KSaA3kqqAr3917K4KWxxV-XJiketH",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1wi6KSaA3kqqAr3917K4KWxxV-XJiketH"
   },
   {
     "AwardNominee": "No",
@@ -2056,7 +2056,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000094.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000094.pdf",
     "position": "13",
     "poster_pdf": "https://drive.google.com/open?id=1Ljv0GV74Jpg-ELBpO--bIfc4py3qCh0E",
     "primary_author": "Stefan Lattner",
@@ -2068,8 +2069,7 @@
     "thumbnail": "https://drive.google.com/open?id=1L7h56UFGymGdMdZd6tHjL_0n6aRO3ltF",
     "title": "SampleMatch: Drum Sample Retrieval by Musical Context",
     "uid": "211",
-    "video": "https://drive.google.com/open?id=1v8NaHzFdP4gTEFX6ElPx52-Byh-x87BW",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1v8NaHzFdP4gTEFX6ElPx52-Byh-x87BW"
   },
   {
     "AwardNominee": "Yes",
@@ -2084,7 +2084,8 @@
     "day": "1",
     "long_presentation": "True",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000017.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000017.pdf",
     "position": "0",
     "poster_pdf": "https://drive.google.com/open?id=1b1B4uejvzqP1k9azq7kPUpTVrqYEHmEH",
     "primary_author": "Simeon Rau",
@@ -2096,8 +2097,7 @@
     "thumbnail": "https://drive.google.com/open?id=1cUT34kayLNSRJwp3_wya0FXUBIXHx7x_",
     "title": "Visualization for AI-Assisted Composing",
     "uid": "217",
-    "video": "https://drive.google.com/open?id=1iwMm4pJoaaX9CiFzRMWt6gisY-ixIs1H",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1iwMm4pJoaaX9CiFzRMWt6gisY-ixIs1H"
   },
   {
     "AwardNominee": "No",
@@ -2112,7 +2112,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000029.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000029.pdf",
     "position": "12",
     "poster_pdf": "https://drive.google.com/open?id=1D_f5QafclHSYkfYDYibajD2JTiLF9Xly",
     "primary_author": "Li Yi",
@@ -2124,8 +2125,7 @@
     "thumbnail": "https://drive.google.com/open?id=1QAHUKa6RmcjyHSpHhgnf9MOoGm43K3hx",
     "title": "AccoMontage2: A Complete Harmonization and Accompaniment Arrangement System",
     "uid": "218",
-    "video": "https://drive.google.com/open?id=1OF59ctqQTEilC-oSKuIscvN7FUVH-ghA",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1OF59ctqQTEilC-oSKuIscvN7FUVH-ghA"
   },
   {
     "AwardNominee": "Yes",
@@ -2140,7 +2140,8 @@
     "day": "3",
     "long_presentation": "True",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000081.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000081.pdf",
     "position": "0",
     "poster_pdf": "https://drive.google.com/open?id=1pxf_e-xXTWLnKSAi2drT_RyDzgVg49In",
     "primary_author": "Mathilde Abrassart",
@@ -2152,8 +2153,7 @@
     "thumbnail": "https://drive.google.com/open?id=1UkcTwl0KdkQzXc7PBnQ64CubKwDzlsof",
     "title": "And what if two musical versions don't share melody, harmony, rhythm, or lyrics ?",
     "uid": "221",
-    "video": "https://drive.google.com/open?id=19Kw2x2o6CKQbzixgXQ-uJczXDDKYMgls",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=19Kw2x2o6CKQbzixgXQ-uJczXDDKYMgls"
   },
   {
     "AwardNominee": "No",
@@ -2168,7 +2168,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000093.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000093.pdf",
     "position": "12",
     "poster_pdf": "https://drive.google.com/open?id=10uCuqwwsDUCyYSMBhXU_VJlzouwMmuIn",
     "primary_author": "Noah Schaffer",
@@ -2180,8 +2181,7 @@
     "thumbnail": "https://drive.google.com/open?id=19Weiy20EdE8xvO9KfWOHvJ-fB5VlQzxw",
     "title": "Music Separation Enhancement with Generative Modeling",
     "uid": "225",
-    "video": "https://drive.google.com/open?id=1ePaU2wBytZx_pqJb8uouxlJS9BRk9LLO",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1ePaU2wBytZx_pqJb8uouxlJS9BRk9LLO"
   },
   {
     "AwardNominee": "No",
@@ -2196,7 +2196,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000109.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000109.pdf",
     "position": "12",
     "poster_pdf": "https://drive.google.com/open?id=1f0-EYH2ANBqVEvrBTI30GlU3-Of04UHr",
     "primary_author": "Guillem Cort\u00e8s",
@@ -2208,8 +2209,7 @@
     "thumbnail": "https://drive.google.com/open?id=1svXtCf014Mohn9EVK_fx1Cu0cgKTAMmm",
     "title": "BAF: An audio fingerprinting dataset for broadcast monitoring",
     "uid": "228",
-    "video": "https://drive.google.com/open?id=15uRhIXqDebPcLCC3bRqZovkL_kXCoJqn",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=15uRhIXqDebPcLCC3bRqZovkL_kXCoJqn"
   },
   {
     "AwardNominee": "No",
@@ -2224,7 +2224,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000032.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000032.pdf",
     "position": "15",
     "poster_pdf": "https://drive.google.com/open?id=1gBfXdMY_HhoxT2BZ_IRikmQvTsbFkqc1",
     "primary_author": "Alia Ahmed Morsi",
@@ -2236,8 +2237,7 @@
     "thumbnail": "https://drive.google.com/open?id=1vvQDqpLXH_87yqXRYBSwQMwdnDWPYzOK",
     "title": "Bottlenecks and solutions for audio to score alignment research",
     "uid": "231",
-    "video": "https://drive.google.com/open?id=1WyBwLn2_jKPDXXk8papoV2DcbBZV5O0u",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1WyBwLn2_jKPDXXk8papoV2DcbBZV5O0u"
   },
   {
     "AwardNominee": "No",
@@ -2252,7 +2252,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000013.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000013.pdf",
     "position": "12",
     "poster_pdf": "https://drive.google.com/open?id=1fR3Y9ikhCmtYhWan0_kIqEyZmhpQr-ul",
     "primary_author": "Jaehun Kim",
@@ -2264,8 +2265,7 @@
     "thumbnail": "https://drive.google.com/open?id=1iv7g-YI6ZV6UgbRa8neYU3Hgj0lHpEVR",
     "title": "The power of deep without going deep? A study of HDPGMM music representation learning",
     "uid": "234",
-    "video": "https://drive.google.com/open?id=1OKpPNQA3fv3oE7wp6YtMAxaTGTGYPFHu",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1OKpPNQA3fv3oE7wp6YtMAxaTGTGYPFHu"
   },
   {
     "AwardNominee": "No",
@@ -2280,7 +2280,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000044.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000044.pdf",
     "position": "11",
     "poster_pdf": "https://drive.google.com/open?id=1-0vY1Qu69VcngK5sKnq0B8zExsegxTjw",
     "primary_author": "Kaustuv Kanti Ganguli",
@@ -2292,8 +2293,7 @@
     "thumbnail": "https://drive.google.com/open?id=1t_pw1VcjjbJJXzJtdJsKy6B-HCF6aQDO",
     "title": "Critiquing Task- versus Goal-oriented Approaches: A Case for Makam Recognition",
     "uid": "235",
-    "video": "https://drive.google.com/open?id=16w-ry78fw4S-5HEUvnJcYXEWsia3F5UN",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=16w-ry78fw4S-5HEUvnJcYXEWsia3F5UN"
   },
   {
     "AwardNominee": "No",
@@ -2308,7 +2308,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000061.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000061.pdf",
     "position": "14",
     "poster_pdf": "https://drive.google.com/open?id=189X9J0QP8Gz6YUrBrankyss41klPHwW6",
     "primary_author": "Louis Couturier",
@@ -2320,8 +2321,7 @@
     "thumbnail": "https://drive.google.com/open?id=10t3C2aus761kdF1ulIte-A9L8wJSTs8m",
     "title": "A Dataset of Symbolic Texture Annotations in Mozart Piano Sonatas",
     "uid": "236",
-    "video": "https://drive.google.com/open?id=1UNbASOzT42sxRq9xvbMgpWhf6Ai8p0p9",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1UNbASOzT42sxRq9xvbMgpWhf6Ai8p0p9"
   },
   {
     "AwardNominee": "No",
@@ -2336,7 +2336,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000071.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000071.pdf",
     "position": "7",
     "poster_pdf": "https://drive.google.com/open?id=1bAMp-dLazBX41bIuF7RGiZgAR6QSoRku",
     "primary_author": "Morgan Buisson",
@@ -2348,8 +2349,7 @@
     "thumbnail": "https://drive.google.com/open?id=1RD0vj9G3DxjdrBAkN_NotQCczqfKn7zA",
     "title": "Learning Multi-Level Representations for Hierarchical Music Structure Analysis.",
     "uid": "237",
-    "video": "https://drive.google.com/open?id=1XLUMzf3uoejFSWn5jGnSPpzQ3cHKM5Jm",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1XLUMzf3uoejFSWn5jGnSPpzQ3cHKM5Jm"
   },
   {
     "AwardNominee": "No",
@@ -2364,7 +2364,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000052.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000052.pdf",
     "position": "5",
     "poster_pdf": "https://drive.google.com/open?id=1EsCrX2A77sjsveov_RMPYHBWpGplILMh",
     "primary_author": "Massimo Quadrana",
@@ -2376,8 +2377,7 @@
     "thumbnail": "https://drive.google.com/open?id=1g-nyma06cOyMbIZJVsAVUt8jZHwrTZbx",
     "title": "Multi-objective Hyper-parameter Optimization of Behavioral Song Embeddings",
     "uid": "240",
-    "video": "https://drive.google.com/open?id=14JKPPbprtzNGzgWYc6WZyF0KVfnLyrid",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=14JKPPbprtzNGzgWYc6WZyF0KVfnLyrid"
   },
   {
     "AwardNominee": "No",
@@ -2392,7 +2392,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000099.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000099.pdf",
     "position": "2",
     "poster_pdf": "https://drive.google.com/open?id=1Q-OGckt9Dzd2R9cSzved_8uRG0xA0lZ3",
     "primary_author": "Pablo Alonso-Jim\u00e9nez",
@@ -2404,8 +2405,7 @@
     "thumbnail": "https://drive.google.com/open?id=12uQCBAM3xQi9miVwq6GsAa2bossFb2cK",
     "title": "Music Representation Learning Based on Editorial Metadata from Discogs",
     "uid": "243",
-    "video": "https://drive.google.com/open?id=1nEt3Z7jRysFimuJRPF0NZmeMY6qlXXWs",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1nEt3Z7jRysFimuJRPF0NZmeMY6qlXXWs"
   },
   {
     "AwardNominee": "No",
@@ -2420,7 +2420,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000045.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000045.pdf",
     "position": "12",
     "poster_pdf": "https://drive.google.com/open?id=1Xt4yhB5xGArAHL6EKpe1OUABxTQkHwfA",
     "primary_author": "Charilaos Papaioannou",
@@ -2432,8 +2433,7 @@
     "thumbnail": "https://drive.google.com/open?id=1vApZRJ_aVN-q1dwzDfi_045vK77OCNse",
     "title": "A Dataset for Greek Traditional and Folk Music: Lyra",
     "uid": "245",
-    "video": "https://drive.google.com/open?id=1gOXyVuIhiESwav2kfQLKX2DQ1S_96lUJ",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1gOXyVuIhiESwav2kfQLKX2DQ1S_96lUJ"
   },
   {
     "AwardNominee": "No",
@@ -2448,7 +2448,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000072.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000072.pdf",
     "position": "8",
     "poster_pdf": "https://drive.google.com/open?id=1OSgBz7vOidgTnyugE8Up19l-hOKBJ12w",
     "primary_author": "Curtis Hawthorne",
@@ -2460,8 +2461,7 @@
     "thumbnail": "https://drive.google.com/open?id=18uC0iLawsMhkR4nGyZXCTI6NiFD_LD6c",
     "title": "Multi-instrument Music Synthesis with Spectrogram Diffusion",
     "uid": "246",
-    "video": "https://drive.google.com/open?id=1MIKgDdI0WpdndHOzNJS3eJlssC6wBkAp",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1MIKgDdI0WpdndHOzNJS3eJlssC6wBkAp"
   },
   {
     "AwardNominee": "No",
@@ -2476,7 +2476,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000062.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000062.pdf",
     "position": "15",
     "poster_pdf": "https://drive.google.com/open?id=1Pe6eIW16fjgO0ETh3Q9sd_JjwJSE_KN8",
     "primary_author": "Nazif Can Tamer",
@@ -2488,8 +2489,7 @@
     "thumbnail": "https://drive.google.com/open?id=1lejNaNGIyLL-wdhandNH3zZsyMd0h_U3",
     "title": "Violin Etudes: A Comprehensive Dataset for f0 Estimation and Performance Analysis",
     "uid": "247",
-    "video": "https://drive.google.com/open?id=1IPSsENILVK8vxVgU3UIxr7jdaXa4igHO",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1IPSsENILVK8vxVgU3UIxr7jdaXa4igHO"
   },
   {
     "AwardNominee": "No",
@@ -2504,7 +2504,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000073.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000073.pdf",
     "position": "9",
     "poster_pdf": "https://drive.google.com/open?id=1CQMt2dW3cGfG7CLbRxTzYkRbLvKG4Rox",
     "primary_author": "Franco Caspe",
@@ -2516,8 +2517,7 @@
     "thumbnail": "https://drive.google.com/open?id=1ttR-uhp_6fldGXAUTlH71VQHFSOlsBhr",
     "title": "DDX7: Differentiable FM Synthesis of Musical Instrument Sounds",
     "uid": "248",
-    "video": "https://drive.google.com/open?id=1tcuAoQbn79II6omDp02niDcXYi1HGVZv",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1tcuAoQbn79II6omDp02niDcXYi1HGVZv"
   },
   {
     "AwardNominee": "No",
@@ -2532,7 +2532,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000074.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000074.pdf",
     "position": "10",
     "poster_pdf": "https://drive.google.com/open?id=1-XUh6JmUAZckJDnV7rV3_5e-E4_CLOLe",
     "primary_author": "Mojtaba Heydari",
@@ -2544,8 +2545,7 @@
     "thumbnail": "https://drive.google.com/open?id=1ru9Ksqob5mz_y2I8D37yW1mA1iSHuUBI",
     "title": "Singing beat tracking with Self-supervised front-end and linear transformers",
     "uid": "250",
-    "video": "https://drive.google.com/open?id=1iIMqgx_EjeYlM0uaaSyzJSikF4m5LIfY",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1iIMqgx_EjeYlM0uaaSyzJSikF4m5LIfY"
   },
   {
     "AwardNominee": "No",
@@ -2560,7 +2560,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000056.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000056.pdf",
     "position": "9",
     "poster_pdf": "https://drive.google.com/open?id=1kAQDz6jpiOgdMTHXW6RqKIc9QJpora1n",
     "primary_author": "Igor Vatolkin",
@@ -2572,8 +2573,7 @@
     "thumbnail": "https://drive.google.com/open?id=148fVwwzWbAoqYcnP70H2tsNiCnHAgekv",
     "title": "Stability of Symbolic Feature Group Importance in the Context of Multi-Modal Music Classification",
     "uid": "256",
-    "video": "https://drive.google.com/open?id=1314qVAvj9ehZlgm29k6YJxI8IXqaM4WY",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1314qVAvj9ehZlgm29k6YJxI8IXqaM4WY"
   },
   {
     "AwardNominee": "No",
@@ -2588,7 +2588,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000082.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000082.pdf",
     "position": "1",
     "poster_pdf": "https://drive.google.com/open?id=11ai_HSMAujukTAmFJtxvGAGOJlrveXw3",
     "primary_author": "Gen\u00eds Plaja-Roglans",
@@ -2600,8 +2601,7 @@
     "thumbnail": "https://drive.google.com/open?id=1vSjJiUd4n7ih5a6HI03JQuXENYjppeVK",
     "title": "A diffusion-inspired training strategy for singing voice extraction in the waveform domain",
     "uid": "262",
-    "video": "https://drive.google.com/open?id=1w9UVHiHcwKdzZ8TT-5Zmac-_89Ss5LJA",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1w9UVHiHcwKdzZ8TT-5Zmac-_89Ss5LJA"
   },
   {
     "AwardNominee": "No",
@@ -2616,7 +2616,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000043.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000043.pdf",
     "position": "10",
     "poster_pdf": "https://drive.google.com/file/d/1QW6enTfFLouiZ1wje4S5a9NzbsrLyNUo",
     "primary_author": "Lucas S Maia",
@@ -2628,8 +2629,7 @@
     "thumbnail": "https://drive.google.com/open?id=1AJYM4KL8DOtgytZjToJusjiV8ibKJ-hP",
     "title": "Adapting meter tracking models to Latin American music",
     "uid": "272",
-    "video": "https://drive.google.com/open?id=1bphH5JcIcq-4v8AMWlIk81snYc2fVe7J",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1bphH5JcIcq-4v8AMWlIk81snYc2fVe7J"
   },
   {
     "AwardNominee": "No",
@@ -2644,7 +2644,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000077.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000077.pdf",
     "position": "13",
     "poster_pdf": "https://drive.google.com/open?id=1NV_Gdv7CIeEvzEJvrP3PLTfd4xArXf2R",
     "primary_author": "Ilaria Manco",
@@ -2656,8 +2657,7 @@
     "thumbnail": "https://drive.google.com/open?id=1hyhmeByyVCMBgKy6wY7zTVSTiCwVVDL2",
     "title": "Contrastive Audio-Language Learning for Music",
     "uid": "275",
-    "video": "https://drive.google.com/open?id=1yGT7U1odyQAF9QjWG-MqcgRRbI713kCm",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1yGT7U1odyQAF9QjWG-MqcgRRbI713kCm"
   },
   {
     "AwardNominee": "No",
@@ -2672,7 +2672,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000075.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000075.pdf",
     "position": "11",
     "poster_pdf": "https://drive.google.com/open?id=1jFALUuzfK3k0S-L5EdAnlNqc5IOM81xW",
     "primary_author": "Saurjya Sarkar",
@@ -2684,8 +2685,7 @@
     "thumbnail": "https://drive.google.com/open?id=1WpyTZ1dZG5NpVO46cE-1qL4Cjx7bXrG6",
     "title": "EnsembleSet: a new high quality synthesised dataset for chamber ensemble separation",
     "uid": "277",
-    "video": "https://drive.google.com/open?id=1SVuTvv-13lWyPxHnICvtH-kVhZNfmGqa",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1SVuTvv-13lWyPxHnICvtH-kVhZNfmGqa"
   },
   {
     "AwardNominee": "No",
@@ -2700,7 +2700,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000063.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000063.pdf",
     "position": "16",
     "poster_pdf": "https://drive.google.com/open?id=1Xg6yXeePIMzTGwW9cIYD8OrhnMTleR3o",
     "primary_author": "Nikita Srivatsan",
@@ -2712,8 +2713,7 @@
     "thumbnail": "https://drive.google.com/open?id=1T566PJrcDZKQioNyBGuZGIT0gKPtC0mt",
     "title": "Checklist Models for Improved Output Fluency in Piano Fingering Prediction",
     "uid": "278",
-    "video": "https://drive.google.com/open?id=1RqjP2h5ag5vKCHu74UP_e47X0oITpCfr",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1RqjP2h5ag5vKCHu74UP_e47X0oITpCfr"
   },
   {
     "AwardNominee": "No",
@@ -2728,7 +2728,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000096.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000096.pdf",
     "position": "15",
     "poster_pdf": "https://drive.google.com/open?id=1anqS2_P7AJ8Ft9JvpfWblzDDsGNmeF4T",
     "primary_author": "Vjosa Preniqi",
@@ -2740,8 +2741,7 @@
     "thumbnail": "https://drive.google.com/open?id=1IjadVnjYR-DHiQV8XFQ7aAAJOCNFHwjS",
     "title": "\"More than words\": Linking Music Preferences and Moral Values through Lyrics",
     "uid": "281",
-    "video": "https://drive.google.com/open?id=1MMI5RbZdgjhQOavn7Slxzysb2RQ_Tza1",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1MMI5RbZdgjhQOavn7Slxzysb2RQ_Tza1"
   },
   {
     "AwardNominee": "No",
@@ -2756,7 +2756,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000080.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000080.pdf",
     "position": "16",
     "poster_pdf": "https://drive.google.com/open?id=15CVr0PQ1kJZqpx4QYunuQ_txrgBKThxD",
     "primary_author": "Angelo Cesar Mendes da Silva",
@@ -2768,8 +2769,7 @@
     "thumbnail": "https://drive.google.com/open?id=1ZiECb_DmW_yo3dcsgp34xJKSEVWsxWay",
     "title": "Heterogeneous Graph Neural Network for Music Emotion Recognition",
     "uid": "282",
-    "video": "https://drive.google.com/open?id=12eZbcXcwCJ2X3hQ0LSgTfsgTg0jxlAHA",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=12eZbcXcwCJ2X3hQ0LSgTfsgTg0jxlAHA"
   },
   {
     "AwardNominee": "No",
@@ -2784,7 +2784,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000030.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000030.pdf",
     "position": "13",
     "poster_pdf": "https://drive.google.com/open?id=16LQ3MZJb4HZrbe6fPohKNkCBtar9ZXp4",
     "primary_author": "Matthew C McCallum",
@@ -2796,8 +2797,7 @@
     "thumbnail": "https://drive.google.com/open?id=1ihOKFFuBiC0wc8ANilHWHhwfcly5c7fe",
     "title": "Supervised and Unsupervised Learning of Audio Representations for Music Understanding",
     "uid": "285",
-    "video": "https://drive.google.com/open?id=1z-1-ViOy301bJ-nrvqtdPe8LgdLIS-5A",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1z-1-ViOy301bJ-nrvqtdPe8LgdLIS-5A"
   },
   {
     "AwardNominee": "No",
@@ -2812,7 +2812,8 @@
     "day": "3",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000078.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000078.pdf",
     "position": "14",
     "poster_pdf": "https://drive.google.com/open?id=11Hx1IAV5oxTVwrBnjsZotvbSRnBQDnd7",
     "primary_author": "Dmitry Bogdanov",
@@ -2824,8 +2825,7 @@
     "thumbnail": "https://drive.google.com/open?id=1UCUzM_P69M0JjoVGW7XO6-5D6Fk7En7r",
     "title": "MusAV: A dataset of relative arousal-valence annotations for validation of audio models",
     "uid": "286",
-    "video": "https://drive.google.com/open?id=1B_XMXJNMPKKEyJ6_7q35A6v44YCw4GLj",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1B_XMXJNMPKKEyJ6_7q35A6v44YCw4GLj"
   },
   {
     "AwardNominee": "No",
@@ -2840,7 +2840,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000004.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000004.pdf",
     "position": "3",
     "poster_pdf": "https://drive.google.com/open?id=1y1pEnQ0xy_xo5cIoRLbTgXOy9wbRc57P",
     "primary_author": "Ian Simon",
@@ -2852,8 +2853,7 @@
     "thumbnail": "https://drive.google.com/open?id=1-5-gfWb2dYm6A7jFDjTyZ5t8qLXPwtvx",
     "title": "Scaling Polyphonic Transcription with Mixtures of Monophonic Transcriptions",
     "uid": "287",
-    "video": "https://drive.google.com/open?id=1mhRr6iciJlhkZpDOsaNCVhKc-SdmjM3Z",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1mhRr6iciJlhkZpDOsaNCVhKc-SdmjM3Z"
   },
   {
     "AwardNominee": "No",
@@ -2868,7 +2868,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000046.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000046.pdf",
     "position": "13",
     "poster_pdf": "https://drive.google.com/open?id=1PrxS8bfAamdo3l3xmSdO9NSEnW9Av-ke",
     "primary_author": "Yuya Yamamoto",
@@ -2880,8 +2881,7 @@
     "thumbnail": "https://drive.google.com/open?id=1NevCH-gs0euK96cskq0bicLEmHnZMGAk",
     "title": "Analysis and detection of singing techniques in repertoires of J-POP solo singers",
     "uid": "296",
-    "video": "https://drive.google.com/open?id=1jz37KNjy-TKBSwd01jMxO8GwqA44ic4R",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1jz37KNjy-TKBSwd01jMxO8GwqA44ic4R"
   },
   {
     "AwardNominee": "No",
@@ -2896,7 +2896,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000058.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000058.pdf",
     "position": "11",
     "poster_pdf": "https://drive.google.com/open?id=1IpcYQkxfDpC45iZHAkdzBFczyTVzNKWr",
     "primary_author": "Chris Donahue",
@@ -2908,8 +2909,7 @@
     "thumbnail": "https://drive.google.com/open?id=1JHATdmEjh9NaN2r2NZsa1UhP9qEP_pfA",
     "title": "Melody transcription via generative pre-training",
     "uid": "300",
-    "video": "https://drive.google.com/open?id=1VRQPvGYsS5NxvdY-iUQXwhvAh8AQnaCh",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1VRQPvGYsS5NxvdY-iUQXwhvAh8AQnaCh"
   },
   {
     "AwardNominee": "No",
@@ -2924,7 +2924,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000035.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000035.pdf",
     "position": "2",
     "poster_pdf": "https://drive.google.com/open?id=1tY74PkqPSXwcUAlSyhhEZgzsTWshZqqi",
     "primary_author": "Kongmeng Liew",
@@ -2936,8 +2937,7 @@
     "thumbnail": "https://drive.google.com/open?id=1JcFbhDCb5H7fqktu7HJngVEiausZ7f_i",
     "title": "Network Analyses for Cross-Cultural Music Popularity",
     "uid": "303",
-    "video": "https://drive.google.com/open?id=1lvSF-lwH7TjyzsdlMVvqzHAIVOKaNFXQ",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1lvSF-lwH7TjyzsdlMVvqzHAIVOKaNFXQ"
   },
   {
     "AwardNominee": "No",
@@ -2952,7 +2952,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000018.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000018.pdf",
     "position": "1",
     "poster_pdf": "https://drive.google.com/open?id=1jQBDLr4IaH20ym-U5jfXoHni3GC8xUDL",
     "primary_author": "Ellie Bean Abrams",
@@ -2964,8 +2965,7 @@
     "thumbnail": "https://drive.google.com/open?id=1OkcvT7xUU8tzVHvUF5hCZ3SiO5Iulsvm",
     "title": "Retrieving musical information from neural data: how cognitive features enrich acoustic ones",
     "uid": "305",
-    "video": "https://drive.google.com/open?id=151IWNyIDcSD92I4YbjtbFabc1YobsK4X",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=151IWNyIDcSD92I4YbjtbFabc1YobsK4X"
   },
   {
     "AwardNominee": "No",
@@ -2980,7 +2980,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000016.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000016.pdf",
     "position": "15",
     "poster_pdf": "https://drive.google.com/open?id=1wbQvC1h9DCL0xK5fEa5Ta7DAIXlxYuPv",
     "primary_author": "daiyu zhang",
@@ -2992,8 +2993,7 @@
     "thumbnail": "https://drive.google.com/open?id=1Uc9UyW1mNMb1_plCea6YzIvJvD547x2f",
     "title": "Modeling the rhythm from lyrics for melody generation of pop songs",
     "uid": "306",
-    "video": "https://drive.google.com/open?id=1_MyDbDMkhm5zguPcbYdhhixKbvPi690L",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1_MyDbDMkhm5zguPcbYdhhixKbvPi690L"
   },
   {
     "AwardNominee": "No",
@@ -3008,7 +3008,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000103.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000103.pdf",
     "position": "6",
     "poster_pdf": "https://drive.google.com/open?id=13DiY5H3CC_5P4QrXjT-u-zNktZsntn1m",
     "primary_author": "Ashvala Vinay",
@@ -3020,8 +3021,7 @@
     "thumbnail": "https://drive.google.com/open?id=1To34pJg900ZjGQis0n6C4a2E7amV3eP7",
     "title": "Evaluating Generative Audio Systems and Their Metrics",
     "uid": "308",
-    "video": "https://drive.google.com/open?id=1joOvb5Bd7qxAYR2GlteXaKU9pyuXr8KE",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1joOvb5Bd7qxAYR2GlteXaKU9pyuXr8KE"
   },
   {
     "AwardNominee": "No",
@@ -3036,7 +3036,8 @@
     "day": "4",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000113.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000113.pdf",
     "position": "16",
     "poster_pdf": "https://drive.google.com/open?id=1Rve9CLZFElIha7IOBKh554H9iklMqpXQ",
     "primary_author": "Richard Vogl",
@@ -3048,8 +3049,7 @@
     "thumbnail": "https://drive.google.com/open?id=1usXebeP2k8G1jDAahpoTC1A82Dy9Q77o",
     "title": "On the Impact and Interplay of Input Representations and Network Architectures for Automatic Music Tagging",
     "uid": "317",
-    "video": "https://drive.google.com/open?id=1d14BKzh77h8vwRgw7KP9vP-E6P-nAGpV",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1d14BKzh77h8vwRgw7KP9vP-E6P-nAGpV"
   },
   {
     "AwardNominee": "No",
@@ -3064,7 +3064,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000031.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000031.pdf",
     "position": "14",
     "poster_pdf": "https://drive.google.com/open?id=1L1Jz73TIk7MMWrwaOETWEjfJaOktROEY",
     "primary_author": "Rishabh A Dahale",
@@ -3076,8 +3077,7 @@
     "thumbnail": "https://drive.google.com/open?id=14M6XklTLCbkVR9I2hcstszVGEoaOAFty",
     "title": "Generating Coherent Drum Accompaniment with Fills and Improvisations",
     "uid": "320",
-    "video": "https://drive.google.com/open?id=1aINKqGpGW86_tANRiw6zTH5iz9GbqTB6",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1aINKqGpGW86_tANRiw6zTH5iz9GbqTB6"
   },
   {
     "AwardNominee": "No",
@@ -3092,7 +3092,8 @@
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "Virtually",
-    "pic_id": "",
+    "pdf_name": "000014.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000014.pdf",
     "position": "13",
     "poster_pdf": "https://drive.google.com/open?id=17QxnZvs4cgAwXZXQlFXEWV40zKsY2Y8T",
     "primary_author": "Daiki Naruse",
@@ -3104,8 +3105,7 @@
     "thumbnail": "https://drive.google.com/open?id=1_nK4C4awvigUxpDU74xagmolynRW1Wac",
     "title": "Pop Music Generation with Controllable Phrase Lengths",
     "uid": "322",
-    "video": "https://drive.google.com/open?id=1Vzij-z2_GQnhf2pjWhJFr8Abf8Zyel5o",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1Vzij-z2_GQnhf2pjWhJFr8Abf8Zyel5o"
   },
   {
     "AwardNominee": "No",
@@ -3120,7 +3120,8 @@
     "day": "2",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000040.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000040.pdf",
     "position": "7",
     "poster_pdf": "https://drive.google.com/open?id=1ISIt3wM8Q8pKZhKbhVWg-Q7ISr-ECRTD",
     "primary_author": "Thomas Nuttall",
@@ -3132,8 +3133,7 @@
     "thumbnail": "https://drive.google.com/open?id=1ysRgRh7oUb0piTR7uRQCpIiwQjgdSMlM",
     "title": "In Search of Sa\u00f1c\u0101ras: Tradition-informed Repeated Melodic Pattern Recognition in Carnatic Music",
     "uid": "334",
-    "video": "https://drive.google.com/open?id=1TeKu8Xips2y7bmwPOUjA6K4ilwOadhet",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1TeKu8Xips2y7bmwPOUjA6K4ilwOadhet"
   },
   {
     "AwardNominee": "Yes",
@@ -3148,7 +3148,8 @@
     "day": "2",
     "long_presentation": "True",
     "paper_presentation": "In-person, in Bengaluru",
-    "pic_id": "",
+    "pdf_name": "000047.pdf",
+    "pdf_path": "https://archives.ismir.net/ismir2022/paper/000047.pdf",
     "position": "0",
     "poster_pdf": "https://drive.google.com/open?id=1iBziT4mXvY8sj3Q3zYvSiAs3mdRzRFDJ",
     "primary_author": "Lele Liu",
@@ -3160,7 +3161,6 @@
     "thumbnail": "https://drive.google.com/open?id=1ZSJreE-WDJPheZ6_mcFMMwun8GnzPNQx",
     "title": "Performance MIDI-to-score conversion by neural beat tracking",
     "uid": "335",
-    "video": "https://drive.google.com/open?id=1_UAm2QXD12IhwzmaR2nCHqBclWZj0Dd3",
-    "yt_id": ""
+    "video": "https://drive.google.com/open?id=1_UAm2QXD12IhwzmaR2nCHqBclWZj0Dd3"
   }
 ]
