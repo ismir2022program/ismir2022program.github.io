@@ -259,14 +259,13 @@ def format_paper(v):
             "keywords": list(set(list_fields["primary_subject"] + list_fields["secondary_subject"])),
             "abstract": v["abstract"],
             "TLDR": v["abstract"],
-            "recs": [],
+            "poster_pdf": v.get("poster_pdf", ""),
             "session": list_fields["session"],
-            "pdf_url": v.get("pdf_url", ""),
+            "pdf_path": v.get("pdf_path", ""),
             "video": v["video"].replace('/open?id=', '/file/d/')+'/preview',
             "channel_url": v["channel_url"],
             "slack_channel": v["slack_channel"],
             "day": v["day"],
-            "yt_id": v["yt_id"]
         },
         "poster_pdf": "GLTR_poster.pdf",
     }

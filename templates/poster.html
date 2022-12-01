@@ -98,7 +98,7 @@
   <div id="paper" class="collapse">
     {% if config.paper_embeds %}
     <button class="fullscreen-button btn btn-primary mb-3">Fullscreen</button>
-    <iframe class="fullscreen-iframe" src = "static/final_papers/{{ paper.id }}.pdf#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
+    <iframe class="fullscreen-iframe" src = "{{ paper.content.pdf_path }}#embedded=true" width='100%' height='500px' allowfullscreen webkitallowfullscreen></iframe>
     {% endif %}
   </div>
   <div id="poster" class="collapse">
