@@ -51,8 +51,8 @@
     {% endif %}
   </div>
   <div class="music-content-wrapper">
-    <div id="bio" class="pp-card mt-3 collapse">{{music.bio}}</div>
-    <div id="abstract" class="pp-card mt-3 collapse">{{music.abstract}}</div>
+    <div id="bio" class="pp-card mt-3 collapse">{{music.bio | markdown}}</div>
+    <div id="abstract" class="pp-card mt-3 collapse">{{music.abstract | markdown}}</div>
     <div id="video" class="mt-3 collapse">
       {% if music.release_consent == '1' %}
       <div class="video-container mt-3 mb-3">
