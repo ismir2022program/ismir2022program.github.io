@@ -262,7 +262,7 @@ def format_paper(v):
             "poster_pdf": v.get("poster_pdf", ""),
             "session": list_fields["session"],
             "pdf_path": v.get("pdf_path", ""),
-            "video": v["video"].replace('/open?id=', '/file/d/')+'/preview',
+            "video": v["video"].replace('/open?id=', '/uc?export=preview&id='),
             "channel_url": v["channel_url"],
             "slack_channel": v["slack_channel"],
             "day": v["day"],
