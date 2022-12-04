@@ -2220,7 +2220,7 @@
     "abstract_short": "Current audio to score alignment (ASA) methods have reached a glass ceiling. We believe this is likely to remain unless a change occurs in how we define the problem and how we evaluate it, which would be possible with having varied data representing many practical ASA scenarios. We provide a use case of adapting the ASAP dataset to be used for ASA, and highlight how the generated weak alignments could be used to create further data to covering varied scenarios.",
     "authors": "Morsi, Alia Ahmed*; Serra, Xavier",
     "authors_and_affil": "Alia Ahmed Morsi (Music Technology Group, Universitat Pompeu Fabra, Barcelona, Spain)*; Xavier Serra (Music Technology Group, Universitat Pompeu Fabra, Barcelona, Spain)",
-    "channel_url": "",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CMQX0LG4",
     "day": "1",
     "long_presentation": "False",
     "paper_presentation": "In-person, in Bengaluru",
