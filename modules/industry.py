@@ -24,15 +24,6 @@ class Industry:
         # Reading the papers data.
         csv_data = pd.read_csv(self.industryCsvFile)
 
-        # Loading emails of all the registered users.
-        attendee_email_columns = "Attendee Email"
-        registered_users_csv = pd.read_csv(self.registrationCsvFile)
-
-        attendee_emails = list(map(str.strip, registered_users_csv[attendee_email_columns]))
-
-        print("All the registered users are: ", str(attendee_emails))
-
-
         print(csv_data)
 
         slack_channel_column = "channel_name"
@@ -53,9 +44,6 @@ class Industry:
             else:
                 #print("Author email is: ", row[author_emails_column])
                 user_data[row[slack_channel_column]] = list(map(str.strip, str(row[author_emails_column]).split(",")))
-                # In case the sponsor is platinum, then we add all the users to the list.
-                if(row[catrgory_column_name].strip() == "Platinum"):
-                    user_data[row[slack_channel_column]].extend(attendee_emails)
         
         print(user_data)
 
