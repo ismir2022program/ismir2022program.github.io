@@ -6,6 +6,7 @@ def registration_stats(in_csv):
     words = next(csv_reader)
     ticket_choice_ind = words.index('Ticket_Name')
     author_choice_ind = words.index('How are you planning to attend ISMIR 2022 ?')
+    country_ind = words.index('Country')
 
     morntut_choice_ind = words.index('Select the morning session tutorial you wish to attend')
     noontut_choice_ind = words.index('Select the afternoon session tutorial you wish to attend')
@@ -35,6 +36,11 @@ def registration_stats(in_csv):
             'Student': {'Virtually': 0, 'In-person': 0, 'Undecided': 0}
         }
     }
+    tmp_counters = {
+        'Full': {'Virtually':0, 'In-person':0, 'Undecided': 0},
+        'Student': {'Virtually':0, 'In-person':0, 'Undecided': 0}
+    }
+    country_counters = {}
     reg_counters = {
         'Full': {'Virtually':0, 'In-person':0, 'Undecided': 0},
         'Student': {'Virtually':0, 'In-person':0, 'Undecided': 0}
@@ -42,6 +48,8 @@ def registration_stats(in_csv):
     for words in csv_reader:
         ticket_choice = words[ticket_choice_ind]
         author_choice = words[author_choice_ind]
+        country_choice = words[country_ind]
+        country_counters[country_choice] = tmp_counters
 
         morn_tut_ind, noon_tut_ind = 0, 0
         if words[morntut_choice_ind] != 'NA':
@@ -54,12 +62,14 @@ def registration_stats(in_csv):
             if 'or' in ticket_choice:
                 if 'Virtual' in author_choice:
                     reg_counters['Full']['Virtually'] += 1
+                    country_counters[country_choice]['Full']['Virtually'] += 1
                     if morn_tut_ind:
                         tut_counters[morn_tut_ind]['Full']['Virtually'] += 1
                     if noon_tut_ind:
                         tut_counters[noon_tut_ind]['Full']['Virtually'] += 1
                 elif 'In-person' in author_choice:
                     reg_counters['Full']['In-person'] += 1
+                    country_counters[country_choice]['Full']['In-person'] += 1
                     if morn_tut_ind:
                         tut_counters[morn_tut_ind]['Full']['In-person'] += 1
                     if noon_tut_ind:
@@ -67,6 +77,7 @@ def registration_stats(in_csv):
 
                 elif 'Undecided' in author_choice:
                     reg_counters['Full']['Undecided'] += 1
+                    country_counters[country_choice]['Full']['Undecided'] += 1
                     if morn_tut_ind:
                         tut_counters[morn_tut_ind]['Full']['Undecided'] += 1
                     if noon_tut_ind:
@@ -76,12 +87,14 @@ def registration_stats(in_csv):
 
             elif 'Virtual' in ticket_choice:
                 reg_counters['Full']['Virtually'] += 1
+                country_counters[country_choice]['Full']['Virtually'] += 1
                 if morn_tut_ind:
                     tut_counters[morn_tut_ind]['Full']['Virtually'] += 1
                 if noon_tut_ind:
                     tut_counters[noon_tut_ind]['Full']['Virtually'] += 1
             elif 'In-person' in ticket_choice:
                 reg_counters['Full']['In-person'] += 1
+                country_counters[country_choice]['Full']['In-person'] += 1
                 if morn_tut_ind:
                     tut_counters[morn_tut_ind]['Full']['In-person'] += 1
                 if noon_tut_ind:
@@ -94,12 +107,14 @@ def registration_stats(in_csv):
             if 'or' in ticket_choice:
                 if 'Virtual' in author_choice:
                     reg_counters['Student']['Virtually'] += 1
+                    country_counters[country_choice]['Student']['Virtually'] += 1
                     if morn_tut_ind:
                         tut_counters[morn_tut_ind]['Student']['Virtually'] += 1
                     if noon_tut_ind:
                         tut_counters[noon_tut_ind]['Student']['Virtually'] += 1
                 elif 'In-person' in author_choice:
                     reg_counters['Student']['In-person'] += 1
+                    country_counters[country_choice]['Student']['In-person'] += 1
                     if morn_tut_ind:
                         tut_counters[morn_tut_ind]['Student']['In-person'] += 1
                     if noon_tut_ind:
@@ -107,6 +122,7 @@ def registration_stats(in_csv):
 
                 elif 'Undecided' in author_choice:
                     reg_counters['Student']['Undecided'] += 1
+                    country_counters[country_choice]['Student']['Undecided'] += 1
                     if morn_tut_ind:
                         tut_counters[morn_tut_ind]['Student']['Undecided'] += 1
                     if noon_tut_ind:
@@ -117,6 +133,7 @@ def registration_stats(in_csv):
 
             elif 'Virtual' in ticket_choice:
                 reg_counters['Student']['Virtually'] += 1
+                country_counters[country_choice]['Student']['Virtually'] += 1
                 if morn_tut_ind:
                     tut_counters[morn_tut_ind]['Student']['Virtually'] += 1
                 if noon_tut_ind:
@@ -124,6 +141,7 @@ def registration_stats(in_csv):
 
             elif 'In-person' in ticket_choice:
                 reg_counters['Student']['In-person'] += 1
+                country_counters[country_choice]['Student']['In-person'] += 1
                 if morn_tut_ind:
                     tut_counters[morn_tut_ind]['Student']['In-person'] += 1
                 if noon_tut_ind:
@@ -134,8 +152,12 @@ def registration_stats(in_csv):
         else:
             print('Unknown ticketchoice: {}'.format(ticket_choice))
 
+
+
+    # from IPython import embed
+    # embed()
+
     print('ISMIR Registrations Summary')
-    # print(reg_counters)
     print('Total registered: {} [{}: full, {}: student]'.format(
         reg_counters['Full']['In-person']+reg_counters['Student']['In-person'] + reg_counters['Full']['Virtually']+reg_counters['Student']['Virtually'] + reg_counters['Full']['Undecided']+reg_counters['Student']['Undecided'],
         reg_counters['Full']['In-person']+reg_counters['Full']['Virtually']+reg_counters['Full']['Undecided'],
