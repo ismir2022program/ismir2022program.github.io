@@ -51,7 +51,7 @@ class Lbds:
             if(self.useDummyValues):
                 user_data[row[slack_channel_column]] = ["swapnilgupta.iiith@gmail.com", "sharathadavanne@gmail.com"]
             else:
-                user_data[row[slack_channel_column]] = list(map(str.strip, row[author_emails_column].split(",")))    
+                user_data[row[slack_channel_column]] = list(map(str.strip, str(row[author_emails_column]).split(",")))    
         
         print(user_data)
 
