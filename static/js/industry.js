@@ -90,7 +90,7 @@ const start = () => {
     d3.json('industry.json').then(industry => {
         console.log(industry, "--- industry");
 
-        shuffleArray(industry);
+//        shuffleArray(industry);
         //
         allIndustry = industry;
         calcAllKeysSimple(allIndustry, allKeys);

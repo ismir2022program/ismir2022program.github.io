@@ -114,7 +114,7 @@ export default class SlideContent {
 					// present
 					if( isMobile ) {
 						video.muted = true;
-						video.autoplay = true;
+						video.autoplay = false;
 						video.setAttribute( 'playsinline', '' );
 					}
 
