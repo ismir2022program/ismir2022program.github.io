@@ -257,7 +257,7 @@ def format_paper(v):
             "authors": list_fields["authors"],
             "authors_and_affil": list_fields["authors_and_affil"],
             "keywords": list(set(list_fields["primary_subject"] + list_fields["secondary_subject"])),
-            "abstract": v["abstract"],
+            "abstract": v["abstract"] +'<br><br> <b><p align="center">[Direct link to video]({})</b>'.format(v["video"]),
             "TLDR": v["abstract"],
             "poster_pdf": v.get("poster_pdf", ""),
             "session": list_fields["session"],
