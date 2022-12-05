@@ -692,7 +692,7 @@
     "primary_subject": "MIR fundamentals and methodology -> music signal processing",
     "secondary_subject": "Applications -> performance, and production; Domain knowledge -> machine learning/artificial intelligence for music; MIR tasks -> music synthesis and transformation; MIR tasks -> sound source separation",
     "session": "2",
-    "slack_channel": "p2-09-fabbro",
+    "slack_channel": "p2-09-imort",
     "slides_pdf": "https://drive.google.com/open?id=1RGCm9Y9C5Q-tojlt8g-cJbM2kd7kMytn",
     "thumbnail": "https://drive.google.com/open?id=1Kmlvn7_i2OpBDk_4OQV3D_w0gsUpAY5v",
     "title": "Distortion Audio Effects: Learning How to Recover the Clean Signal",
