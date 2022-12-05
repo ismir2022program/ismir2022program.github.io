@@ -34,5 +34,14 @@
     "jd": "### Ph.D. Intern\n\nAre you happy when your work reaches a large user base? Do you have experience with musical source separation? We invite you to apply for a Ph.D. internship with Moises.AI so we can build future technologies that can help millions of users worldwide.\n\n### Researcher\n\nMoises.AI is looking for a full-time researcher to work with Applied ML to source separation. Do you wanna help millions of users achieve their creative potential? We invite you to apply for a full-time research position at Moises.AI.",
     "title": "Research roles at Moises.AI",
     "uid": "moises"
+  },
+  {
+    "channel_name": "deezer-sponsor",
+    "channel_url": "https://slack.com/app_redirect?channel=C04CCPD09E2",
+    "company": "Deezer ",
+    "external_web_link": "https://www.deezer.com/soon",
+    "jd": "* [Lyrics Alignment](https://smrtr.io/cnzCv)\n* [Source Separation](https://smrtr.io/cmsN-)\n* [Musical Taste Modeling](https://smrtr.io/cnnv5)\n* [Contextual Recommendation](https://smrtr.io/cnndk)",
+    "title": "Deezer Research: Exploring music at scale",
+    "uid": "deezer"
   }
 ]
