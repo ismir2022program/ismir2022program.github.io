@@ -171,7 +171,7 @@ const start = () => {
     d3.json('lbds.json').then(lbds => {
         console.log(lbds, "--- lbds");
 
-        shuffleArray(lbds);
+//        shuffleArray(lbds);
 
         allLBDs = lbds;
         calcAllKeys(allLBDs, allKeys);

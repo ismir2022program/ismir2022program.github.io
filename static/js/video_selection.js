@@ -4,7 +4,7 @@ fetch('https://youtube.com', {mode: 'no-cors'}).then(r=>{
   var embed = $('#yt-id').data()['name'];
   $('#video .video-container').append(`
     <div class="aspect-ratio yt-container">
-      <iframe class="video-stream" src="https://www.youtube.com/embed/${embed}" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="video-stream" src="https://www.youtube.com/embed/${embed}" width="560" height="315" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     `)

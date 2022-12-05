@@ -90,7 +90,7 @@ const start = () => {
     d3.json('jobs.json').then(jobs => {
         console.log(jobs, "--- jobs");
 
-        shuffleArray(jobs);
+//        shuffleArray(jobs);
         allJobs = jobs;
         calcAllKeysSimple(allJobs, allKeys);
         uniqueSessions = [...new Set(allKeys['session'])];

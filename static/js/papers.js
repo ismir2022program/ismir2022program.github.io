@@ -171,7 +171,7 @@ const start = () => {
     d3.json('papers.json').then(papers => {
         console.log(papers, "--- papers");
 
-        shuffleArray(papers);
+//        shuffleArray(papers);
 
         allPapers = papers;
         calcAllKeys(allPapers, allKeys);

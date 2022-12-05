@@ -93,7 +93,7 @@ const start = () => {
     d3.json('music.json').then(music => {
         console.log(music, "--- music");
 
-        shuffleArray(music);
+//        shuffleArray(music);
         //
         allMusic = music;
         calcAllKeysSimple(allMusic, allKeys);
