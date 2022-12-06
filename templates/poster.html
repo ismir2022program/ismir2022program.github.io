@@ -108,14 +108,10 @@
     {% endif %}
   </div>
   <div id="video" class="collapse">
-    <!-- {{ components.section("Video Stream") }} -->
     {% if config.paper_videos %}
       <div  style="display: flex; justify-content: center;">
       <iframe src="{{paper.content.video}}" width="640" height="480" sandbox></iframe>
       </div>
-
-<!--    <div class="video-container mt-3 mb-3">-->
-<!--    </div>-->
     {% endif %}
   </div>
 </div>
