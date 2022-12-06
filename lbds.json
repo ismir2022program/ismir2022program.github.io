@@ -143,7 +143,7 @@
       ],
       "thumbnail_link": "000006.png",
       "title": "EGFxSet: Electric Guitar Tones Processed Through Real Effects of Distortion, Modulation, Delay and Reverb",
-      "youtube_id": "https://drive.google.com/file/d/1XR0nGnwGZmrfEk3BMeBEzLAEI2JirpIc/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1XR0nGnwGZmrfEk3BMeBEzLAEI2JirpIc"
     },
     "forum": "367",
     "id": "367",
@@ -168,7 +168,7 @@
       ],
       "thumbnail_link": "000007.png",
       "title": "Generating Melodies with Controllable Similarity and Length in ABC Notation",
-      "youtube_id": "https://drive.google.com/file/d/1mgtdrkBct6M2gpv37g6M7hOrwe8k66K_/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1mgtdrkBct6M2gpv37g6M7hOrwe8k66K_"
     },
     "forum": "368",
     "id": "368",
@@ -218,7 +218,7 @@
       ],
       "thumbnail_link": "000009.png",
       "title": "Visualizing Chord Recognition Performance",
-      "youtube_id": "https://drive.google.com/file/d/1Cr_3MLyeipNPicyRbyj0O9SmYEr8yE3p/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1Cr_3MLyeipNPicyRbyj0O9SmYEr8yE3p"
     },
     "forum": "370",
     "id": "370",
@@ -316,7 +316,7 @@
       "session": [
         "Virtual"
       ],
-      "thumbnail_link": "",
+      "thumbnail_link": "000014.png",
       "title": "CCVS: A dataset for concert videography research",
       "youtube_id": ""
     },
@@ -368,7 +368,7 @@
       ],
       "thumbnail_link": "000016.png",
       "title": "AudioLoader: a hassle-free Pytorch audio dataset loader",
-      "youtube_id": "https://drive.google.com/file/d/1W0OLDwovWJ3dRiCLQntiTphhgDY2ak7Z/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1W0OLDwovWJ3dRiCLQntiTphhgDY2ak7Z"
     },
     "forum": "377",
     "id": "377",
@@ -443,7 +443,7 @@
       ],
       "thumbnail_link": "000020.png",
       "title": "SSM-NET: Feature Learning for Music Structure Analysis Using a Self-similarity-matrix Based Loss",
-      "youtube_id": "https://drive.google.com/file/d/18hTtiMpRRFuctTg7rdpMhzJbnwP-QI2W/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=18hTtiMpRRFuctTg7rdpMhzJbnwP-QI2W"
     },
     "forum": "381",
     "id": "381",
@@ -451,8 +451,8 @@
   },
   {
     "content": {
-      "TLDR": "The pitch bend is used as a tool in a virtual instrument/synth that allows one to glide smoothly from one note to another. Almost all virtual instruments today employ the pitch bend joystick/wheel on a keyboard to solely manipulate the fundamental frequency or the pitch of the note being played. While this feature allows a perceptually realistic reproduction of slides in a few instruments (especially wind instruments), it largely fails to do so with plucked string instruments, especially non-Western traditional instruments. In this abstract, we chose to study the meend technique in Sitar performance in order to understand in finer detail the factors (including, but not limited to, the fundamental frequency) that characterize the glide between two notes.",
-      "abstract": "The pitch bend is used as a tool in a virtual instrument/synth that allows one to glide smoothly from one note to another. Almost all virtual instruments today employ the pitch bend joystick/wheel on a keyboard to solely manipulate the fundamental frequency or the pitch of the note being played. While this feature allows a perceptually realistic reproduction of slides in a few instruments (especially wind instruments), it largely fails to do so with plucked string instruments, especially non-Western traditional instruments. In this abstract, we chose to study the meend technique in Sitar performance in order to understand in finer detail the factors (including, but not limited to, the fundamental frequency) that characterize the glide between two notes.",
+      "TLDR": "The pitch bend is used as a tool in a virtual instrument/synth that allows one to glide smoothly from one note to another. Almost all virtual instruments today employ the pitch bend joystick/wheel on a keyboard to solely manipulate the fundamental frequency or the pitch of the note being played. While this feature allows a perceptually realistic reproduction of slides in a few instruments, it largely fails to do so with plucked string instruments, especially non-Western traditional instruments. In this abstract, I chose to study the meend technique in Sitar performance in order to understand in finer detail the factors (including, but not limited to, the fundamental frequency) that characterize the glide between two notes.",
+      "abstract": "The pitch bend is used as a tool in a virtual instrument/synth that allows one to glide smoothly from one note to another. Almost all virtual instruments today employ the pitch bend joystick/wheel on a keyboard to solely manipulate the fundamental frequency or the pitch of the note being played. While this feature allows a perceptually realistic reproduction of slides in a few instruments, it largely fails to do so with plucked string instruments, especially non-Western traditional instruments. In this abstract, I chose to study the meend technique in Sitar performance in order to understand in finer detail the factors (including, but not limited to, the fundamental frequency) that characterize the glide between two notes.",
       "authors": [
         "Suhit Chiruthapudi"
       ],
@@ -492,7 +492,7 @@
         "Physical"
       ],
       "thumbnail_link": "000023.png",
-      "title": "Improvisation in Tabla, the Hindustani classical percussion Instrument using Fibre made Daya",
+      "title": "Improvisation of tabla the indian percussion using fibre",
       "youtube_id": ""
     },
     "forum": "384",
@@ -593,7 +593,7 @@
       ],
       "thumbnail_link": "000027.png",
       "title": "Rapidly Predicting Music Artistic Expression Preference From Heart Rate and Respiration Rate",
-      "youtube_id": "https://drive.google.com/file/d/1VcJ_oqtoYZMx3PCR5XSDmPa0uTvN5Qgh/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1VcJ_oqtoYZMx3PCR5XSDmPa0uTvN5Qgh"
     },
     "forum": "388",
     "id": "388",
@@ -618,7 +618,7 @@
       ],
       "thumbnail_link": "000028.png",
       "title": "MuSFA: Improving Music Structural Function Analysis with Partially Labeled Data",
-      "youtube_id": "https://drive.google.com/file/d/1yXHzmaYZ6XuXdu0M78gI_M8Rle8QBVwd/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1yXHzmaYZ6XuXdu0M78gI_M8Rle8QBVwd"
     },
     "forum": "389",
     "id": "389",
@@ -693,7 +693,7 @@
       ],
       "thumbnail_link": "000031.png",
       "title": "Western Music Notation for Java: A library for music notation on the JVM",
-      "youtube_id": "https://drive.google.com/file/d/1MAGhoRVHRuIh6quM1u9FS9OZTd75DV6P/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1MAGhoRVHRuIh6quM1u9FS9OZTd75DV6P"
     },
     "forum": "392",
     "id": "392",
@@ -761,14 +761,14 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04DNJXA466",
       "day": 4,
       "paper_link": "https://archives.ismir.net/ismir2022/latebreaking/000034.pdf",
-      "poster_link": "https://archives.ismir.net/ismir2022/latebreaking_poster/000034.pdf",
+      "poster_link": "",
       "poster_type": "",
       "session": [
         "Virtual"
       ],
       "thumbnail_link": "000034.png",
       "title": "AI-driven, mobile-first web UI for controllable expressive piano performance composition",
-      "youtube_id": "https://drive.google.com/file/d/18g62pFLF9dNsbDZdaU6_VgjZaF2k4h-l/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1MAGhoRVHRuIh6quM1u9FS9OZTd75DV6P"
     },
     "forum": "395",
     "id": "395",
@@ -818,7 +818,7 @@
       ],
       "thumbnail_link": "000036.png",
       "title": "FACETS: A TOOL FOR MANAGEMENT AND NAVIGATION OF SYMBOLIC MUSIC COLLECTIONS",
-      "youtube_id": "https://drive.google.com/file/d/1C1sa4ZgxXEJhfXtH-UDzQA-tULP2tR05/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1C1sa4ZgxXEJhfXtH-UDzQA-tULP2tR05"
     },
     "forum": "397",
     "id": "397",
@@ -843,7 +843,7 @@
       ],
       "thumbnail_link": "000037.png",
       "title": "Melody Slot Machine HD",
-      "youtube_id": "https://drive.google.com/file/d/1bQUmQmXlTIRsceQT3byiA_GM0twiBGdR/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1bQUmQmXlTIRsceQT3byiA_GM0twiBGdR"
     },
     "forum": "398",
     "id": "398",
@@ -868,7 +868,7 @@
       ],
       "thumbnail_link": "000038.png",
       "title": "Assistive alignment of in-the-wild sheet music and performances",
-      "youtube_id": "https://drive.google.com/file/d/1XrFo-uZYL6ptL5HDCh-uR8kxNHdk8hcp/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1XrFo-uZYL6ptL5HDCh-uR8kxNHdk8hcp"
     },
     "forum": "399",
     "id": "399",
@@ -968,7 +968,7 @@
       ],
       "thumbnail_link": "000043.png",
       "title": "SCHMUBERT: A SYMBOLIC CREATIVE HARMONIC MUSIC UNMASKING BIDIRECTIONAL ENCODER REPRESENTATION TRANSFORMER",
-      "youtube_id": "https://drive.google.com/file/d/1eTe4EBMh0xfvZR1Y8P0LKNiDPDZAz6F1/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1eTe4EBMh0xfvZR1Y8P0LKNiDPDZAz6F1"
     },
     "forum": "404",
     "id": "404",
@@ -1068,7 +1068,7 @@
       ],
       "thumbnail_link": "000047.png",
       "title": "A NEW PIANOROLL WITH RELATIVE PITCH APPROACH",
-      "youtube_id": "https://drive.google.com/file/d/1i5-UA-DDvCnMwC5TvtKgxlP2ZDOjY-ii/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1i5-UA-DDvCnMwC5TvtKgxlP2ZDOjY-ii"
     },
     "forum": "408",
     "id": "408",
@@ -1249,14 +1249,14 @@
       "channel_url": "https://slack.com/app_redirect?channel=C04DG1BPJ6A",
       "day": 4,
       "paper_link": "https://archives.ismir.net/ismir2022/latebreaking/000054.pdf",
-      "poster_link": "https://archives.ismir.net/ismir2022/latebreaking_poster/000054.pdf",
+      "poster_link": "",
       "poster_type": "",
       "session": [
         "Virtual"
       ],
       "thumbnail_link": "000054.png",
       "title": "Neural Waveform Synthesis on a Low-Resource Embedded Device",
-      "youtube_id": "https://drive.google.com/file/d/18g62pFLF9dNsbDZdaU6_VgjZaF2k4h-l/preview"
+      "youtube_id": "https://drive.google.com/uc?export=preview&id=1iRdH5yejQoJkAXbKSm-1hbmcUw5EX83h"
     },
     "forum": "415",
     "id": "415",
