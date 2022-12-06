@@ -39,9 +39,12 @@
       <button class="card-link btn btn-outline-primary" data-toggle="collapse" type="button" data-target="#paper">
         Paper
       </button>
+      {% if lbd.content.poster_link %}
       <button class="card-link btn btn-outline-primary" data-toggle="collapse" type="button" data-target="#poster">
         Poster
       </button>
+      {% endif %}
+
       {% if lbd.content.youtube_id or lbd.content.bilibili_id %}
       <button class="card-link btn btn-outline-primary" data-toggle="collapse" type="button" data-target="#video">
         Video
@@ -78,11 +81,9 @@
   </div>
   {% if lbd.content.youtube_id or lbd.content.bilibili_id %}
   <div id="video" class="collapse">
-    <!-- {{ components.section("Video Stream") }} -->
-
     {% if lbd.content.youtube_id %}
-    <div style="padding:56.25% 0 0 0;position:relative;">
-      <iframe src="{{lbd.content.youtube_id}}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen sandbox></iframe>
+    <div  style="display: flex; justify-content: center;">
+      <iframe src="{{lbd.content.youtube_id}}" width="640" height="480" sandbox></iframe>
     </div>
     <br/>
     {% endif %}

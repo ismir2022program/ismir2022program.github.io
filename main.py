@@ -292,7 +292,7 @@ def format_lbd(v):
             "paper_link": v.get("paper_link", ""),
             "poster_type": v.get("poster_type", ""),
             "bilibili_id": v.get("bilibili_id", ""),
-            "youtube_id": v.get("youtube_id", ""),
+            "youtube_id": v.get("youtube_id", "").replace('/file/d/', '/uc?export=preview&id='),
             "channel_name": channel_name,
             "channel_url": channel_url,
             "day": 4,
