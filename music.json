@@ -14,7 +14,7 @@
     "title": "Hindustronic Live",
     "uid": "356",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1QloLco6Ga6cCbTW4Ha6ebaqbKEiIUpDl"
+    "yt_id": "https://drive.google.com/file/d/1dtKe1Au9AhJuxjbN_GnRUgCAFmRAjrpf/preview"
   },
   {
     "abstract": "Conformity #16 is a piece composed by Jason Palamara in conjunction with various AI and machine learning applications and ML-enabled performance filters. The initial musical material was generated using Magenta and AVATAR (developed by Palamara and percussionist Scott Deal). The resulting materials were filtered by a novel performance filter called mml.contourizer (developed by Jason Palamara as part of a forthcoming mml package of objects and devices for Max and Ableton Live), which constrains MIDI pitch data into a finite number of predetermined melodic contours. The ensemble plays a graphic score also generated via mml.contourizer. IUPUI's DISEnsemble premiered this piece in their first in-person concert after the pandemic (Spring 2021), accompanying the autonomously performed piano part via a Yamaha Disklavier. DISEnsemble performs live music mainly on second-hand electronic devices, hacked instruments, and sustainably sourced electronic materials.",
@@ -31,7 +31,7 @@
     "title": "Conformity #16 for autonomous piano and large ensemble",
     "uid": "352",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1fVRixnMOIZwksq1RqX52OBmiPpLjGcsy"
+    "yt_id": "https://drive.google.com/file/d/1qTZM4EWQSbTgVVNNHTIxJOmGrNs3G0L-/preview"
   },
   {
     "abstract": "\"Wings\" is a work for solo clarinet written by world-renowned classical composer Joan Tower in 1986. Our clarinetist and animator, Nikki Pet, approached Joan Tower to augment her work with animation that emphasizes musical nuance through visual media. We sought to take this video animation one step further by transforming it into a live concert experience using our new system for \u201cvisual accompaniment\u201d. \n\nOur visual accompaniment system is based on the Informatics Philharmonic automated accompaniment system created by Chris Raphael (described in detail in a [previous publication](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.847.9305&rep=rep1&type=pdf ) The Informatics Philharmonic works by simultaneously performing 1) online score following, determining solo note onset times as the performance evolves, and 2) future note onset scheduling, or predicting when a soloist will place future notes before they occur. This predictive ability allows the Informatics Philharmonic to stretch an audio accompaniment track so it \u201cmeets\u201d the soloist at its next note onset. Our current work extends this idea from audio accompaniment to \u201cvideo accompaniment\u201d, where a pre-made video is stretched in real time to match a live player. In our current iteration of the software, we modified the existing Informatics Philharmonic application to send out predicted times of future soloist notes as they are calculated. These times are received by a MaxMSP program that controls the video frame playback rate of Nikki Pet\u2019s Wings animation. A test run of Wings recorded by Nikki Pet in her home can be seen [here](https://www.youtube.com/watch?v=y9aq3i6n7vI)",
@@ -44,11 +44,11 @@
     "primary_author": "Kaitlin Pet",
     "release_consent": "",
     "session": "1",
-    "thumbnail_link": "Nikki Pet: https://drive.google.com/file/d/1p5G_x1QZASGlR13t56DxvSYxvPxen6JF\n \n \n Chris Raphael:\n https://drive.google.com/file/d/1865SPZD5Upt2zgT-AmFKPjpJ8s2rUcWl\n \n Kaitlin Pet:\n https://drive.google.com/file/d/1juYTi-hFxn-5eknKHjwWlN42oivq6195",
+    "thumbnail_link": "Nikki Pet: https://drive.google.com/file/d/1p5G_x1QZASGlR13t56DxvSYxvPxen6JF/preview\n \n \n Chris Raphael:\n https://drive.google.com/file/d/1865SPZD5Upt2zgT-AmFKPjpJ8s2rUcWl/preview\n \n Kaitlin Pet:\n https://drive.google.com/file/d/1juYTi-hFxn-5eknKHjwWlN42oivq6195/preview",
     "title": "\"Wings\", for Solo Clarinet and Automated Accompaniment Video Animation",
     "uid": "348",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1_pynLeDU3QxPb9gq5PVqe69EcupNe85S"
+    "yt_id": "https://drive.google.com/file/d/1n1TjZ5JU8vseuTxAb-RWS0hDcCjl8qFt/preview"
   },
   {
     "abstract": "AI Phantasy was composed at the GRIS multichannel studio, the University of Montreal in Quebec, Canada; the sound dome MEIT theater at the Center for Experimental Music and Intermedia, University of North Texas, and my home studio.\n\n\nOne of the main sound-producing mechanisms in the piece is a vacuum cleaner. The airflow travels from the motor through the suction hose and telescopic tube to the end nozzle. The excitation signal is produced by various membranes and other probs vibrating at the end of the suction tube. Then the sound is modulated following the Fab Synthesis paradigm, a sound synthesis practice I used throughout the piece. The idea of generating sound by air suction posed several challenges but also gave me the kind of sounds I imagined for this piece. In addition, I developed a series of circular pan flute kind of sound generators which could rotate electromechanically in variable speeds. In this case, the airflow generator was an air pump compressor. I used a modified airbrush attachment to control airflow and direction. The result sounded as a hyper-pan flute with unique sound possibilities.\n\nIn AI Phantasy, among various sound treatments, I used extensively commercial software utilizing machine learning audio search and classification features such as Accusonus Regroover, Izotope RX, Orchidea, Sononym, among others.\nThe word Phantasy refers to a phantasy with \u201cPh\u201d as a state of mind of an infant child during the early stages of development. Phantasies are constructed from internal and external reality, modified by feelings and emotions, and then projected into both real and imaginary objects. On the other hand, Fantasy (with \u201cF\u201d) is a reverie, a daydream, an imagined unreality that anyone can create. We fantasize consciously about future possibilities and fulfillment of our basic needs and wishes. Fantasies may well include elements of the deeper unconscious phantasies.",
@@ -65,7 +65,7 @@
     "title": "AI Phantasy",
     "uid": "343",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1JlWfuJPhGwxCX0WS5em6_e_RFQvbW7iw"
+    "yt_id": "https://drive.google.com/file/d/1n8K74pp7LfrS6s2pM0tAR1aV6NUcdyNL/preview"
   },
   {
     "abstract": "In Carnatic music, Yati patterns are the decorative features used in different compositional forms. The patterns are named after the shape they seem like. The existing patterns are Mridanga, Damaru, Sama, Gopuccha, Srotovaha and Vishama yatis. In the present composition, a new yati called the Taranga has been introduced.  \n\nPattern examples for Yatis:\nMridanga - 5 6 7 6 5; Damaru- 5 4 3 2 3 4 5; Sama -  4 4 4 4;Gopuccha \u2013 shape of a cow tail \u2013 5 4 3 2 1; Srotovaha \u2013 water stream- 1 2 3 4 5; Vishama \u2013 irregular -  4 6 2 3 1;Taranga \u2013 waves, tides -  4 6 4 6 4 (or) 5 4  5  4  5\n\nComposition structure: This composition is the combination of various yati patterns. \nThe tala chosen is Adi talam, which has 8 beats. Taking four counts on each beat, every cycle counts for 32 matras. The yatis are chosen in such a way that they fit to this 32 tala cycle.The execution of the song begins with singing the notation, to present the yati patterns clearly. The same arrangement will be played on percussion too. The song has:\n\nPallavi: Mridanga and Sama Yatis (4 5 6 5 4 and 2 2  2  2).\nCharanam 1: (4  3  2   4  3 2    4 3 2,   2.5  2.5,   6  7  8   and  3  2  1  2  3)\n3(Gopucha) + Sama +Srotovaha + Damaru\nCharanam 2:   (4 6 4 6 4,   3 1 2 1 1,   5 3 5 3 5,    3 2 1 2 3)\nTaranga + Vishama+Tarnga+ Damaru \n\nKolam is presented with the same number of dots as the calculation in the yati while the song is being sung. It represents the shapes after which the yatis were named. An attempt is made to match these shapes to those of popular musical instruments. Kolam gets executed in the same time duration with the same yati patterns as that of each section of the song. After every section of the composition, there is a percussion solo with the combination of some yatis that perfectly fit to the 32 tala cycle. Names of the yatis are the lyrics of the composition. \nNote: The song is recorded LIVE without any cut, paste or editing. The three performers performed together at the same time.\n \n\n\n",
@@ -82,7 +82,7 @@
     "title": "A song with yati Patterns- Visual representation through Kolam",
     "uid": "349",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1PySgatECNWbs1BGZst51u7UrJ0rGaK0E"
+    "yt_id": "https://drive.google.com/file/d/1Db9vsVHeueUsvx6p8ILATK3hdRS-ZQUu/preview"
   },
   {
     "abstract": "\u201cFantastic AI Sinawi\u201d is a live performance of a haegeum (\ud574\uae08) player with visuals and accompaniment. The music was composed using melodies generated by a GRU-based language model. With the form of \u201csinawi(\uc2dc\ub098\uc704),\u201d one of the most frequently played genres among Korean traditional ensemble music, a human haegeum player performs improvisation along with the accompaniment part based on AI-generated melodies. Through this project, we try to discover the future and means to transform Korean folk music with modern technology.\n\n\nSinawi has two essential features: the musical scale and improvisation. For the scale, sinawi uses \u201cYukjabaegi Tori(\uc721\uc790\ubc30\uae30 \ud1a0\ub9ac).\u201d It is characterized by deep, slow vibrato and the use of specific notes. For improvisation, each instrument player freely plays by imitating or contrasting the melodies.\n\n\nWe collected a sinawi melody dataset for this project, which consists of traditional sinawi and other monophonic folk melodies using the same scale. We also employed a larger monophonic melody dataset to train a base model. By fine-tuning this model with the sinawi melody dataset, we generated melodies in the style of sinawi. The generated melodies are then polished and composed into the form of one sinawi song. The accompaniment part consists of four instruments, gayageum (\uac00\uc57c\uae08), daegeum (\ub300\uae08), janggu (\uc7a5\uad6c), and jing (\uc9d5), pre-rendered by VSTi with rule-based MIDI CC modification.\n\n\u201cFantastic AI Sinawi\u201d consists of two jangdans (\uc7a5\ub2e8), a musical concept of patterned tempo and rhythm in traditional Korean music. The former part of the song is slow going, while the latter part is fast and lively. The visualization focuses on conveying different sensations between two different jangdans, goodgeori (\uad7f\uac70\ub9ac) and jajinmori (\uc790\uc9c4\ubaa8\ub9ac), in the style of Korean folk painting interacting with a live performance.\n",
@@ -99,7 +99,7 @@
     "title": "Fantastic AI Sinawi",
     "uid": "347",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1q8bTM6MokSgCNo6P09CcNYiQkTp1uQXJ"
+    "yt_id": "https://drive.google.com/file/d/1Db9vsVHeueUsvx6p8ILATK3hdRS-ZQUu/preview"
   },
   {
     "abstract": "Kahan Re Aaya Tu (\u0915\u0939\u093e\u0901 \u0930\u0947 \u0906\u092f\u093e \u0924\u0942) is an original composition by two MIR researchers in the Music Technology Group (MTG) at the Universitat Pompeu Fabra (UPF), Barcelona, Jyoti Narang and Thomas Nuttall, under the name Mukti (\u092e\u0941\u0915\u094d\u0924\u093f). Bonding over a mutual interest in Indian art and folk music styles, the two created the composition in after work sessions at the UPF offices in Barcelona. The composition combines elements of north indian folk singing and flamenco rumba guitar, a style native to Spain and particularly popular in the Catalan region, where the MTG is based. The concept for the video intends to capture this sentiment, documenting a day in the life of people living outside of their own culture in Barcelona.",
@@ -116,7 +116,7 @@
     "title": "Mukti - Kahan Re Aaya Tu (\u092e\u0941\u0915\u094d\u0924\u093f - \u0915\u0939\u093e\u0901 \u0930\u0947 \u0906\u092f\u093e \u0924\u0942)",
     "uid": "345",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1KNH2yQMPwMYQ80egBrxs3VL2OWs1EWke"
+    "yt_id": "https://drive.google.com/file/d/1KfmD1GpqbrinYqOQ8-IG_B2GR_ctTj4w/preview"
   },
   {
     "abstract": "This piece was not written by me. I did not write the text. I did not write the music. I did not set the text to the music. The text was written by GPT-J and the music and setting of the text were generated by a Markov chain chained on Gregorian chant.\n\nThis work is an exploration of questions of machine creativity. Can computers be creative? How do we value art differently based on whether it was made by a human or a machine? What is happening when a program creates a piece of music? Ultimately, we have a historical re-reading of chant music through the lens of modern technology: neural networks, Markov chains, and artificial intelligence.",
@@ -133,7 +133,7 @@
     "title": "The Oratory of Saint Philip Neri",
     "uid": "353",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/12tyDgpZdwUdE_BJZ_yetd-1SoJZXVUsQ"
+    "yt_id": "https://drive.google.com/file/d/1zgj37TYblt8kboj7eB4IvDk_id_t0uhh/preview"
   },
   {
     "abstract": "###  BEATBOXING WITH HOMESPUN SOUND BOX:\n#### Author: Ranaprathap Ponnam (High school graduate)\nThis sound box is a best-out-of-waste invention. The outer material is a used water can. Some of the electronics are picked up from damaged devices, while the others were purchased separately. The speaker has a Bluetooth kit, a woofer, subwoofer, tweeter. It is powered with a 12V AC supply, which can also be powered with a battery. The internal PCB board is a two-channel 4440 IC as audio power amplifier board. The IC4440 has a built-in bass, treble and volume controls. The 100k ohm potentiometer is used for the bass control and two 47k ohm potentiometers are used for treble and volume control. The speaker has an aux-in and a 6.3mm jack socket as inputs and are soldered manually to the audio board. The output sources i.e woofer, subwoofer and tweeter are also manually soldered to the audio board. This has been built for personal practice purposes as buying one from the market was not affordable.\n\n### FUTURE IMPROVEMENTS:\n-> We are looking to add reverb and echo controls to our speaker. \n-> We are looking to also add a RCA connector, through which this speaker can be connected to TVs for external audio. \n\n### PERFORMANCE PIECE:\nThe presented piece is a set of different beats that express the diversity of sound the sound box can support. The different genre names have been projected in the video during that particular beat. The artist is self \u2013 taught. This work can belong to the category of Live Ensemble also.\n\n### NOTE:\nThe artist is from a remote background, with a lack of resources. Everything presented in the submission is self \u2013 developed.\n",
@@ -146,11 +146,11 @@
     "primary_author": "Ranaprathap Ponnam",
     "release_consent": "",
     "session": "1",
-    "thumbnail_link": "https://drive.google.com/file/d/1VfZTWJ8QAmKkBUm88e-3ViOdLjmRito8",
+    "thumbnail_link": "https://drive.google.com/file/d/1VfZTWJ8QAmKkBUm88e-3ViOdLjmRito8/preview",
     "title": "Beatboxing with a homespun Sound box",
     "uid": "354",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1WiUNRDYF0utVg2u7jNjItk0OGRnNJJL-"
+    "yt_id": "https://drive.google.com/file/d/1m8EMDfr2lZQy9iLQ0RRXVYypUtcwRqA7/preview"
   },
   {
     "abstract": "Authors:\nViolin: Sreevatsa#\nUkulele & Vocals: Suswara#\n\nDISCLAIMER: #Equal contribution\n\nThe Carnatic raga Sankarabharanam and the major scales of Western music share same note variety. We have considered Cmaj as the base scale. The charanam line (Neerajakshi Nee Pai) from the Varnam \u2018Saami Ninne Kori\u2019 in Sankarabharanam is the reference line and is sung after each song for scale reference. The three modes Mixolydian, Aeolian and Dorian of the major scale are chosen, and parts of the western songs based on these modes are taken up for performance. The modes above correspond to the Carnatic ragas Harikambhoji, Narabhairavi and Kharaharapriya respectively.\n\nIn Carnatic music, the aforementioned ragas are the outcomes of grahabhedam applied on Sankarabharanam notes with Panchama, Dhaivata and Rishabha as graha swara (tonic note) respectively. The main task in this experiment is to present a different version of the chosen songs by converting their notation to Sankarabharanam and applying gamakas of the same to it. This is clearly presented on violin where the gamaka rendition is presented first with Cmaj chords on the Ukulele, followed by the original western song by the vocalist with chords of that mode on the Ukulele.\n\nThe first song in Mixolydian (Harikambhoji) mode, \u2018Sweet child of mine\u2019 is shown in the Sankarabharanam perspective using grahabheda by considering Panchama of Sankarabharanam as the graha swara. The other two songs \u2018Counting Stars\u2019 (Aeolian), and \u2018Boulevard of broken dreams\u2019 (Dorian) are also presented in the same way by considering Dhaivatha and Rishabha of Sankarabharanam as the graha swaras. The corresponding swara of Sankarabharanam is played on the violin, and colors and visual prompts have been used to represent the change in raga and demonstrate the Grahabedha concept. \n\nIt is the play of Gamaka and Grahabheda that blends and differentiates Carnatic and Western styles of music.\n",
@@ -163,11 +163,11 @@
     "primary_author": "Tallapragada Shanmukha Sreevatsa",
     "release_consent": "",
     "session": "1",
-    "thumbnail_link": "https://drive.google.com/file/d/1veyX_oQi5AlabEIkKv-eYQNa1xkWmh_2",
+    "thumbnail_link": "https://drive.google.com/file/d/1veyX_oQi5AlabEIkKv-eYQNa1xkWmh_2/preview",
     "title": "Confluence of Carnatic and Western Music using Grahabedha and Carnatic Gamakas",
     "uid": "350",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1tWMEByj6iIoVpKojfvXnUkh7-SNidoYj"
+    "yt_id": "https://drive.google.com/file/d/1m8EMDfr2lZQy9iLQ0RRXVYypUtcwRqA7/preview"
   },
   {
     "abstract": "Hendrik Vincent Koops\u2019 Recurrent Variations for String Orchestra are a set of variations for String Orchestra, created with generative audio machine learning models. It is based on his submission to ISMIR 2021, where he presented a String Quartet piece for the standard string quartet ensemble of two violins, viola and cello, and consisting of three movements. The Recurrent Variations for String Orchestra are the result of a co-creative process between the composer and generative models, similar to his String Quartet piece. However, in the The Recurrent Variations for String Orchestra, the composer explores the capabilities of the models to generate audio-based variations of the String Quartet. The models used to create this piece were trained on a large dataset of public domain string quartet and orchestral music, and variations were generated by using different parts of the original String Quartet as a seed for the generative models. Model output is automatically filtered and selected based on music feature extraction, and mixed to mimic the sonic qualities of a large string orchestra. The resulting Musique Concrete-like variations reflect the limitations of these models such as capturing musical features like local structure and dependency between voices, and thus knowing how to properly express them. This misinterpretation is reflected in the artwork, which was also co-created with AI, in which a depiction of string players are seen eating their instruments, instead of playing them. This submission presents three variations from the complete set of the Recurrent Variations for String Orchestra.",
@@ -184,7 +184,7 @@
     "title": "Recurrent Variations for String Orchestra",
     "uid": "359",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1Gr4Rq78ZUqOzHTBLe8QgMFsNguCbbNR1"
+    "yt_id": "https://drive.google.com/file/d/12kXIKD6D96mwdo_jTmXKDVWCYVsu75HY/preview"
   },
   {
     "abstract": "\u2018b.io\u2019 is an output of my research into applications of generative machine learning to the practice of free improvisation. This practice-based research is anchored to my longstanding creative practice as an improvising saxophonist, while the presentation style reflects a recent fascination with visualisation of audio using deep learning models. The piece represents the outcome of a process of recording audio datasets, training SampleRNN models of the data, generating and curating samples from them, interacting with them in real-time and finally visualizing the recorded outputs. By making this work I hope to signpost the usefulness and fun of generative machine learning models of raw audio for practitioners of improvised music. ",
@@ -201,7 +201,7 @@
     "title": "\u2018b.io\u2019: an Audio-Visual Miniature for Saxophone and Computer",
     "uid": "346",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/1aTIkzFd2hnMZ7oScEe336gcPq4jKinT-"
+    "yt_id": "https://drive.google.com/file/d/1kQZZUjC3mwvNVCsnNKgdgr_edM9deD8i/preview"
   },
   {
     "abstract": "Bloom is a piece for violoncello and live electronics that explores tension, using the metaphor of a blooming flower as the basis from which the musical material and form are derived. The work begins with a very simple melodic idea using natural harmonics. These harmonics are developed throughout the piece, eventually blurring the line between pitch and noise, meter and aleatory, and acoustic and electronic elements. The electronic element of the piece is realized using live input from the cello only. This relies on specific musical parameters (namely amplitude and frequency) to control how the input is processed. The piece concludes with a quasi-recapitulation of the opening, this time incorporating non-harmonic tones. This is the most mature statement of the original melodic idea in the piece, which signifies completion of the flowering process.",
@@ -214,10 +214,10 @@
     "primary_author": "Austin A Franklin",
     "release_consent": "",
     "session": "1",
-    "thumbnail_link": "https://drive.google.com/file/d/1xxRfZP4JP861KunDsE6ezjhz8oEeBko6",
+    "thumbnail_link": "https://drive.google.com/file/d/1xxRfZP4JP861KunDsE6ezjhz8oEeBko6/preview",
     "title": "Bloom for cello and live electronics",
     "uid": "342",
     "web_link": "",
-    "yt_id": "https://drive.google.com/file/d/17_epz9b5zYfyYUQ-EmJNYm6Wn7WFQm6P"
+    "yt_id": "https://drive.google.com/file/d/1iJb_BCcR2q2jZbwhbXqkts_YKalWv7L2/preview"
   }
 ]

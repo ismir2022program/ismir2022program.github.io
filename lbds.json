@@ -304,7 +304,7 @@
       "TLDR": "We introduce the Classical Concert Video Shot (CCVS) dataset with concert videos of classical music performance and annotations available for the MIR research on concert videography. In this dataset, we annotate the start time, end time, shot class and musical instruments of each shot in the video. Eight classes of video shot and 33 classes of instruments are considered in the annotation. Totally 5,527 shot tags with instruments are then collected from 207 YouTube videos. The total length of the dataset reaches 12.68 hours.",
       "abstract": "We introduce the Classical Concert Video Shot (CCVS) dataset with concert videos of classical music performance and annotations available for the MIR research on concert videography. In this dataset, we annotate the start time, end time, shot class and musical instruments of each shot in the video. Eight classes of video shot and 33 classes of instruments are considered in the annotation. Totally 5,527 shot tags with instruments are then collected from 207 YouTube videos. The total length of the dataset reaches 12.68 hours.",
       "authors": [
-        "Hsin-Min Chou, Ting-Wei Lin, Jen-Chun Lin, Ching Te Chiu, Li Su (Academia Sinica)"
+        "Hsin-Min Chou, Ting-Wei Lin, Jen-Chun Lin, Ching Te Chiu, Li Su"
       ],
       "bilibili_id": "",
       "channel_name": "lv-14-su",
@@ -1104,20 +1104,7 @@
       "TLDR": "The deep learning community has witnessed an exponentially growing interest in self-supervised learning (SSL). However, it still remains unexplored how to build a framework for learning useful representations of raw music waveforms in a self-supervised manner. In this work, we design MAP-Music2Vec, a framework exploring different self-supervised learning algorithmic components and tricks for music audios. Our model achieves comparable results to the state-of-the-art (SOTA) music SSL model Jukebox, despite being significantly lightweight with less than 2% of parameters of the latter. The model will be released on Huggingface.",
       "abstract": "The deep learning community has witnessed an exponentially growing interest in self-supervised learning (SSL). However, it still remains unexplored how to build a framework for learning useful representations of raw music waveforms in a self-supervised manner. In this work, we design MAP-Music2Vec, a framework exploring different self-supervised learning algorithmic components and tricks for music audios. Our model achieves comparable results to the state-of-the-art (SOTA) music SSL model Jukebox, despite being significantly lightweight with less than 2% of parameters of the latter. The model will be released on Huggingface.",
       "authors": [
-        "Li, Yizhi*",
-        " Yuan, Ruibin",
-        " Zhang, Ge",
-        " MA, Yinghao",
-        " Lin, Chenghua",
-        " Chen, Xingran",
-        " Ragni, Anton",
-        " Yin, Hanzhi",
-        " Hu, Zhijie",
-        " He, Haoyu",
-        " Benetos, Emmanouil",
-        " Gyenge, Norbert ",
-        " Liu, Ruibo",
-        " Fu, Jie"
+        "Yizhi Li, Ruibin Yuan, Ge Zhang, Yinghao MA, Chenghua Lin, Xingran Chen, Anton Ragni, Hanzhi Yin, Zhijie Hu, Haoyu He, Emmanouil Benetos, Norbert Gyenge, Ruibo Liu, Jie Fu"
       ],
       "bilibili_id": "",
       "channel_name": "lv-49-li",
@@ -1142,7 +1129,7 @@
       "TLDR": "Over the past few years, deep Artificial Neural Networks (ANNs) have become more popular due to their great success in various tasks.\n However, their improvements made them more capable but less interpretable.\n To overcome this issue, some introspection techniques have been proposed.\n According to the fact that ANNs are inspired by human brains, we adapt techniques from cognitive neuroscience to easier interpret them.\n Our approach first computes characteristic network responses for groups of input examples, for example, relating to a specific error.\n We then use these to compare network responses between different groups.\n To this end, we compute representational similarity and we visualize the activations as topographic activation maps.\n In this work, we present a graphical user interface called CogXAI ANNalyzer to easily apply our techniques to trained ANNs and to interpret their results.\n Further, we demonstrate our tool using an audio ANN for speech recognition.",
       "abstract": "Over the past few years, deep Artificial Neural Networks (ANNs) have become more popular due to their great success in various tasks.\n However, their improvements made them more capable but less interpretable.\n To overcome this issue, some introspection techniques have been proposed.\n According to the fact that ANNs are inspired by human brains, we adapt techniques from cognitive neuroscience to easier interpret them.\n Our approach first computes characteristic network responses for groups of input examples, for example, relating to a specific error.\n We then use these to compare network responses between different groups.\n To this end, we compute representational similarity and we visualize the activations as topographic activation maps.\n In this work, we present a graphical user interface called CogXAI ANNalyzer to easily apply our techniques to trained ANNs and to interpret their results.\n Further, we demonstrate our tool using an audio ANN for speech recognition.",
       "authors": [
-        "Maral Ebrahimzadeh"
+        "Maral Ebrahimzadeh, Valerie Krug, Sebastian Stober"
       ],
       "bilibili_id": "",
       "channel_name": "lv-50-ebrahimzadeh",
@@ -1242,7 +1229,7 @@
       "TLDR": "Recent advances in deep learning-based audio creation are fueling the rise of a new approach to musical sound design: neural synthesis. In this project, an implementation of neural waveform synthesis on a resource-limited embedded development platform is explored using a modified version of Google Magenta\u2019s Differentiable Digital Signal Processing (DDSP) timbre transfer pipeline on an Nvidia Jetson Nano 2GB embedded prototyping board. This work introduces a standalone hardware/software system for running DDSP timbre transfer models offline. It features a physical control interface for audio input and output, and a selection of five neural timbre models to choose from. The streamlined neural synthesis pipeline uses YIN in lieu of CREPE for input audio feature extraction, resulting in a processing latency reduction, but inferior output quality in noisy environments. Qualitative research data indicate that users find the device to be useful, intuitive, and fun to interact with; however, its audio rendering speed remains too slow for many practical use cases. As this project is designed to be readily replicable by end users, the source code, build instructions, and audio examples are all made freely available.",
       "abstract": "Recent advances in deep learning-based audio creation are fueling the rise of a new approach to musical sound design: neural synthesis. In this project, an implementation of neural waveform synthesis on a resource-limited embedded development platform is explored using a modified version of Google Magenta\u2019s Differentiable Digital Signal Processing (DDSP) timbre transfer pipeline on an Nvidia Jetson Nano 2GB embedded prototyping board. This work introduces a standalone hardware/software system for running DDSP timbre transfer models offline. It features a physical control interface for audio input and output, and a selection of five neural timbre models to choose from. The streamlined neural synthesis pipeline uses YIN in lieu of CREPE for input audio feature extraction, resulting in a processing latency reduction, but inferior output quality in noisy environments. Qualitative research data indicate that users find the device to be useful, intuitive, and fun to interact with; however, its audio rendering speed remains too slow for many practical use cases. As this project is designed to be readily replicable by end users, the source code, build instructions, and audio examples are all made freely available.",
       "authors": [
-        "Alexander Tipper (NYU)*"
+        "Alexander Tipper"
       ],
       "bilibili_id": "",
       "channel_name": "lv-54-tipper",
