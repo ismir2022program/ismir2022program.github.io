@@ -179,7 +179,7 @@
       "TLDR": "Training sequence models such as transformers with symbolic music necessitates a representation of music as sequences of atomic elements called tokens. State-of-the-art music tokenizations encode pitch values explicitly, which complicates the ability of a machine learning model to generalize musical knowledge at different keys. We propose tracks for a tokenization encoding pitch intervals rather than pitch values, resulting in transposition invariant representations. The musical expressivity of this new tokenization is evaluated through two MIR classification tasks: composer classification and end of phrase detection.",
       "abstract": "Training sequence models such as transformers with symbolic music necessitates a representation of music as sequences of atomic elements called tokens. State-of-the-art music tokenizations encode pitch values explicitly, which complicates the ability of a machine learning model to generalize musical knowledge at different keys. We propose tracks for a tokenization encoding pitch intervals rather than pitch values, resulting in transposition invariant representations. The musical expressivity of this new tokenization is evaluated through two MIR classification tasks: composer classification and end of phrase detection.",
       "authors": [
-        "Louis Bigo, Mikaela Keller"
+        "Mathieu Kermarec, Louis Bigo, Mikaela Keller"
       ],
       "bilibili_id": "",
       "channel_name": "lv-8-bigo",

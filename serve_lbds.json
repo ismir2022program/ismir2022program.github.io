@@ -137,7 +137,7 @@
     "Unnamed: 16": "reg",
     "abstract": "Training sequence models such as transformers with symbolic music necessitates a representation of music as sequences of atomic elements called tokens. State-of-the-art music tokenizations encode pitch values explicitly, which complicates the ability of a machine learning model to generalize musical knowledge at different keys. We propose tracks for a tokenization encoding pitch intervals rather than pitch values, resulting in transposition invariant representations. The musical expressivity of this new tokenization is evaluated through two MIR classification tasks: composer classification and end of phrase detection.",
     "affiliations": "Universit\u00e9 de Lille | Universit\u00e9 de Lille",
-    "authors": "Louis Bigo, Mikaela Keller",
+    "authors": "Mathieu Kermarec, Louis Bigo, Mikaela Keller",
     "channel_name": "lv-8-bigo",
     "channel_url": "https://slack.com/app_redirect?channel=C04CE7FKVU6",
     "paper_link": "https://archives.ismir.net/ismir2022/latebreaking/000008.pdf",
